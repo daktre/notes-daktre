@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "notes.daktre.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Local folder", "Local", "Templates", "scripts", "_generated"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
