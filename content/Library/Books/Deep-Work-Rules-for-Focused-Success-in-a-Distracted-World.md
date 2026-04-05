@@ -1,0 +1,43 @@
+---
+Title: "Deep Work: Rules for Focused Success in a Distracted World"
+Author:
+  - Cal Newport
+Status: To Read
+Rating: 0
+DateAdded: 2024/12/21
+DateRead:
+Year: 2016
+ISBN13: ="9781455586691"
+Shelves: to-read
+Tags:
+  - Book
+Cover: "[[attachments/Deep-Work-Rules-for-Focused-Success-in-a-Distracted-World.jpg]]"
+created: 2025-10-26T17:28
+updated: 2025-10-26T17:26
+---
+
+![[attachments/Deep-Work-Rules-for-Focused-Success-in-a-Distracted-World.jpg|height=240]]
+
+## Review
+_(no review yet)_
+
+## Reading status
+- Status: To Read
+- My rating: 0 
+- Date started / added: 2024/12/21
+- Date finished: —
+
+## Metadata
+- Author: Cal Newport
+- Year: 2016.0
+- ISBN13: ="9781455586691"
+- Shelves (Goodreads): to-read
+
+---
+Last updated: 2025-12-30 16:01
+
+---
+Last updated: 2025-12-30 16:02
+
+---
+Last updated: 2025-12-30 16:03

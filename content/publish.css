@@ -1,0 +1,35 @@
+/* --- Background colour --- */
+body {
+  background-color: #fef6e4 !important;
+}
+/* --- Bookshelf table layout --- */
+.markdown-preview-view table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  font-size: 0.9rem;
+}
+.markdown-preview-view th,
+.markdown-preview-view td {
+  vertical-align: top;
+  padding: 0.5rem;
+  border-bottom: 1px solid rgba(0,0,0,0.07);
+}
+.markdown-preview-view td:nth-child(1) { width: 110px; }
+.markdown-preview-view table img {
+  display: block;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.12);
+}
+/* --- Star rating --- */
+.markdown-preview-view td:last-child {
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+/* --- Book detail covers --- */
+.markdown-preview-view img[alt="cover"],
+.markdown-preview-view img[ref*="cover"] {
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+  max-height: 260px;
+}

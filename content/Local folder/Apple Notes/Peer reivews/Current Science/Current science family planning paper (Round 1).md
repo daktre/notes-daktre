@@ -1,0 +1,26 @@
+---
+created: 2025-10-26T12:30
+updated: 2018-03-08T15:01
+---
+Thank you for considering me to review this paper. The paper fits well the section “General article” of Current Science, as it speaks to a wider audience outside about the role of family planning in achieving gender equity through empowerment of women. The article summarises the evolution of family planning in India from its early days where implementers chased family planning targets to its more recent phase in seeing family planning within a reproductive rights framework, in line with several international commitments India has made, as well as greater consciousness raising in the country on greater focus on reproductive rights of women. The paper makes use of existing secondary data from nationwide surveys (NFHS) to build a case for strengthening the role of family planning in gender equity, beyond just achieving population stabilisation. 
+
+Major comments
+1. At a few places in the paper, authors seem to indicate that the improvement in health indicators has generally been due to improvements in service delivery or due to improvements in the coverage of maternal and child health servcies. We know that improvements in population health can be quite multifactorial and can come from a wide range of factors related to wider socio-economic and environmental factors as well. Please consider reframing sentences that carry this assumption. See for eg. first line on p.4 (“Improvement in health indicators has been as a consequnce of…”) as well as the first line on p.6 (“Despite significant improvements in service delivery…”). With respect to the latter, also note that the improvements that the authors mention here is rightly in contradiction with the serious quality of care issues that authors themselves indicate later on. The “improvements” are rather in “Coverage” of services rather than in quality, which is worth pointing out. Consider including appropriate citations for this (plenty available). 
+2. On p.4, outo-of-pocket expenditure of Rs. 3198 is mentioned. For what time period is this expense and is it an average for all of India’s population, and for what service?
+3. On p.4, first paragraph, last line, author/s indicate that there have been several home deliveries. My understanding is that the author/s would like to indicate that this is sub-optimal/to be avoided, as they are unsafe (in other contexts in high-income countries, these are indeed desirable). It may be good to expand on the concept of skilled birth attendance at birth, which is the key factor here that makes most home deliveries in India unsafe (while it is a desired outcome elsewhere). 
+4. Related to the matter above on skilled birth attendance is the role of the midwife. Given that the paper seeks to adopt a “woman’s perspective” on family planning as an empowering initiative, it is useful to consider “women-oriented health worker cadres” such as the midwife, that has unfortunately been neglected and marginalised in India, while many countries have nurtured a professional career of midwifes. Authors could consider this, if it fits within their arguments. 
+5. On p.4, second paragraph, last two lines need to be revised. The first of these two lines (“The data on most of the fertility indicators has been improving…”) says that the data is improving. Do the authors mean that the indicators have improved for hte better or the data itself? I presume the former. Pls clarify. The second of these two lines (“While improvements in health indicators are key to women empowerment…”), I would like to highlight a fine point here about indicators. Indicators are only a proxy for a given social phenomenon we are studying. Seen in this manner, it is not the improvements in health indicators that is key to women empowerment, but rather the other way round in my opinion. Also, the idea of chasing indicators, as opposed to chasing the phenomena that the indicators “indicate” is primary, in my opinion. Please review.  
+6. On p7, provide references to assertions on “dismal quality of care for women as part of FPP…”
+7. On p.8, authors point out (and rightly so), the increasing numbers of abortions and mention that these could be averted thorugh better family planning as many such abortion-seekers could be seeking them due to lack of access to family planning in the first place. Is there any data to support such an assertion? While I largely agree to the point the authors make, it may be useful to word this more cautiously (using “could be due to..”) in the lack of supporting data on patterns for abortion-seeking among Indian women. 
+
+Minor/optional/discretionary comments
+1. At several places in the manuscript, author/s use the word “born” instead of “borne”. 
+2. On p.3, the section (and table 1) on health indicators is rather maternal and child health indicators. Consider covering a larger list of indicators if the purpose is to discuss overall public health (as opposed to maternal and child health).
+3. On p.6 after reference number xii, there is an unnecessary semicolon.
+4. Consider supplying references for various factors listed in the paragraph on p.8 starting with “There are several factors that account for this scenario….”
+5. On p.8, “full fill” is one word. Pls review.
+---
+Last updated: 2025-12-30 16:02
+
+---
+Last updated: 2025-12-30 16:03

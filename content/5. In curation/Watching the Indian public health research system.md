@@ -1,0 +1,7 @@
+The Indian Public Health Research System has not been critically analyzed. Perhaps this is because it has only been recently evolving, largely being seen as a clinical research or medical research ecosystem to some extent steered by Indian Council of Medical Research. However, over the last two decades, several new actors, including the National Health Systems Resource Center, as well as several non-governmental funding organizations, development organizations, as well as government/semi-government think tanks such as Niti Aayog and others have made forays into health research. This ideally needs good quality mapping and review in order to identify what problems this health research ecosystem is addressing and what it is not. Other recent entrants include ANRF, the DBT Welcome Trust India Alliance, various non-governmental partners such as Partners, although they are not primarily interested in health research, but also tend to shape the health research ecosystem, and of course WHO and other multilateral organizations.
+
+- Duplication of *gatekeeping* by FCRA & HMSC - implications 
+- Evolution of the FCRA laws and its effect on this eco-system
+- What has been problematised, how and what has not...why not?
+
+Last updated: 2026-02-02 12:40

@@ -1,0 +1,5 @@
+
+1. Changing wider macro-environment that moves us towards individual freedoms & liberties - with all its promise of getting each "citizen" to realise their rights and entitlements - the intersectionality framework - the huge gains in gender and sexuality and such - but the flipside being the diminishign role of community-level phenomena in favour of individual citizens - example of the Adivasi forest rights issues (which CMG frames as "health") and which is invisibilised by moving towards engaging individual citizens in committees etc
+2. The challenge towards institutionalising CE in the lack of multi-level leadership and champions to do so - take the Kar example of local government/decentralisation requireing huge championship within governemnts - has health CE somehow disengaged from wider decentralisation processes (why) - while SOPs and committees and manuals and guidelines are available for JAS/MAS - where is the work culture that engages people here menaingfully - and the wider movement of NGOs much more for CSR  doing projects, PPPs and TAs vs NGOs as conscience-holders for accountability and such
+3. 
+Last updated: 2026-01-15 11:40

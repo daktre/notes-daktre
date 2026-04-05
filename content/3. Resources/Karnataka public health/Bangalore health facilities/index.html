@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>Bengaluru Health Facilities Map – Ownership & Specialty</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    body { margin: 0; font-family: system-ui, sans-serif; }
+    #map { width: 100vw; height: 100vh; }
+    .legend {
+      background: white;
+      padding: 8px 12px;
+      font-size: 12px;
+      line-height: 1.4;
+      border-radius: 4px;
+      box-shadow: 0 0 6px rgba(0,0,0,0.3);
+      max-width: 240px;
+    }
+    .legend-title {
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    .legend-section {
+      margin-bottom: 8px;
+    }
+    .legend-item {
+      display: flex;
+      align-items: center;
+      margin-bottom: 4px;
+    }
+    .swatch {
+      width: 12px;
+      height: 12px;
+      border-radius: 2px;
+      margin-right: 6px;
+      border: 1px solid #444;
+      flex-shrink: 0;
+    }
+    .swatch-outline {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      margin-right: 6px;
+      border: 2px solid #000;
+      background: #fff;
+      box-sizing: border-box;
+      flex-shrink: 0;
+    }
+  </style>
+</head>
+<body>
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/papaparse@5.4.1/papaparse.min.js"></script>
+<script>
+// Color by specialty
+function colorForSpecialty(s) {
+  const spec = (s || '').toLowerCase();
+  if (spec.includes('cardiac')) return '#e53935';
+  if (spec.includes('oncolo') || spec.includes('cancer')) return '#8e24aa';
+  if (spec.includes('neuro')  || spec.includes('spine')) return '#fb8c00';
+  if (spec.includes('trauma') || spec.includes('ortho')) return '#6d4c41';
+  if (spec.includes('eye')    || spec.includes('ophthal') || spec.includes('nethra') || spec.includes('nayana')) return '#1e88e5';
+  if (spec.includes('women')  || spec.includes('child')   || spec.includes('gyn') || spec.includes('obstet') || spec.includes('neonat') || spec.includes('paedi')) return '#00897b';
+  if (spec.includes('renal')  || spec.includes('urol')    || spec.includes('dialysis') || spec.includes('nephro')) return '#3949ab';
+  if (spec.includes('diabet') || spec.includes('endocrin')) return '#d81b60';
+  return '#757575'; // multispecialty / general
+}
+
+// Stroke style by ownership
+function strokeForOwnership(o) {
+  const own = (o || '').toLowerCase();
+  if (own.includes('public')) return '#000000';             // bold black border for public
+  if (own.includes('trust'))  return '#555555';             // grey border for charitable / trust
+  return '#ffffff';                                        // white/low contrast border for private
+}
+
+// Popup builder
+function popupHTML(row) {
+  return `
+    <div style="font-size:13px;line-height:1.4;max-width:260px;">
+      <strong>${row.hospital_name || ''}</strong><br/>
+      <em>${row.specialty || ''}</em><br/><br/>
+
+      <strong>Ownership:</strong> ${row.ownership || 'NA'}<br/>
+      <strong>Beds (approx):</strong> ${row.approx_beds || 'NA'}<br/>
+      <strong>24×7 emergency:</strong> ${row.emergency_24x7 || 'NA'}<br/>
+      <strong>Accreditation:</strong> ${row.accreditation || 'NA'}<br/><br/>
+
+      <strong>Address:</strong> ${row.address || ''}<br/>
+      <strong>District:</strong> ${row.district || ''}<br/>
+    </div>
+  `;
+}
+
+// map init
+const map = L.map('map').setView([12.97, 77.59], 11.5);
+
+// basemap
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 19,
+  attribution: '&copy; OpenStreetMap contributors'
+}).addTo(map);
+
+// load CSV
+Papa.parse('bangalore_health_facilities_mapped.csv', {
+  download: true,
+  header: true,
+  dynamicTyping: true,
+  complete: function(results) {
+    const rows = results.data;
+    rows.forEach(row => {
+      const lat = row.latitude;
+      const lon = row.longitude;
+      if (!lat || !lon) return;
+
+      const fill = colorForSpecialty(row.specialty);
+      const stroke = strokeForOwnership(row.ownership);
+
+      const marker = L.circleMarker([lat, lon], {
+        radius: 5,
+        color: stroke,
+        weight: 2,
+        fillColor: fill,
+        fillOpacity: 0.9
+      })
+        .bindPopup(popupHTML(row))
+        .addTo(map);
+    });
+  }
+});
+
+// legend
+const legend = L.control({ position: 'bottomright' });
+legend.onAdd = function() {
+  const div = L.DomUtil.create('div', 'legend');
+
+  div.innerHTML = `
+    <div class="legend-section">
+      <div class="legend-title">Colour = Specialty</div>
+      <div class="legend-item"><span class="swatch" style="background:#e53935;"></span>Cardiac</div>
+      <div class="legend-item"><span class="swatch" style="background:#8e24aa;"></span>Oncology / Cancer</div>
+      <div class="legend-item"><span class="swatch" style="background:#fb8c00;"></span>Neuro / Spine</div>
+      <div class="legend-item"><span class="swatch" style="background:#6d4c41;"></span>Ortho / Trauma</div>
+      <div class="legend-item"><span class="swatch" style="background:#1e88e5;"></span>Eye / Ophthalmology</div>
+      <div class="legend-item"><span class="swatch" style="background:#00897b;"></span>Women & Child</div>
+      <div class="legend-item"><span class="swatch" style="background:#3949ab;"></span>Renal / Uro</div>
+      <div class="legend-item"><span class="swatch" style="background:#d81b60;"></span>Diabetes / Endocrine</div>
+      <div class="legend-item"><span class="swatch" style="background:#757575;"></span>Multispecialty / General</div>
+    </div>
+    <div class="legend-section">
+      <div class="legend-title">Border = Ownership</div>
+      <div class="legend-item"><span class="swatch" style="background:#000; border:2px solid #000; width:12px; height:12px; border-radius:50%;"></span>Public</div>
+      <div class="legend-item"><span class="swatch" style="background:#555; border:2px solid #555; width:12px; height:12px; border-radius:50%;"></span>Trust / Charitable</div>
+      <div class="legend-item"><span class="swatch" style="background:#fff; border:2px solid #fff; width:12px; height:12px; border-radius:50%; box-shadow:0 0 0 1px #999;"></span>Private</div>
+    </div>
+  `;
+  return div;
+};
+legend.addTo(map);
+</script>
+</body>
+</html>

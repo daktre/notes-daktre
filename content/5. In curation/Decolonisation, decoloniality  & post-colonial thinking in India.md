@@ -1,0 +1,12 @@
+Was in a panel discussion organized by Institute of Tropical Medicine, Antwerp where they had invited Seye Abimbola (can get to know him through [his essays collection here](https://books.openedition.org/irdeditions/60564?lang=en)), a well-known advocate of decolonization in global health and a friend from EV 2010 for a panel on [Decolonising Global Health & Education](https://www.itg.be/en/events/decolonising-global-health-education-a-conversation-with-dr-seye-abimbola). I have followed the decolonization debate with caution, as there are elements I deeply admire, but the multi-layered realities within Indian society and our history with coloniality complicate my understanding.  
+  
+During the panel discussion, I shared my confusions, aiming to represent the perspective of a “postcolonial” Indian researcher in an Indian research institution. This approach differs from perspectives in European, Australian, or American institutions, which appear to have a more binary legacy with respect to decolonization.  
+  
+Meera Nanda's article in the October 2025 edition of *The Caravan*, ["India's Conservative Revolution: Where Postcolonial Left Meets the Hindu Right.](https://caravanmagazine.in/history/postcolonial-left-hindu-right)" comes to mind. I believe the Indian decolonization movement needs careful examination, as it has been largely hijacked to create an Indian/Hindu(?) supremacist ideal, a narrative drawing from a specific upper-caste conception of Hindu identity…and this streak of in-country decolonisation debates of eventually taking a supremacist turn is possibly a "design" sought by the HIC-decolonisation advocates but possibly muddles the picture for post-colonial democracies like ours....
+  
+Of course anotehr thing to note is that the current decolonization literature (in health?), both global and Indian, is still predominantly in English. It has yet to fully engage with rich local language perspectives, such as Kannada/other language(?) writings on decoloniality and postcolonial thought, which have had a longer history and their own evolution since the 1980s and 1990s.  
+  
+- [ ] To do: Indian non-English list of post-colonial writing that may better inform the decolonisation in health discourse?
+
+![[Where the postcolonial Left meets the Hindu Right The Caravan.pdf]]
+Last updated: 2026-02-07 21:18

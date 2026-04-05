@@ -1,0 +1,6 @@
+So there are multiple approaches to bring together the silo based and disciplinary kind of working seen generally in both pure and applied sciences through the conceptualization of interdisciplinary, intersectoral and intersectional kinds of approaches like one health, planetary health, eco health and such. Although the main entry point into this for me has been through zoonotic diseases like rabies, Kyasanur Forest Disease (KFD), [[Snakebite & public health|snakebite]] and such, there is increasing interest in applying these as practice frameworks even within research.
+
+For KFD, there is  bunch of work that we put together into a CABI case-study on the [[ecosystem approach|ecosystem approach for KFD]], this and several other papers on KFD that largely explore the OneHealth approach in practice via the [[Stray notes from IndiaZooRisk+ meeting|IndiaZooRisk+ project]]. Some of this work also features in the [[Panel on One Health and Zoonoses in Vulnerable Communities at TN Khoshoo Memorial Award 2021]]
+
+
+Last updated: 2026-02-08 22:29

@@ -1,0 +1,659 @@
+hospital_name,ownership,specialty,approx_beds,emergency_24x7,accreditation,address,state,district,latitude,longitude
+Abhishek Nethradhama,Private,Eye / Ophthalmology,,0.0,0.0,"Hig 2024, 3Rd 'B' Cross , Near State Bank Of India Yelahanka New Town",Karnataka,Bengaluru Rural,13.1042445,77.5713193
+Adishesha Netralaya,Private,Multispecialty / General,,0.0,0.0,"1St Main,Kangeri Satellite Town",Karnataka,Bengaluru Rural,12.9179181,77.482727
+Gautham Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No-287,4Th Main Road, 2Nd Cross ,Kengeri Satellite Town",Karnataka,Bengaluru Rural,12.9571634,77.5311738
+S.L.N.S.Hospital,Private,Multispecialty / General,,0.0,0.0,Kengeri,Karnataka,Bengaluru Rural,13.2846993,77.6077865
+Sahana Hospital,Private,Multispecialty / General,,0.0,0.0,"143, 2Nd Main, 7Th Cross, Kengeri Satellite Town",Karnataka,Bengaluru Rural,12.9121521,77.537726
+Shreya Hospital,Private,Multispecialty / General,,0.0,0.0,"No 73, 3Rd Main Road, Kengeri Satellite Town, Kengeri",Karnataka,Bengaluru Rural,12.924789,77.5473131
+Smt.Shantha and Sri J.A.Narayanarao Foundation For Medical Sciences,Private,Multispecialty / General,,0.0,0.0,"No.878/879, 1St 'A' Main Road,Kengeri Satellite Town",Karnataka,Bengaluru Rural,13.0069012,77.5603496
+Sri Annapoorneshwari Hospital,Private,Multispecialty / General,,0.0,0.0,80 Ft. Road,Karnataka,Bengaluru Rural,13.2846993,77.6077865
+Bhagwan Mahaveer Jain Hospital,Private,Multispecialty / General,,0.0,0.0,"17, Millers Road, Vasanthnagar",Karnataka,Bengaluru Rural,12.9911307,77.5937662
+Metro Hospital,Private,Multispecialty / General,,0.0,0.0,No. 21/3 Vasanthpur Main Road Konanakunte Cross,Karnataka,Bengaluru Rural,12.8991292,77.5563057
+Rajnandani Hospital - Bangalore,Private,Multispecialty / General,,0.0,0.0,"#3, 6 Th Cross, Old Bank Colony, Konanakunte",Karnataka,Bengaluru Rural,12.8845351,77.5700356
+Recoup Neuromusculoskeletal Rehabilitation Centre,Private,Neuro / Spine,,0.0,0.0,"No 312, 10Th Block, Anjanapura Layout, 80 Feet Road",Karnataka,Bengaluru Rural,12.8629705,77.5750517
+Bhaanu Nursing Home,Private,Multispecialty / General,,0.0,0.0,"69/5B, Hesur Main Road, Bommanahalli, Bangalore",Karnataka,Bengaluru Rural,12.9510077,77.591831
+Blossom Hospital,Private,Multispecialty / General,,0.0,0.0,"Bommanahalli, Hosur Road",Karnataka,Bengaluru Rural,12.9067146,77.6290895
+City Clinic,Private,Multispecialty / General,,0.0,0.0,"Maruthi Nagar, 1St Main, Madiwala",Karnataka,Bengaluru Rural,12.9267539,77.6162491
+Dr Pramod Singhs Clinic and Day Care Centre,Private,Multispecialty / General,,0.0,0.0,"No.43/1(999), Sreelakshmi Venkateswara Nilaya, M.G. Palya Main Road Bommanahalli",Karnataka,Bengaluru Rural,12.9335748,77.607332
+Karanth Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"No 72, 35Th Main 1St Cross 100 Ft Ring Road, Btm Layour, 2Nd Stage Btm Layout",Karnataka,Bengaluru Rural,12.9165757,77.6101163
+Kaveri Nursing Home Pvt. Ltd.,Private,Multispecialty / General,,0.0,0.0,"4/1, 3Rd Cross,Hosur Main Road, Madiwala",Karnataka,Bengaluru Rural,12.9238494,77.6173141
+Kavya Hospital,Private,Multispecialty / General,,0.0,0.0,"No 4/158, Hongasandra Begur Main Road Bdgur Main Road",Karnataka,Bengaluru Rural,12.872581,77.620843
+Kranthi Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"72,35 Th Main ,1St Cross 100 Ft Road",Karnataka,Bengaluru Rural,13.0135067,77.6441557
+Live Hundred Hospital,Private,Multispecialty / General,,0.0,0.0,"104/1, Singasandra Hosur Road",Karnataka,Bengaluru Rural,12.9267346,77.616772
+Mahanth Hospital,Private,Multispecialty / General,,0.0,0.0,"No-8, 1St Cross Ngr Layout Roopera Agrahara",Karnataka,Bengaluru Rural,12.9086378,77.6045368
+Prashanth Hospital-,Private,Multispecialty / General,,0.0,0.0,"No. 90/D, Bommanahalli Circel, Hosurmain Road",Karnataka,Bengaluru Rural,12.9544164,77.585561
+Shri Vinayaka Netralaya,Private,Multispecialty / General,,0.0,0.0,"No. 78, Nagaraj Complex, Hosur Main Road, Madiwala",Karnataka,Bengaluru Rural,12.9236246,77.6184528
+Sree Tirumala Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 1141, Mangammanapalya Main Road, Bommanahalli, Hosur Road",Karnataka,Bengaluru Rural,12.9067292,77.6332912
+Uma Nursing Home,Private,Multispecialty / General,,0.0,0.0,"Mangammanapalya Main Road, Bommanahalli",Karnataka,Bengaluru Rural,12.9063872,77.6296627
+Varalakshmi Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 38/2, 2Nd Main Road, Madiwala New Extension",Karnataka,Bengaluru Rural,12.9157963,77.598176
+Vinayaka Health Care andMaternity Home,Private,Women & Child,,0.0,0.0,"13/29,Prathik Complexhongaasandra, Begur Road",Karnataka,Bengaluru Rural,12.8918999,77.6258402
+Ashwini Surgical Nursing Home,Private,Multispecialty / General,,0.0,0.0,"54/38 Iii Main Road, Vii Block, Jayanagar",Karnataka,Bengaluru Rural,12.9350703,77.5741292
+Deepak Nursing Home,Private,Multispecialty / General,,0.0,0.0,"259, 33 Cross, Kanakapura Main Road, 7 Block, Jayanagar",Karnataka,Bengaluru Rural,12.9262771,77.5773302
+J B S Nursing Home,Private,Multispecialty / General,,0.0,0.0,"27/B, 39Th Cross,8Th Block, Jayanagar",Karnataka,Bengaluru Rural,12.920812,77.587344
+Mayo Hospital,Private,Multispecialty / General,,0.0,0.0,"No-124, Kanakpura Main Road Jayanagar 7Th Block",Karnataka,Bengaluru Rural,12.8908649,77.5961959
+Nethradhama Hospitals Pvt. Ltd,Private,Eye / Ophthalmology,,0.0,0.0,"# 256/14, Kanakapura Main Road, 7Th Block, Jayanagar",Karnataka,Bengaluru Rural,12.925255,77.577359
+Srushti Hospital,Private,Multispecialty / General,,0.0,0.0,"124, Kanakapura Main Road, Jayanagara 7Th Block, Bangalore",Karnataka,Bengaluru Rural,12.8908649,77.5961959
+Yediyur Meternity Hospital,Private,Multispecialty / General,,0.0,0.0,"7Th Main, 4Th Cross, Kanakpura Main Rd, Bangalore North",Karnataka,Bengaluru Rural,12.8905223,77.6033668
+Sapthagiri Hospital,Private,Multispecialty / General,,0.0,0.0,"#15, Chikkasandra, Hesaraghatta Main Road",Karnataka,Bengaluru Rural,13.0730767,77.5030755
+Ashraya Medinova Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"Magadi Main Road, Sunkadakatte",Karnataka,Bengaluru Rural,12.989393,77.506555
+Jai Maruthi Hospital,Private,Multispecialty / General,,0.0,0.0,"208, 210, Hegganahalli Main Road, Near Peenya 2Nd Stage, Hegganahalli",Karnataka,Bengaluru Rural,13.0077333,77.5055679
+Mamta Hospital,Private,Multispecialty / General,,0.0,0.0,"12, D Rajgopal Road, Next To Food World, Nagashettyhalli, Sanjaynagar",Karnataka,Bengaluru Rural,13.0364641,77.5767631
+Vijaya Nethralaya,Private,Eye / Ophthalmology,,0.0,0.0,"No 5, 20Th Cross, Malagala Underpass Ring Road, 2Nd Stage Nagarbhavi",Karnataka,Bengaluru Rural,12.9745975,77.5129877
+Manasa Hospital,Private,Multispecialty / General,,0.0,0.0,"B.H. Road, Gowribidanur",Karnataka,Bengaluru Rural,13.680328,77.6690529
+S.H.Medical Center,Private,Multispecialty / General,,0.0,0.0,"B.H. Road, Gowribidanur",Karnataka,Bengaluru Rural,13.680328,77.6690529
+Doddaballapur Govt Hospital,Public,Multispecialty / General,,0.0,0.0,Doddaballapur Govt Hospital Bangalore Rural,Karnataka,Bengaluru Rural,13.193522,77.501753
+Sri Shirdi Sai Hospital,Private,Multispecialty / General,,0.0,0.0,"Surabhi Complex, Opposite To Canara Bank, B.B.Road, Devanahalli Town",Karnataka,Bengaluru Rural,14.6168636,74.657792
+Ashwini Hospital,Private,Multispecialty / General,,0.0,0.0,T.G. Extn. Hoskote,Karnataka,Bengaluru Rural,13.0730023,77.7966975
+Hoskote Mission and Medical Centre,Trust / Charitable,Multispecialty / General,,0.0,0.0,"J.G.Extn, Haskote",Karnataka,Bengaluru Rural,13.2846993,77.6077865
+Kempanna Nursing Home,Private,Multispecialty / General,,0.0,0.0,"K.R. Road, Hoskote",Karnataka,Bengaluru Rural,13.0730023,77.7966975
+Shreyas Maternity Home,Private,Women & Child,,0.0,0.0,"Swami Vivekananda Nagara, Sulibele Road,Hoskote",Karnataka,Bengaluru Rural,13.0730023,77.7966975
+J.P.Hospital,Private,Multispecialty / General,,0.0,0.0,"45/6 B.H.Road,Nelamangala,Bangalore(Rural)",Karnataka,Bengaluru Rural,13.0256462,77.3846124
+Keerthana Netralaya,Private,Multispecialty / General,,0.0,0.0,No 2 B G Road Nelamangala,Karnataka,Bengaluru Rural,13.0313407,77.5132474
+Kumar Nursing Home,Private,Multispecialty / General,,0.0,0.0,"Near Hemavathi Kalyana Mantap, Mysore Road , Channarayapatna",Karnataka,Bengaluru Rural,12.9000208,76.3898637
+Accident Relife Care,Private,Ortho / Trauma,,0.0,0.0,"40/12, Kumara Krupa Road, Kumara Park East",Karnataka,Bengaluru Urban,12.9922015,77.5821803
+Al-Ameen Hospital,Private,Multispecialty / General,,0.0,0.0,"Cunnigham Road, 2Nd Cross No:3",Karnataka,Bengaluru Urban,12.991414,77.5925026
+Avian Medicare and Research Centre,Private,Multispecialty / General,,0.0,0.0,"Lmc 1210 &1211 ,1St Main, 1St Stage, 3Rd Block Hbr Layout",Karnataka,Bengaluru Urban,13.0377347,77.6288279
+Bangalore Assisted Conception Center Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"No. 6/7, Kumara Krupa",Karnataka,Bengaluru Urban,12.9404645,77.5450365
+Bowring and Lady Curzon Hospitals,Private,Multispecialty / General,,0.0,0.0,,Karnataka,Bengaluru Urban,12.9813349,77.6062649
+Cloudnine Hospital Pvt. Ltd.,Private,Multispecialty / General,,0.0,0.0,"#115,Kodihalli,Old Airport Road",Karnataka,Bengaluru Urban,12.9612248,77.6373439
+Deepika Health Care,Private,Multispecialty / General,,0.0,0.0,"No 37,Shivalingaiah Colony",Karnataka,Bengaluru Urban,12.9648804,77.6568339
+Dr. Arvind Shenoi,Private,Multispecialty / General,,0.0,0.0,"1 Main Road, Sheshadripuram",Karnataka,Bengaluru Urban,12.9912435,77.5791338
+Little Flower Hospital Pvt. Ltd,Private,Multispecialty / General,,0.0,0.0,"Opposite Bus Stand, Ramamuthy Nagar",Karnataka,Bengaluru Urban,11.4610891,78.1928228
+Popular Nur,Private,Multispecialty / General,,0.0,0.0,263 Jain Temple Street Shivaji Nagar,Karnataka,Bengaluru Urban,19.1645467,72.944227
+Suprabha Medical Center,Private,Multispecialty / General,,0.0,0.0,"No-170, 12Th Cross, 1St Main Mahalakshmi Layout",Karnataka,Bengaluru Urban,12.9508982,77.5994652
+Syamala Hospital,Private,Multispecialty / General,,0.0,0.0,"17/4, Cambridge Road, Ulsoor",Karnataka,Bengaluru Urban,12.9713407,77.6277165
+Timmaya Road Meternity Hospital,Private,Multispecialty / General,,0.0,0.0,"Bharathi Nagar, Timmayya Rd",Karnataka,Bengaluru Urban,12.9897155,77.6107786
+V.M. Laxmi,Private,Multispecialty / General,,0.0,0.0,"22. 21St Bks Ii Stage, Banglore",Karnataka,Bengaluru Urban,12.9255128,77.564405
+Vagh Eye Centre,Private,Eye / Ophthalmology,,0.0,0.0,"73/1-2, Ist Floor, Infantry Road",Karnataka,Bengaluru Urban,12.9852083,77.6022212
+Vijaya Nursing Home,Private,Multispecialty / General,,0.0,0.0,Anekal,Karnataka,Bengaluru Urban,12.7188069,77.7018795
+Bangalore West Lions Eye Hospital and Cornea Grafting,Private,Eye / Ophthalmology,,0.0,0.0,"No-5 Lions Eye Hospital Road, Off J C Road",Karnataka,Bengaluru Urban,23.7509604,90.4400338
+Dasappa Meternity Hospital,Private,Multispecialty / General,,0.0,0.0,"Near Town Hall, Sjp Rd, South",Karnataka,Bengaluru Urban,12.96361,77.5850308
+Institute Of Nephro Urology,Private,Renal / Uro,,0.0,0.0,Victoria Hospital Campus,Karnataka,Bengaluru Urban,18.961019,72.8359607
+Nu Hospital,Private,Multispecialty / General,,0.0,0.0,"Ca-6,15Th Main,11Th Cross",Karnataka,Bengaluru Urban,12.917938,77.555796
+Parvati Eye Care Center,Private,Eye / Ophthalmology,,0.0,0.0,"Pujari Building, K.C. Road Chikodi",Karnataka,Bengaluru Urban,16.4291905,74.5878546
+Sri Rama Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No. 34, Sanjeevappa Lane, Cubbon Pet",Karnataka,Bengaluru Urban,12.9709924,77.5807246
+Vani Vilas Hospital,Private,Multispecialty / General,,0.0,0.0,"Administrative Block, K.R.Market",Karnataka,Bengaluru Urban,23.8131377,90.3985468
+Avhieta Hospital and Health Care,Private,Multispecialty / General,,0.0,0.0,"No. 280/1, Byrathi Cross, Hennur Bagalur Main Road",Karnataka,Bengaluru Urban,13.0444016,77.6374893
+Bilva Hospital,Private,Multispecialty / General,,0.0,0.0,"No.21,22,2Nd Main Road, Palace Guttahalli",Karnataka,Bengaluru Urban,12.998271,77.5786083
+Columbia Asia Referral Hospital,Private,Multispecialty / General,,0.0,0.0,"# 26/1,Dr. Rajkumar Road,Malleswaram",Karnataka,Bengaluru Urban,12.9890161,77.5591649
+Dr. B. Venkatasubbarao Memorial Hospital,Private,Multispecialty / General,,0.0,0.0,"53, 7Th Cross , 4Th Main Road, Malleswaram",Karnataka,Bengaluru Urban,13.0222313,77.5458444
+Gift Fertility Centre,Private,Women & Child,,0.0,0.0,"No. 4, 2Nd Floor, 3Rd Plaza, Hal,2Nd Stage,100 Feet, Road, Indranagar",Karnataka,Bengaluru Urban,12.9672543,77.6402949
+Indira Eye Clinic,Private,Eye / Ophthalmology,,0.0,0.0,25/1 Prajna 7Nth Main 9Th Cross Malleswaram,Karnataka,Bengaluru Urban,13.0000884,77.5670569
+Jupiter Hospital And Institute Of Vascular Surgery,Private,Multispecialty / General,,0.0,0.0,"28, 7Th Main 9Th Cross, Malleshwaram",Karnataka,Bengaluru Urban,12.9996981,77.5662847
+K C General Hospital,Public,Multispecialty / General,,0.0,0.0,Malleswaran,Karnataka,Bengaluru Urban,12.9270695,77.5923719
+Leela Hospital and Diagnostic Center,Private,Multispecialty / General,,0.0,0.0,"# 133, Margosa Road,10Th Cross, Malleshwaram",Karnataka,Bengaluru Urban,13.0009978,77.5715523
+Malleswaram Eye Day Care Hospital - Bengalore,Private,Eye / Ophthalmology,,0.0,0.0,24/1 5Th Cross Malleswaram,Karnataka,Bengaluru Urban,13.0013627,77.5742402
+Manipal Northside Hospital,Public,Multispecialty / General,,0.0,0.0,"71, 11Th Main Road, Opposite Malleshwaram Railway Station, Malleshwaram",Karnataka,Bengaluru Urban,13.0030624,77.5642928
+Narayana Super Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 24, 9Th Cross Margosa Road , Malleshwaram",Karnataka,Bengaluru Urban,13.0009245,77.5756987
+Shaker Nursing Home,Private,Multispecialty / General,,0.0,0.0,"260, Sampinge Road Near 17Th Cross Malleshwaram",Karnataka,Bengaluru Urban,13.0071731,77.5707558
+Sri Ram Netralaya and Surgical Entre,Private,Multispecialty / General,,0.0,0.0,"2 1St Floor, Kr Purav",Karnataka,Bengaluru Urban,13.0040167,77.6877765
+Sukruthi Eye Care Microsurgical Centre,Private,Eye / Ophthalmology,,0.0,0.0,"148, Vyalikval Malleswaram Xi Cross Malleshwaram",Karnataka,Bengaluru Urban,13.0030624,77.5642928
+Vijaya Ent Care Centre,Private,Multispecialty / General,,0.0,0.0,"No.1, 9Th Cross, Malleshwaram",Karnataka,Bengaluru Urban,12.9999879,77.5680956
+B.M.S. Nursing Home,Private,Multispecialty / General,,0.0,0.0,"88/3, K.R.Road,Basavanagudi",Karnataka,Bengaluru Urban,12.9324008,77.5735369
+Bharathi Nursing Home,Private,Multispecialty / General,,0.0,0.0,"#42/77, South End Road, Basavanagudi",Karnataka,Bengaluru Urban,12.9368894,77.5742909
+Geetha Nursing Home,Private,Multispecialty / General,,0.0,0.0,"Vani Vilas Road, Basavanagudi",Karnataka,Bengaluru Urban,12.9486453,77.5743261
+Gunasheela Surgical and Maternity Hospital,Private,Women & Child,,0.0,0.0,"1,Dewan N, Madhava Rao Road, Basavanagudi",Karnataka,Bengaluru Urban,12.940241,77.576438
+Kims Hospital and Research Centre,Private,Multispecialty / General,,0.0,0.0,"K. R. Road, V. V. Puram",Karnataka,Bengaluru Urban,13.0733021,77.7867803
+Medikeri's Super Speciality Ent Centre,Private,Multispecialty / General,,0.0,0.0,"9/91,Govindappa Road Cross,R.V.Road",Karnataka,Bengaluru Urban,12.9466558,77.5752895
+Popular Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 16, 3Rd Cross, Shankarpuram",Karnataka,Bengaluru Urban,13.063199,80.2235291
+"R.R,OrthopedicandSurgical Centre",Private,Ortho / Trauma,,0.0,0.0,"21/1,2Nd Cross Shankara Puram",Karnataka,Bengaluru Urban,13.0001603,77.5411082
+Rama Krishna Nursing Home,Private,Multispecialty / General,,0.0,0.0,"806 / 1, 15Th Cross, 3Rd Block Jayanagar",Karnataka,Bengaluru Urban,12.9227076,77.5749764
+Rangadore Memorial Hospital,Private,Multispecialty / General,,0.0,0.0,"1St Cross, Shankarapuram, Basavanagudi",Karnataka,Bengaluru Urban,12.9421166,77.5753609
+Sharada Dhanvantari Haemodialysis Centre,Private,Renal / Uro,,0.0,0.0,"1St Cross, Shankarapuram",Karnataka,Bengaluru Urban,13.0632319,80.221594
+The Bangalore Hospital,Private,Multispecialty / General,,0.0,0.0,"202, Rashtriya Vidyalaya Road",Karnataka,Bengaluru Urban,12.937683,77.580401
+Trinity Hospital And Heart Foundation,Private,Cardiac,,0.0,0.0,"No 27, See Rama Mandir Road, Near R.V. Teacher College Circle Between Lalbgh West And South End Circle, Basavanagudi",Karnataka,Bengaluru Urban,12.9421166,77.5753609
+Vijaya Eye Clinic and Research Center,Private,Eye / Ophthalmology,,0.0,0.0,"No. 93 / 1, Vanivilas Road, Basavangudi",Karnataka,Bengaluru Urban,12.948411,77.5720259
+Cantonment Poly Clinic And Nursing Home,Private,Multispecialty / General,,0.0,0.0,64 Spencer Road Near Coles Park Frazer Town,Karnataka,Bengaluru Urban,12.9959689,77.6124149
+Chitra Clinic And Nursing Home,Private,Multispecialty / General,,0.0,0.0,"Campbell Road, Cox Town",Karnataka,Bengaluru Urban,12.9950808,77.6250965
+Coxtown Meternity Hospital,Private,Multispecialty / General,,0.0,0.0,"Near Frazer Town Police Station, Coxtown",Karnataka,Bengaluru Urban,12.9994421,77.6197371
+Dr. Thomas`S Cantoment Poly Clinic andNursing Home,Private,Multispecialty / General,,0.0,0.0,"No.64, Spencer Road, Near Coles Park, Frazer Town",Karnataka,Bengaluru Urban,12.9959689,77.6124149
+"Dr.Agarwal Eye Hospital, Frazer Town, Bangalore",Private,Eye / Ophthalmology,,0.0,0.0,"No.33, Coles Road,Frazer Town",Karnataka,Bengaluru Urban,12.9950476,77.6147422
+Eye Care Centre,Private,Eye / Ophthalmology,,0.0,0.0,No 45 St. John S Charch Roadcleveland Town,Karnataka,Bengaluru Urban,12.9925861,77.6098673
+Seventh Day Adventist Medical Centre,Private,Multispecialty / General,,0.0,0.0,"No. 8, Spencer Road, Trazer Town",Karnataka,Bengaluru Urban,12.9962315,77.6099173
+Punya Hosptal,Private,Multispecialty / General,,0.0,0.0,"91 ,Pipeline Rode, J C Nagar.Kurubarahalli Circle",Karnataka,Bengaluru Urban,13.000459,77.5369296
+Belle Vues Cambridge Hospital,Private,Multispecialty / General,,0.0,0.0,"No 18/17, Cambridge Road,Ulsoor",Karnataka,Bengaluru Urban,12.9712602,77.6275877
+G. G. Hospital,Private,Multispecialty / General,,0.0,0.0,"369, 100 Feet Road, H.A.L. Ii Stage, Indiranagar",Karnataka,Bengaluru Urban,12.973007,77.641386
+Joseph Clinic,Private,Multispecialty / General,,0.0,0.0,"10,12 Th Cross, Lakshmipuram",Karnataka,Bengaluru Urban,12.9955442,80.2514885
+Sadhana Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"No. 114, 5Th Cross, Sai Baba Temple Road, Cambridge Layout, Ulsoor",Karnataka,Bengaluru Urban,12.9817147,77.6285585
+Sakthi Nursing Home,Private,Multispecialty / General,,0.0,0.0,Muneswamappa Layout Ulsoor,Karnataka,Bengaluru Urban,12.9751602,77.6797392
+Ulsoor Referal Hospital,Private,Multispecialty / General,,0.0,0.0,"Kembridge Rd, Near Police Station",Karnataka,Bengaluru Urban,13.0386513,77.5918245
+"Vagus Super Speciality Hospital Pvt. Ltd.,",Private,Multispecialty / General,,0.0,0.0,"No.6,7 & 8, 4Th Main Road,18Th Cross,Malleshwaram",Karnataka,Bengaluru Urban,13.008767,77.5657871
+Bangalore Medical Centre,Private,Multispecialty / General,,0.0,0.0,"30 1St Main Road, Gandhinagar",Karnataka,Bengaluru Urban,12.9752996,77.5789317
+Kavitha Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 93, 4Th Main Road, Sunkadakatte Magadi Main Road",Karnataka,Bengaluru Urban,12.9786112,77.5471409
+Citi Hospital,Private,Multispecialty / General,,0.0,0.0,"25/91, Chord Road, Iind Block, Rajajinagar",Karnataka,Bengaluru Urban,12.974333,77.542641
+Curls and Curves Hair Transplantation and Cosmetic Sur,Private,Multispecialty / General,,0.0,0.0,"49, 1St Floor, West Of Cord Road, 1St Stage, 6Th Phase,Mahaganapathi Nagar, Rajaji Nagar",Karnataka,Bengaluru Urban,12.991497,77.5508432
+Jinka Nursing Home,Private,Multispecialty / General,,0.0,0.0,25 27 60Th Cross 5Th Block Near Bashyam Circle Rajajinagar,Karnataka,Bengaluru Urban,12.98471,77.5508027
+Karnataka Medical Centre,Private,Multispecialty / General,,0.0,0.0,"#27,60 Cross, 5 Th Block, Rajaiji Nagar, Near Bashyam Circle",Karnataka,Bengaluru Urban,12.9656111,77.5663488
+Kumar Nethralaya,Private,Eye / Ophthalmology,,0.0,0.0,"No 562, 3Rd Main Second Block, Rajajinagar",Karnataka,Bengaluru Urban,12.9678728,77.5234315
+Narayana Nethralaya,Private,Eye / Ophthalmology,,0.0,0.0,"#121/C, Chord Rd, 1St R Block, Rajajinagar, , B.N",Karnataka,Bengaluru Urban,13.011531,77.552046
+Rajajinagar Meternity Home,Private,Multispecialty / General,,0.0,0.0,"Rajajinagar, 5Th Block, Basham Circle",Karnataka,Bengaluru Urban,12.9837854,77.554113
+Ratkal Speciality Clinic,Private,Multispecialty / General,,0.0,0.0,"No.6, 3Rd Cross,1 , R- Block, Rajajinagar",Karnataka,Bengaluru Urban,13.0066193,77.5491304
+Sidvin Hospital Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"1031, 20Th Main Road, 5Th Block, Rajajinagar",Karnataka,Bengaluru Urban,12.9391366,77.6192738
+Spandana Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No. 546/46, 6Th Main, 4Th Block, Rajajinagar",Karnataka,Bengaluru Urban,12.986458,77.5581473
+Sreerampura Referal Hospital,Private,Multispecialty / General,,0.0,0.0,"Bhashyam Circle,Rajajinagar 5Th Block",Karnataka,Bengaluru Urban,12.9843,77.554258
+Sri Dhavantari Ayurveda Hoapital,Private,Multispecialty / General,,0.0,0.0,"1033,4 Th Block Dr Rajdumar Road",Karnataka,Bengaluru Urban,12.98622,77.559833
+St. Theresa's Hospital,Private,Multispecialty / General,,0.0,0.0,"#1, Dr. Rajkumar Road, I Block,Rajajinagar,Near Vivekananda College",Karnataka,Bengaluru Urban,13.0091495,77.5550075
+Suguna Hospital,Private,Multispecialty / General,,0.0,0.0,"1A/87, Dr Rajkumar Road 4Th Block, Rajajinagar",Karnataka,Bengaluru Urban,12.988003,77.5596952
+Suresh Hospital - Bangalore,Private,Multispecialty / General,,0.0,0.0,"723 / B Main E S I Hospital Raod, 3Rd Block, Rajajinagar",Karnataka,Bengaluru Urban,12.9900215,77.5532345
+Varalakshmi Nursing and Maternity Home,Private,Women & Child,,0.0,0.0,"Mahakavi Kuvempu Road,2Nd Stage Rajajinagar",Karnataka,Bengaluru Urban,12.9981905,77.5533462
+Cdr Medical Center,Private,Multispecialty / General,,0.0,0.0,"No. 531, 11 Th Main , 4Th Blk, Jayanagar",Karnataka,Bengaluru Urban,12.9203433,77.5513148
+Cloud Nine Kida Clinic Pvt (Bangalore) Ltd,Private,Multispecialty / General,,0.0,0.0,"1533, 9Th Main, 3Rd Block, Jayanagar",Karnataka,Bengaluru Urban,12.933863,77.584263
+Drs 7 Maiya Multispeciality Hospital,Private,Multispecialty / General,,0.0,0.0,"34, 10Th Main Road, 1St Block, Jayanagar",Karnataka,Bengaluru Urban,12.9396233,77.5866713
+Fracture Of Tibial Spine Orthopaedic Clinic,Private,Neuro / Spine,,0.0,0.0,"295, 10Th Main, 22Nd Cross, Sri Krishna Complex, 3Rd Block Jayanagar",Karnataka,Bengaluru Urban,12.9329463,77.5838692
+Garden City Hospital,Private,Multispecialty / General,,0.0,0.0,"132/18, 22Nd Cross 3Rd Block Jayanagar",Karnataka,Bengaluru Urban,12.933219,77.5815604
+Lalbagh Ivf Centre,Private,Women & Child,,0.0,0.0,"#356/1, 1St Cross, 1St Block, Jayanagar, Near Ashoka Pillar",Karnataka,Bengaluru Urban,12.9454597,77.5863846
+Mahabodhi Mallige Hospital,Private,Multispecialty / General,,0.0,0.0,"T. Mariapp Road , Ist Block, Jayanagar",Karnataka,Bengaluru Urban,12.9401097,77.5851331
+Maiya Multispecialty Hospital,Private,Multispecialty / General,,0.0,0.0,"34, 10Th Main 1St Block, Jayanagar",Karnataka,Bengaluru Urban,12.9396233,77.5866713
+Manasa Medical Centre (P) Ltd,Private,Multispecialty / General,,0.0,0.0,"125, 10Th Main, 1St Block, Jayanagar",Karnataka,Bengaluru Urban,12.939789,77.58545
+N.R.Amar Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No.276Th A Cross, 1St Mainroad, Someshwar Nagar 1St Block,Jayanagar",Karnataka,Bengaluru Urban,12.9313475,77.5932269
+Prabha Eye Clinic and Research Center,Private,Eye / Ophthalmology,,0.0,0.0,"604 40Th Cross 8Th Block , Jayanagar",Karnataka,Bengaluru Urban,12.9200121,77.5748334
+Ragavs Diagnostic and Research Centre Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,Sadguru Complex No 14 27Th Cross 4Th Block West Jayanagar,Karnataka,Bengaluru Urban,12.9250074,77.5938028
+"Rajlakshmi Polyclinic and Nursing Home,",Private,Multispecialty / General,,0.0,0.0,"726 46Th Cross 8Th Block , Jayanagar",Karnataka,Bengaluru Urban,12.916439,77.5824518
+Ramkrishna Nursing Home,Private,Multispecialty / General,,0.0,0.0,"806/1, 15Th Cross 3Rd Block Jayanagar",Karnataka,Bengaluru Urban,12.9227076,77.5749764
+Shanthi Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No.679, 11Th Main Rd, 36Th Cross 4Th Block Jayanagar",Karnataka,Bengaluru Urban,12.9230149,77.5867675
+The Cradle,Private,Multispecialty / General,,0.0,0.0,"#1533,9Th Main 3Rd Block, Jayanagar",Karnataka,Bengaluru Urban,12.933863,77.584263
+Vasan Eye Care Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"No 28&29, 7Th Main Diagnal Road, Jayanagar 4Th Blook",Karnataka,Bengaluru Urban,12.9290883,77.5819886
+Venkatagiri Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No.24 1St Block East,Byrasandra Main Road, Nr.Madhavan Park",Karnataka,Bengaluru Urban,12.9346537,77.5875584
+Venkateshwara Eye Clinic,Private,Eye / Ophthalmology,,0.0,0.0,"No.158, 6Th A Cross, Jayanagar, 1St Block",Karnataka,Bengaluru Urban,12.9786865,77.558801
+Siddartha Hospital and Diagostics,Private,Multispecialty / General,,0.0,0.0,"15-Pipeline Main Road, Mes Road, Jalahalli",Karnataka,Bengaluru Urban,13.0459145,77.5221593
+Ashwini Nursing Home,Private,Multispecialty / General,,0.0,0.0,"#382, Narayanappa Buildings,Below Uco Bank, Ramamurthy Nagar",Karnataka,Bengaluru Urban,13.0184435,77.6781215
+Sri Balaji Polyclinic and Diagnostic Centr,Private,Multispecialty / General,,0.0,0.0,"Shanthi Layout Main Road, Ramamurthy Nagar",Karnataka,Bengaluru Urban,13.017604,77.6836792
+Sri Sai Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"#311, 4B Cross, R.M. Nagar Main Road, Kasthuri Nagar",Karnataka,Bengaluru Urban,13.0153803,77.677642
+Vijai Hospital - Bangalore,Private,Multispecialty / General,,0.0,0.0,"1St Main Road 2Nd Cross Pai Lay Out, Old Madras Road",Karnataka,Bengaluru Urban,12.9709184,77.6318371
+Hal Hospital,Private,Multispecialty / General,,0.0,0.0,"Vimanpura Post,  Complex,",Karnataka,Bengaluru Urban,12.9643314,77.6716809
+Manipal Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 98, Rusthom Bhag, Airport Road",Karnataka,Bengaluru Urban,43.9932901,-107.9492606
+Nova Medical Centres Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"222/14, 5Th Main, Bellary Road, Bellary Road",Karnataka,Bengaluru Urban,13.0365214,77.591099
+Shree Anugraha Hospital,Private,Multispecialty / General,,0.0,0.0,"Annasandra Palya Main Road, Hal Post",Karnataka,Bengaluru Urban,12.9621596,77.6723254
+Amar Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No.9, 6Th Cross, 5Th Main, Chamarapet",Karnataka,Bengaluru Urban,12.9561171,77.5558117
+Brindavan Nursing Home,Private,Multispecialty / General,,0.0,0.0,No 17 4Th Mein Road Chamarajpet,Karnataka,Bengaluru Urban,12.9578825,77.5690132
+Jubilee Nursing Home,Private,Multispecialty / General,,0.0,0.0,"248,4 Th Main Road Chamarajpet",Karnataka,Bengaluru Urban,12.9581124,77.5712995
+Nethrakashi Eye Hospital And Micro Surgical Centre,Private,Eye / Ophthalmology,,0.0,0.0,"No 122, Ii Main Road 9Th Cross Chamarape",Karnataka,Bengaluru Urban,12.9323546,77.5642029
+Retina Institute Of Karnataka,Private,Multispecialty / General,,0.0,0.0,"No. 122, 5Th Main Road,Chamarajapet",Karnataka,Bengaluru Urban,12.9567051,77.5626974
+Shree Nandi Hospital,Private,Multispecialty / General,,0.0,0.0,"7, 2Nd Main Road, Chamarajpet",Karnataka,Bengaluru Urban,12.9594417,77.5678213
+Sirasi Road Meternity Home,Private,Multispecialty / General,,0.0,0.0,"Mysore Rd Circle,Chamarajpet",Karnataka,Bengaluru Urban,12.952309,77.5779576
+St. Marys Hospital,Private,Multispecialty / General,,0.0,0.0,Chamarajapet,Karnataka,Bengaluru Urban,-33.7659967,150.7741332
+The Venlakh Hospital,Private,Multispecialty / General,,0.0,0.0,"123, 5Th Main Road, Chamarajpet",Karnataka,Bengaluru Urban,12.9571328,77.5643107
+B.S. Narayan Memorial Hospital,Private,Multispecialty / General,,0.0,0.0,"618, Sri Mallikarjuna Swamy Temple St, N.R. Colony",Karnataka,Bengaluru Urban,12.9701331,77.5785466
+Balaji Hospital and Gastroenterology Center,Private,Multispecialty / General,,0.0,0.0,"#118, 5 Th Main , 7Th Cross, N R Colony , Bull Temple Road",Karnataka,Bengaluru Urban,12.9360846,77.5668069
+Kalasa Maternity Home,Private,Women & Child,,0.0,0.0,"127/1, Bull Temple Road",Karnataka,Bengaluru Urban,12.9548697,77.567273
+Kamala Nursing Home,Private,Multispecialty / General,,0.0,0.0,"1077, 14Th Main Road, Hanumanthnagar",Karnataka,Bengaluru Urban,12.9420409,77.5579577
+Shekhar Hospital,Private,Multispecialty / General,,0.0,0.0,"No.81,Bulltemple Road,Near Ramakrishna Ashram",Karnataka,Bengaluru Urban,12.945843,77.5674499
+Vishwabharathi Hospital Pvt. Ltd,Private,Multispecialty / General,,0.0,0.0,"No.10/4 & 10/5, 3Rd Main Road, Hanumanthanagar",Karnataka,Bengaluru Urban,12.9425877,77.564264
+Apollo Rm Hospital,Private,Multispecialty / General,,0.0,0.0,"No.65, 1St Main Road, Seshadripuram",Karnataka,Bengaluru Urban,12.9785849,80.2320987
+Fortis Hospital,Private,Multispecialty / General,,0.0,0.0,"No 65, 1St Main Road, Sheshadripuram",Karnataka,Bengaluru Urban,12.9920891,77.5794397
+Jayashree Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No 4, 4Th Cross Kumara Park West",Karnataka,Bengaluru Urban,12.991069,77.5777401
+Lakshmi Nursing Home,Private,Multispecialty / General,,0.0,0.0,No. 88 2Nd Main Road Seshadripuram,Karnataka,Bengaluru Urban,12.9982021,77.580725
+Sri Maruthi Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No.67,Link Road,Sheshadripuram",Karnataka,Bengaluru Urban,12.9961984,77.5734176
+Nayak Hospital,Private,Multispecialty / General,,0.0,0.0,"No 3367,5Th Cross, Gayathri Nagar",Karnataka,Bengaluru Urban,12.9995007,77.5599848
+"Nethradhama Superspeciality Eye Hospital - Rajajinagar, Bangalore",Private,Eye / Ophthalmology,,0.0,0.0,"No.607/77, 1St Main, Dr.Rajkumar Road, Rajajinagar 2Nd Block",Karnataka,Bengaluru Urban,13.0103758,77.5590452
+Supriya Hospital,Private,Multispecialty / General,,0.0,0.0,15/1 Iyappaswamy Templestraight Road,Karnataka,Bengaluru Urban,17.4738037,78.5641765
+Acharya Tulsi Jain Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 22/21, 6Th Cross, K N Extn, Yeshwanth Pur",Karnataka,Bengaluru Urban,13.026508,77.5581871
+Kala Hospital,Private,Multispecialty / General,,0.0,0.0,"1105, 5Th Cross,Kn Extension, Yeshwanthpur",Karnataka,Bengaluru Urban,13.0222723,77.5589993
+Mysore Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 35/6, Industrial Suburb, Goragunte Palya, Yashwantpur",Karnataka,Bengaluru Urban,13.01781,77.544225
+Yeshvanthpura Meternity Home,Public,Multispecialty / General,,0.0,0.0,"Near Yeshvanth Pura, Railway Station",Karnataka,Bengaluru Urban,13.0229714,77.5526778
+L.R Hospital,Private,Multispecialty / General,,0.0,0.0,"Magadi Main Road,Banglore",Karnataka,Bengaluru Urban,12.9865934,77.3746046
+Magadi Road Meternity Home,Private,Multispecialty / General,,0.0,0.0,"2Nd Cross, Magadi Rd",Karnataka,Bengaluru Urban,-1.8996701,36.301039
+Supriya Nursing Home,Private,Multispecialty / General,,0.0,0.0,No 9/A Magadi Main Road,Karnataka,Bengaluru Urban,12.9865934,77.3746046
+Bangalore Baptist Hospital,Private,Multispecialty / General,,0.0,0.0,Bellary Road Hebbal,Karnataka,Bengaluru Urban,12.9715987,77.5945627
+Columbia Asia,Private,Multispecialty / General,,0.0,0.0,"Kirloskar Business Park, Bellary Road Hebbal",Karnataka,Bengaluru Urban,13.0353782,77.5887614
+Dr Agarwal's Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"15, Eagle Street Langford Town Shanti Nagar",Karnataka,Bengaluru Urban,12.956869,77.604755
+Hosmat Hospital,Private,Multispecialty / General,,0.0,0.0,45 Magrath Road Off Richmond Road,Karnataka,Bengaluru Urban,12.9687069,77.6145906
+Nephrolife Care India Pvt.Ltd,Private,Renal / Uro,,0.0,0.0,"No.2,Setlur Street,Shanthinagar",Karnataka,Bengaluru Urban,12.9582183,77.6044998
+Republic Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 5, Langford Gardens, Near Richmond Circle",Karnataka,Bengaluru Urban,12.9663958,77.5945236
+Sankarambal Nursing Home,Private,Multispecialty / General,,0.0,0.0,#10 C J D Souza Road Banglore,Karnataka,Bengaluru Urban,12.9668015,77.6000686
+Azad Nagar Meternity Home,Private,Multispecialty / General,,0.0,0.0,"Kasturabanagar, Mysore Rd,  South",Karnataka,Bengaluru Urban,12.9013459,77.4679494
+Balaji Nursing Home,Private,Multispecialty / General,,0.0,0.0,"1/1,1/2,1/3, New Guddadahalli, Mysore Road",Karnataka,Bengaluru Urban,12.9550299,77.5446814
+Soubhagya Medical Centre and Hospital,Private,Multispecialty / General,,0.0,0.0,"No.151/1, Mysore Road",Karnataka,Bengaluru Urban,12.957204,77.5522639
+Sri Ram Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No 19, & 56, 6Th Cross, 40 Ft Road, Muneshwara Block",Karnataka,Bengaluru Urban,12.9444846,77.5483282
+Venkateshwara Maternity and Surgical Center,Private,Women & Child,,0.0,0.0,"No.5/A, 50 Feet Road, Munieshwara Block, Avalahalli",Karnataka,Bengaluru Urban,12.9426735,77.5470011
+Agadi Hospital,Private,Multispecialty / General,,0.0,0.0,"35, Siddiah Road, Wilson Garden",Karnataka,Bengaluru Urban,12.949509,77.598059
+"Bangalore Heart Hospital,",Private,Cardiac,,0.0,0.0,"No. 5/1 , Hosur Road",Karnataka,Bengaluru Urban,12.9715987,77.5945627
+Bangalore Institute Of Oncology,Private,Oncology,,0.0,0.0,"44-45/2, 2Nd Cross Raja Rammohan Roy Extn Off Lalbagh Double Road",Karnataka,Bengaluru Urban,13.0001603,77.5411082
+Bangalore Kidney Stones Hospial,Private,Renal / Uro,,0.0,0.0,"10, Vokkaligara Bhavana, Hudson Circle",Karnataka,Bengaluru Urban,12.9671048,77.5893263
+H.C.G Bangalore Institute Of Oncology Speciality C,Private,Oncology,,0.0,0.0,"7/1, H.C.G Tower, P.Kalinga Rao Road, Sampangiramnagar",Karnataka,Bengaluru Urban,12.9628608,77.5917086
+Karthik Hospital,Private,Multispecialty / General,,0.0,0.0,"56, 8Th Cross, Wilson Garden",Karnataka,Bengaluru Urban,12.9489069,77.5949809
+Manjunath Hospital,Private,Multispecialty / General,,0.0,0.0,"87/2, 8Th Cross,Wilson Garden",Karnataka,Bengaluru Urban,12.948484,77.593987
+Raheja Diagnostics,Private,Multispecialty / General,,0.0,0.0,"18/4 , 1St Main Road , Sampangiramanagar",Karnataka,Bengaluru Urban,12.9634179,77.5938311
+Shantinagar Meternity Hospital,Private,Multispecialty / General,,0.0,0.0,"Nanjappa Circle,Langford Rd, East",Karnataka,Bengaluru Urban,12.9570335,77.5968356
+V.S. Specialist Medical Centre and Neurological Research Institute Pvt. Ltd.,Private,Neuro / Spine,,0.0,0.0,"196, 10Th Cross, Wilson Gardens",Karnataka,Bengaluru Urban,12.9472971,77.5965842
+Yellamma Dassappa Hospital - Bangalore,Private,Multispecialty / General,,0.0,0.0,"25, Andree Road Shanthi Nagar",Karnataka,Bengaluru Urban,12.9607569,77.594633
+Kareem E.N.T and Multispeciality Centre,Private,Multispecialty / General,,0.0,0.0,"No.53, 3Rd Main Road, Opposite To Maruti Layout, B.T.M Layout 1St Stage",Karnataka,Bengaluru Urban,12.962606,77.6812236
+Kidwai Memorial Institute Of Oncology,Private,Oncology,,0.0,0.0,Dr. M.H. Marigowda Road,Karnataka,Bengaluru Urban,12.9372107,77.6018794
+Prasad Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"#11, Krishna Nagar Industrial Layout, D.R.C.Post,Near Christ College,Hosur",Karnataka,Bengaluru Urban,12.7409127,77.8252923
+Spurthy Hospital,Private,Multispecialty / General,,0.0,0.0,"#22, 1St Main, Chocolate Factory Rd, Tavarekere Btm Layout",Karnataka,Bengaluru Urban,12.9233712,77.6123492
+Deepti Nursing Home,Private,Multispecialty / General,,0.0,0.0,"449/1, 15Th Main Lakksandra",Karnataka,Bengaluru Urban,12.9237111,77.5874615
+Sankalpa Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No.44/22,Srinivasa Complex, Najjappa Layout,Hosur Road, Adugodi",Karnataka,Bengaluru Urban,12.9418628,77.6081249
+Shiva Nursing Home,Private,Multispecialty / General,,0.0,0.0,"#20 (Old#310),7Th Main,16Th Cross,Lakkasandra Extension",Karnataka,Bengaluru Urban,12.9426465,77.599995
+Sree Venkateshwara Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"1, 1St Cross, Gupta Layout,Lakksandra, Near Dairy Circle",Karnataka,Bengaluru Urban,12.9430799,77.6013678
+The Apollo Clinic and Surgical Centre,Private,Multispecialty / General,,0.0,0.0,"60/3, Konapana Agrahara, Opposite Infosys Convention Centre , Hosur",Karnataka,Bengaluru Urban,12.7409127,77.8252923
+Amazon Hospital,Private,Multispecialty / General,,0.0,0.0,"18/10, Ganganagar , 1St Main 7Th Cross",Karnataka,Bengaluru Urban,13.0252889,77.5859294
+Asha Kiran Children Health Care Centre,Private,Women & Child,,0.0,0.0,# 9 80 Fet Road H M T Layout R T Nagar,Karnataka,Bengaluru Urban,13.0263835,77.5931572
+Chaitanya Hospital,Private,Multispecialty / General,,0.0,0.0,"No 80, P&T Colony R T Nagar",Karnataka,Bengaluru Urban,13.0225809,77.5931039
+Dr Chaitanyas Hospital,Private,Multispecialty / General,,0.0,0.0,"Ist Floor, Lic Colony Main Road, Jeevan Bhima Nagar",Karnataka,Bengaluru Urban,12.9683434,77.6508082
+Dr.T.V.Ramesh Piles Hospital,Private,Multispecialty / General,,0.0,0.0,"1St Main Road, 7Th Cross, Ganganagar",Karnataka,Bengaluru Urban,13.025502,77.5576219
+Ganga Hospital and Clinical Laboratory,Private,Multispecialty / General,,0.0,0.0,"249, 5Th Cross, 3Rd Main. Ganganagar",Karnataka,Bengaluru Urban,12.9589564,77.568118
+Geeta Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No. 71, Hmt Layout, Dinnur Main Road, R.T. Nagar",Karnataka,Bengaluru Urban,13.0248077,77.593845
+Lakshmi Hospital,Private,Multispecialty / General,,0.0,0.0,"402, 2Nd Cross Judges Colony Ganganagar",Karnataka,Bengaluru Urban,13.0345251,77.5745848
+Medicare Hospital,Private,Multispecialty / General,,0.0,0.0,"#66, 1St `A` Main, Bhuvaneshwarinagar, R.T.Nagar Post",Karnataka,Bengaluru Urban,12.9670443,80.2091237
+North Side Health Centre,Private,Multispecialty / General,,0.0,0.0,"Cbi Road, (10Th Cross) Between 2 Nd & 3Nd Main Ganganagar",Karnataka,Bengaluru Urban,29.9038399,73.8771901
+Petal Hospital,Private,Multispecialty / General,,0.0,0.0,"# 34, I St Main,C.B.I.Road,Ganganagar",Karnataka,Bengaluru Urban,12.9530908,77.6535137
+Premier Hospital,Private,Multispecialty / General,,0.0,0.0,"No.2, Ex-Servicemen Colony, 5Th Cross, Dinnur Main Road, R.T.Nagar",Karnataka,Bengaluru Urban,13.0241721,77.5960331
+Sarojini Hospital,Private,Multispecialty / General,,0.0,0.0,"34, 1St Main, Cbi Road, Ganganagar",Karnataka,Bengaluru Urban,13.029083,77.5904031
+Sm Hospital,Private,Multispecialty / General,,0.0,0.0,"No 9 3Rd Cross, Manorayanapalyu Sultanpalya Main Rd, R T Nagar",Karnataka,Bengaluru Urban,13.0297169,77.6047757
+V-Care Hoapitals and Diagnostic Center,Private,Multispecialty / General,,0.0,0.0,"No. 29 1St Main Road, A 1St Block Devegowda Road ,Rt Nagar",Karnataka,Bengaluru Urban,13.0166308,77.5967556
+Kamath Nursing Home,Trust / Charitable,Multispecialty / General,,0.0,0.0,"# 1, Venkatram Layout Banaswadi Main Road Maruthi Sevanagar",Karnataka,Bengaluru Urban,13.0017513,77.6312199
+Piles Clinic and Hospital,Private,Multispecialty / General,,0.0,0.0,"517,Ramaswamy Palya Bus Stop",Karnataka,Bengaluru Urban,13.0156412,77.6512586
+Pratham Ent and Child Care Centre,Private,Women & Child,,0.0,0.0,"# 924, 80 Feet Road, Kalyan Nagar, Next To Adigas Hotel",Karnataka,Bengaluru Urban,26.881779,75.7797559
+Annayya Healthcare Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"No.14, 14Th Main,Hsr 5Th Sector,Koramangala",Karnataka,Bengaluru Urban,12.9182699,77.6380713
+Beams Hospitals Private Limited,Private,Multispecialty / General,,0.0,0.0,"640, 12Th Main, 80 Ft Road, 4Th Block, Koramangala",Karnataka,Bengaluru Urban,12.9683482,77.6487167
+Curie Centre Of Oncology,Private,Oncology,,0.0,0.0,"St. Johns Medical College Hospital, Campus, Gate No. 2,P.O.Koramangala",Karnataka,Bengaluru Urban,12.9279232,77.6271078
+Gold Star Hospital and Research Center,Private,Multispecialty / General,,0.0,0.0,"L-168 , Sector -6 , Ring Road , Hsr Layout",Karnataka,Bengaluru Urban,12.9159823,77.6294511
+Green View Medical Centre,Private,Multispecialty / General,,0.0,0.0,"# 20,21, 14Th Main Hsr Layout, Sector V ( Opposite Agaram Lake )",Karnataka,Bengaluru Urban,12.9200633,77.6428859
+Health Care Global Enterprises Ltd,Private,Multispecialty / General,,0.0,0.0,"No-88, 17Th Main A Main, 2Nd Cros, 5Th Block Kormangala",Karnataka,Bengaluru Urban,12.9342661,77.6204698
+Hgc Curie Centre Of Oncology,Private,Oncology,,0.0,0.0,"Gate No. 2, St. Johns Medical College Hospital,Campus P. O. Koramangala Koramangala",Karnataka,Bengaluru Urban,12.9273529,77.6391039
+Kamala Nethralaya,Private,Eye / Ophthalmology,,0.0,0.0,"81, 7Th Cross 4Th Block, Near Bda Complex Koramangala",Karnataka,Bengaluru Urban,12.9248121,77.6337109
+Lake View Hospital,Private,Multispecialty / General,,0.0,0.0,"#187/269/186,Ring Road, Agara,Hsr Layout",Karnataka,Bengaluru Urban,12.922031,77.645399
+Marvel Hospital and Fertility Center,Private,Women & Child,,0.0,0.0,"No. 8, 1St Main Road 1St Block, Koramangala",Karnataka,Bengaluru Urban,12.9266059,77.6377755
+Murthy Health and Research Centre,Private,Multispecialty / General,,0.0,0.0,97 Sarjapur Road 1St Block Koramangala,Karnataka,Bengaluru Urban,12.924756,77.6382941
+Novamed Centers India Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"Opus, 143, 1St Cross, 5Th Block, Koramangala",Karnataka,Bengaluru Urban,12.9337039,77.6214323
+Sharadha Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No.3&4, 7Nth Main 1St Block OppositeB.T.S Kalyana Mantapa Koramangala",Karnataka,Bengaluru Urban,12.9279232,77.6271078
+Spatica Super Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"No.168,Sector 6, Ring Road,Hsr Layout",Karnataka,Bengaluru Urban,12.9159823,77.6294511
+St John's Medical College Hospital,Private,Multispecialty / General,,0.0,0.0,Johnnagar Sarjapur Road Koramangala,Karnataka,Bengaluru Urban,12.9309785,77.6199608
+Starr Hospital,Private,Multispecialty / General,,0.0,0.0,#: L 168 Hsr Layout Sector 6,Karnataka,Bengaluru Urban,12.9137705,77.6292697
+Dr. Mohan Nursing Home,Private,Multispecialty / General,,0.0,0.0,"Kaikondrahalli Bus Stop, Sarjapur Road, Banglore",Karnataka,Bengaluru Urban,12.9139452,77.6779284
+Punarjani Ayurvedic Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"14/2,Chikkanayakanahalli Village, Off Sarjapur Road",Karnataka,Bengaluru Urban,12.8984402,77.6903954
+Suresh Hospital,Private,Multispecialty / General,,0.0,0.0,"37/, 1St Cross, Devasandra Main Road, K.R.Puram",Karnataka,Bengaluru Urban,13.0076532,77.6980626
+Deepa Hospital,Private,Multispecialty / General,,0.0,0.0,"No.27, O.M. Road, K.R. Puram",Karnataka,Bengaluru Urban,17.4399866,78.4070375
+Maithri Nursing Homeand Diagnostic,Private,Multispecialty / General,,0.0,0.0,"Devasandram Main Road Enterance, Krishnarajapuram",Karnataka,Bengaluru Urban,13.0050221,77.7036163
+Patil Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 42-B1, Below Synicate Bank, Sri Thimmappa Complex, Old Madras Road, Krishnarajapuram",Karnataka,Bengaluru Urban,13.0040167,77.6877765
+Aayug's Health Care,Private,Multispecialty / General,,0.0,0.0,"#477, I Main 'B' Block, Aecs Layout,,Kundalahalli",Karnataka,Bengaluru Urban,12.9600915,77.7129903
+Akshay Mallya Hospital,Private,Multispecialty / General,,0.0,0.0,"Main Road, Marathahali, Banglore",Karnataka,Bengaluru Urban,12.9600915,77.7129903
+Genesis Hospital,Private,Multispecialty / General,,0.0,0.0,"Airport Road, Marath Halli,Opposite Pavan Sagar Hotel",Karnataka,Bengaluru Urban,43.9932901,-107.9492606
+I-Aim Healthcare Centre,Private,Multispecialty / General,,0.0,0.0,"#74/2, Jarakabanda Kaval, Attur Post, Via Yelahanka",Karnataka,Bengaluru Urban,13.1004849,77.5940134
+Lions Airport City Hospital,Private,Multispecialty / General,,0.0,0.0,"#103, Munnekolal, Verthur Road, Marthahalli Post",Karnataka,Bengaluru Urban,12.9566252,77.7073206
+M.G.A.Hospital,Private,Multispecialty / General,,0.0,0.0,"96,Varthur Main Road, Marathahalli",Karnataka,Bengaluru Urban,12.9562059,77.6943243
+Nirmala Nursing Home,Private,Multispecialty / General,,0.0,0.0,"Kishan Arcade, Ferns City Road, Doddanekkundi, Outer Ring Road",Karnataka,Bengaluru Urban,12.9789998,77.6953347
+Sankara Eye Care Hospital,Private,Eye / Ophthalmology,,0.0,0.0,Airport - Whitefield Road Kundalahalli,Karnataka,Bengaluru Urban,12.9583404,77.7155779
+Sbf Health,Private,Multispecialty / General,,0.0,0.0,"39/4,Doddene Kunde,Marathalli",Karnataka,Bengaluru Urban,12.9712265,77.6979487
+Shankar Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,Airport - Whitefield Road Kundalahalli Gate,Karnataka,Bengaluru Urban,12.9583404,77.7155779
+Sri Kanchi Kamakoti Medical Trust Sankara Eye Hosp,Trust / Charitable,Eye / Ophthalmology,,0.0,0.0,"Hal Airport- Varthur Road, Kundalahalli Gate",Karnataka,Bengaluru Urban,12.9559093,77.7156859
+"The Apollo Clinic (Only For Sahara), Bangalore",Private,Multispecialty / General,,0.0,0.0,"74/1, Bellandur, Ring Road, Varthur",Karnataka,Bengaluru Urban,12.956496,77.6960739
+Vasan Eye Care Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"No 25/5-D, Outer Ring Road Marathalli",Karnataka,Bengaluru Urban,12.9786942,77.6945322
+Vims Heart Centre And Hospitals,Private,Cardiac,,0.0,0.0,"No.88, Marathahalli, , Outer Ring Road",Karnataka,Bengaluru Urban,12.948263,77.699518
+Yashomati Hospitals Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"2371/3, Hal Airportvarthur Road Munnekolala, Marathalli Post",Karnataka,Bengaluru Urban,12.9600447,77.7083461
+Apoorva Diagnostic Centre,Private,Multispecialty / General,,0.0,0.0,325 1St Floor C M H Road Indirangar,Karnataka,Bengaluru Urban,18.4713653,73.8661598
+Axon Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"#321,6Th Main, Hal 2Nd Stage Indiranagar",Karnataka,Bengaluru Urban,12.9738195,77.6461409
+Cambridge Hospital,Private,Multispecialty / General,,0.0,0.0,"18/17,Cambridge Road,Ulsoor",Karnataka,Bengaluru Urban,12.971684,77.6274826
+Columbia Asian Medical Center-Hebbal,Private,Multispecialty / General,,0.0,0.0,"Salarpuria Palladium, 3Rd Floor, No. 2021 100 Feet Road, Hal 2Nd Stage, Indira Nagar",Karnataka,Bengaluru Urban,12.9644774,77.6416471
+Laser Vision Netralaya,Private,Multispecialty / General,,0.0,0.0,"No. 157, Defence Colony, 4Th Main Indiranagar",Karnataka,Bengaluru Urban,12.9737668,77.6382716
+Maruthi Hospital,Private,Multispecialty / General,,0.0,0.0,"No 957 12Th Main Hal Ii Stage , Indiranagar",Karnataka,Bengaluru Urban,12.9703034,77.6402636
+Narayana Hrudayalaya Cmh Hospital,Trust / Charitable,Multispecialty / General,,0.0,0.0,"Mission Road, Indiranagar, 2Nd Stage, Banglore",Karnataka,Bengaluru Urban,12.9782859,77.6387567
+Navashakthi Nethralaya,Private,Eye / Ophthalmology,,0.0,0.0,"1332, Double Road, Indiranagar",Karnataka,Bengaluru Urban,12.9750457,77.6362898
+Nethradhama Super Speciality Eye Hospital-Indiranagar,Private,Eye / Ophthalmology,,0.0,0.0,"No-66, Double Road, Hal 2Nd Stage Indira Nagar",Karnataka,Bengaluru Urban,12.97344,77.635628
+Rashmi Nursing Home,Private,Multispecialty / General,,0.0,0.0,"166, 9Th Cross 1St Stage Indira Nagar",Karnataka,Bengaluru Urban,12.9808112,77.6389895
+Sapthagiri Digitial Imaging Center Pvt Ltd,Trust / Charitable,Multispecialty / General,,0.0,0.0,"Chinmaya Mission Hospital Complex, C.M.H Road, Indiranagar",Karnataka,Bengaluru Urban,12.9780176,77.6372673
+Siddhi Eye Care,Private,Eye / Ophthalmology,,0.0,0.0,"220,7Thcross, 1St Stage Indiranagar",Karnataka,Bengaluru Urban,12.9805678,77.6397077
+Sri Vinayaka Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No.3033 7, 8Th Main, Hal2Nd Stage",Karnataka,Bengaluru Urban,12.9724611,77.652951
+Mysore Road Hi Tech Hospital,Private,Multispecialty / General,,0.0,0.0,"17, Pantharapalya, Near Nayandahalli Bus Stop Opp Ganesha Temple, Mysore Road Pantharapalya",Karnataka,Bengaluru Urban,12.9420288,77.525297
+Shekhar Hospital,Private,Multispecialty / General,,0.0,0.0,"#942, 28Th Main, 9Th Block,Jayanagar",Karnataka,Bengaluru Urban,12.9174394,77.5949199
+A.M. Hospital,Private,Multispecialty / General,,0.0,0.0,"No.20/1, 2Nd Cross, Widia Layout, Chandra Layout Main Road,Vijayanagar",Karnataka,Bengaluru Urban,12.9601053,77.5311229
+Bhagavathi Multi Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"L 168, Sector - 6, Ring Road, Hsr Layout",Karnataka,Bengaluru Urban,12.9159823,77.6294511
+Gayathari Hospital Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"91, Magadi Chord Road, Vijaynagar",Karnataka,Bengaluru Urban,12.974333,77.542641
+Hosahalli Referal Hospital,Private,Multispecialty / General,,0.0,0.0,"5Th Main,7Th Cross, Mc Layout, Vijaynagar,  South",Karnataka,Bengaluru Urban,12.9385484,77.5667188
+Kids Care Clinic,Private,Multispecialty / General,,0.0,0.0,"23, Ist Floor, Iii Main Road, Chandra Layout, Vijayanagar",Karnataka,Bengaluru Urban,12.973229,77.5414193
+Manasa Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 107, 6Th Main,2Nd Cross,Vijayanagar",Karnataka,Bengaluru Urban,12.9639945,77.5224481
+Moodalapallya Meternity Home,Private,Multispecialty / General,,0.0,0.0,"Bhuvaneshwarinagar, Main Rd,  South",Karnataka,Bengaluru Urban,13.0576513,77.5967615
+Padmashree Nursing Home and Maternity Home,Private,Women & Child,,0.0,0.0,"1108/30 10Th Main 4Th Cross, Rpc Layout, Vijayanagar",Karnataka,Bengaluru Urban,12.9416561,77.5830294
+Sharavathi Hospitals (P) Ltd.,Private,Multispecialty / General,,0.0,0.0,"No.1133/F,30 Ft.Service Road, R.P.C. Layout,Vijaynagar",Karnataka,Bengaluru Urban,12.9587229,77.533835
+Sri Vinayaka Hospital,Private,Multispecialty / General,,0.0,0.0,"#1222, 80, Feet Road, Chandra Layout",Karnataka,Bengaluru Urban,12.9591598,77.5237398
+Susheel Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 1869, 5Th Main, 13Th Cross, R.P.C. Lay Out, Vijayanagar",Karnataka,Bengaluru Urban,12.9756589,77.539975
+Tanmay Hospital,Private,Multispecialty / General,,0.0,0.0,"66 B/7, Pipe Line Road, Vijayanagara",Karnataka,Bengaluru Urban,13.0336074,77.5388209
+Vaidyam Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 851/D , 5Th Block , Rajajinagar , 60Th Cross",Karnataka,Bengaluru Urban,12.98471,77.5508027
+Vidhya Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"47/E, 15Th Main Mc Road Vijayanagar",Karnataka,Bengaluru Urban,12.9713363,77.5355137
+Vijayanagar Global Hospital,Private,Multispecialty / General,,0.0,0.0,"No 46, 17Th Cross, Near Main Bus Stand, M C Road Vijayanagar",Karnataka,Bengaluru Urban,12.983828,77.6781997
+Bacc Healthcare Pvt Ltd.,Private,Multispecialty / General,,0.0,0.0,"3 909,47Th Cross,9Th Main, , 5Th Block,Jayanagar",Karnataka,Bengaluru Urban,12.9208296,77.5836785
+Dr Kamini Rao Hospital(A Unit Of Bacc Health Care Pvt Ltd),Trust / Charitable,Multispecialty / General,,0.0,0.0,"909, 47Th Cross, 9Thmain, 5Th Block, Opposite Adarshapalace Apts And Near Raghavendra Matha, Jayanagar",Karnataka,Bengaluru Urban,12.9250074,77.5938028
+Jayanagar Orthopaedic Centre,Private,Ortho / Trauma,,0.0,0.0,"24/1-1, 14Th Main, 4Th Block East Jayanagar",Karnataka,Bengaluru Urban,12.9204241,77.587104
+Pulse Diagnostics and Specialist Care Centre,Private,Multispecialty / General,,0.0,0.0,"12/D, 9Th A Main, 5Th Block, 100 Feet Ring Road, Jayanagar",Karnataka,Bengaluru Urban,12.9188999,77.6053065
+Reddy Orthopaedic and General Nursing Home,Private,Ortho / Trauma,,0.0,0.0,"No. 1590 East End Main Road, 39Th Cross, 9Th Block, Jayanagar",Karnataka,Bengaluru Urban,12.9250074,77.5938028
+Sagar Apollo Hospital,Private,Multispecialty / General,,0.0,0.0,"44/54, 30Th Cross, Tilak Nagar",Karnataka,Bengaluru Urban,12.927865,77.599591
+Sri Jayadeva Institute Of Cardiology,Private,Cardiac,,0.0,0.0,"Jayanagar 9Th Block, B.G. Road, Banglore",Karnataka,Bengaluru Urban,12.9204609,77.5920295
+Sri Krishna Sevashrama Hospital,Trust / Charitable,Multispecialty / General,,0.0,0.0,"523, 10Th Main, 45 Cross 5Th Block, Jaya Nagar",Karnataka,Bengaluru Urban,12.9172801,77.5850057
+Sunayana Eye Clinic,Private,Eye / Ophthalmology,,0.0,0.0,"No 1156, 26Th Main Road, 4Th T Block Jayanagar",Karnataka,Bengaluru Urban,12.9255982,77.593679
+Tirumalai Eye Clinic And Surgical Centre,Private,Eye / Ophthalmology,,0.0,0.0,"320/B, 9Th Main 5Th Block, Jayanagar Jayanagar",Karnataka,Bengaluru Urban,12.9206537,77.5837995
+Lakeside Medical Center And Hospital,Private,Multispecialty / General,,0.0,0.0,"# 33/4, Meanee Avenue Road, Near Ulsoor Lake",Karnataka,Bengaluru Urban,12.9864397,77.6197261
+Nikad Ortho Centre,Private,Ortho / Trauma,,0.0,0.0,"No.1 Haudin Road, Off Ulsoor Road",Karnataka,Bengaluru Urban,12.9761636,77.618759
+Sagar Hospital,Private,Multispecialty / General,,0.0,0.0,"Tilaknagar, Jayanagar, 4Th Block,  South",Karnataka,Bengaluru Urban,12.9254199,77.591849
+Sai Jyothi Netra Seva,Trust / Charitable,Multispecialty / General,,0.0,0.0,"11, Ulsoor Tank Road Ulsoor Lake",Karnataka,Bengaluru Urban,12.9848386,77.6184733
+Asha Nursing Home,Private,Multispecialty / General,,0.0,0.0,Ranamurthy Nagar Main Road Banaswadi,Karnataka,Bengaluru Urban,13.0136121,77.650656
+Dr. Sailaja's Super Speciality Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"No.21,22,1St Floor,Horamavu Main Road",Karnataka,Bengaluru Urban,12.9950154,77.5979189
+Good Shepherd Hospital,Private,Multispecialty / General,,0.0,0.0,"#1,9 Cross 9 Main Hennur Cross, Kalyan Nagar Post",Karnataka,Bengaluru Urban,13.0252077,77.6345703
+Lokhande S Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 3Ac 902, 3Road A Cross, 1St Block,9Th A Main, Kalyannagar",Karnataka,Bengaluru Urban,13.0189917,77.6478568
+Nmpc Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 66, 9Th Main , Horamavu Post Horamavu Main Road Banaswadi",Karnataka,Bengaluru Urban,13.0237678,77.6550583
+Parimala Health Care Services,Private,Multispecialty / General,,0.0,0.0,"Bilekahalli, Bg Road , Near Iimb",Karnataka,Bengaluru Urban,12.8960835,77.5997424
+Pranav Hospital,Private,Multispecialty / General,,0.0,0.0,"217, 9Th A Main Kalyan Nagar Hrbr Layout Banaswadi",Karnataka,Bengaluru Urban,13.0174438,77.6478042
+Sakaria Healthcare Pvt. Ltd.,Private,Multispecialty / General,,0.0,0.0,"#797, 10Th Main, 1St Stage, 3Rd Block, Hbr Layout, Kalyan Nagar Post, Near Hbr Layout-Bda",Karnataka,Bengaluru Urban,13.0377347,77.6288279
+Shivam Vishwa Specality Hospital,Private,Multispecialty / General,,0.0,0.0,"201, 2 Cross Road Hbr Second Block Hbr",Karnataka,Bengaluru Urban,13.026291,77.6313857
+Sri Sai Hospital,Private,Multispecialty / General,,0.0,0.0,"#978, 18Th Cross,14Th Main, 5Th Block, 1St Stage,H.B.R.Layout",Karnataka,Bengaluru Urban,12.9055988,77.5596236
+Srinivasa Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"No.60, Near Banaswadi Bus Stop, Banaswadi Main Road",Karnataka,Bengaluru Urban,13.0150502,77.6511606
+Al- Habeeb Hospital,Private,Multispecialty / General,,0.0,0.0,"5, Arabic College Main Road, Banglore",Karnataka,Bengaluru Urban,13.012684,77.616496
+J M J Hospital,Private,Multispecialty / General,,0.0,0.0,Nagarwara,Karnataka,Bengaluru Urban,12.9921542,77.6001477
+Mediscon Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No.9,Pillanna Garden 3Rd Stage",Karnataka,Bengaluru Urban,13.0100273,77.6185286
+Mediscope Hospital,Private,Multispecialty / General,,0.0,0.0,"11, Pillanna Garden 3Rd Stage (Tanery Road) Kadugondanahalli",Karnataka,Bengaluru Urban,13.0055118,77.612314
+Alisa Eye Clinic and Daycare Microsurgical Centre,Private,Eye / Ophthalmology,,0.0,0.0,"#6/3,Cambell Road,Next To St.Philomena`S Hospital Austin Town",Karnataka,Bengaluru Urban,30.267153,-97.7430608
+Austin Town Meternity Hospital,Private,Multispecialty / General,,0.0,0.0,"Near Austin Town Bus Stop,  South",Karnataka,Bengaluru Urban,30.4505663,-97.6669009
+Get Well Hospital,Private,Multispecialty / General,,0.0,0.0,"#20, 7Th Cross Rosegarden, Neelasandra",Karnataka,Bengaluru Urban,12.9550291,77.6142102
+St. Philomenas Hospital - Bangalore,Private,Multispecialty / General,,0.0,0.0,"No. 4, Mother Theresa Road, Campbell Road",Karnataka,Bengaluru Urban,12.9644017,77.6069122
+Geetha Hospital,Private,Multispecialty / General,,0.0,0.0,Avalahalli Virgonagar Old Madras Road Bangaror,Karnataka,Bengaluru Urban,13.0260188,77.720429
+S.N. Hospital,Private,Multispecialty / General,,0.0,0.0,"Avalahalli, Virgonagar P.O.",Karnataka,Bengaluru Urban,13.036048,77.735852
+Cosmo Multispeciality Hospital,Private,Multispecialty / General,,0.0,0.0,"65, 1St Cross, Kalidasa Layout, Kalidasa Circle, Srinagar",Karnataka,Bengaluru Urban,25.9384228,87.4033964
+Dr. Natesh E.N.T and Surgical Care Centre,Private,Multispecialty / General,,0.0,0.0,"#8/45, 80 Feet Road, ,S.B.M. Colony,Banashankari 1 St Stage",Karnataka,Bengaluru Urban,12.9390172,77.5528742
+Karthik Netralaya Institute Of Opthalmology Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"#89, 7Th Cross N R Colony, Ashok Nagar",Karnataka,Bengaluru Urban,12.9813958,77.5264159
+Sannidhi Speciality Center,Private,Multispecialty / General,,0.0,0.0,"237/37, 10Th Main Nagendra Block Srinagar",Karnataka,Bengaluru Urban,12.9440808,77.5547283
+Sunetra Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"No 519/34, 2Nd Cross 10Th Main, Bsk 1St Stage Banashankari",Karnataka,Bengaluru Urban,12.93921,77.5626634
+Trinetraalaya Eye Care and Surgical Centre,Private,Eye / Ophthalmology,,0.0,0.0,"No-22/2, 13Th Main, Banashankari,1St Stage, 3Rdblock, Shrinagar",Karnataka,Bengaluru Urban,12.9444533,77.5537803
+Vinayaka Hospital,Private,Multispecialty / General,,0.0,0.0,"#110, 1St Main Sbm Colony, Bsk 1St Stage, Hanumanthanagar",Karnataka,Bengaluru Urban,13.0296311,77.5911303
+Narayana Hrudayalaya Csi Hospital,Private,Multispecialty / General,,0.0,0.0,"H.K.P.Road, Shivajinagar",Karnataka,Bengaluru Urban,19.7865252,74.0678281
+Amar Hospital,Private,Multispecialty / General,,0.0,0.0,"7Th Cross, Rangaswamy Temple Street",Karnataka,Bengaluru Urban,12.9617715,77.5632619
+Atreya Charitable Trust,Trust / Charitable,Multispecialty / General,,0.0,0.0,"816/77, Samskruti, 11Th Cross, Malleshwara, Vyalikaval",Karnataka,Bengaluru Urban,13.0018523,77.5745652
+Babu Clinic and Piles Proctology Hospital,Private,Multispecialty / General,,0.0,0.0,73 74 Binny Mill Road Cottonpet Cross,Karnataka,Bengaluru Urban,12.9688855,77.5698292
+Cottonpet Meternity Home,Private,Multispecialty / General,,0.0,0.0,"Adinarayana Temple Street, 7Th Cross Cotton Pet,  South",Karnataka,Bengaluru Urban,12.9644418,77.5705436
+Mahesh Clinic,Private,Multispecialty / General,,0.0,0.0,202/3 Mahesh Towers R T Street,Karnataka,Bengaluru Urban,19.2105512,72.8748702
+Radha Maternity and Surgical Hospital,Private,Women & Child,,0.0,0.0,"No.71, Mill Road, Cottonpet",Karnataka,Bengaluru Urban,12.9936758,77.5733436
+Sreeniwasa Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 12, Park Road, Bale Peth",Karnataka,Bengaluru Urban,-32.214234,116.010362
+Aradhana Netra Mandira,Trust / Charitable,Multispecialty / General,,0.0,0.0,"#67, 9Th Main, Next To Dr.Shah`S Diagnostic Centre, Hmt Main Road, Mathikere",Karnataka,Bengaluru Urban,13.0280231,77.5614553
+Narayana Hrudayalaya Superspecialty Clinic and Diagnostic Center,Private,Multispecialty / General,,0.0,0.0,"43/A, 1St Floor, Bda Complex, 6Th Sector, Hsr Layout",Karnataka,Bengaluru Urban,12.9137428,77.6374282
+Subbiah Hospital ( A Unit Of Shirdi Sai Hospital Pvt. Ltd. ),Trust / Charitable,Multispecialty / General,,0.0,0.0,"No. 31, M. S. Ramaiah Road, Mathikere",Karnataka,Bengaluru Urban,13.030329,77.5604111
+Sumathi Nursing and Maternity Home,Trust / Charitable,Women & Child,,0.0,0.0,"#426/12, 2 Cross,Mathikere Layout,Behind Canara Bank",Karnataka,Bengaluru Urban,13.0636862,77.5833342
+Chhaya Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No 47, 17Th Cross Malleswaram",Karnataka,Bengaluru Urban,13.0073411,77.5687973
+Lakshmi Maternity Home,Private,Women & Child,,0.0,0.0,"No. 95 and 96, Margosa Road, 15Th Cross, Malleswaram",Karnataka,Bengaluru Urban,13.0018482,77.5697162
+Manjunatha Maternity Home and Surgical Centre,Private,Women & Child,,0.0,0.0,"# 90/1, West Park Road,Between 17Th And 18Th Cross,Malleswaram",Karnataka,Bengaluru Urban,13.008767,77.5657871
+Si Chhaya Multi Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"# 47, 17Th Cross, Malleshwaram",Karnataka,Bengaluru Urban,13.0073411,77.5687973
+Krishna Loka Hospital,Private,Multispecialty / General,,0.0,0.0,"80Ft Road, Gnana Jyothi Nagar",Karnataka,Bengaluru Urban,12.9590613,77.5238151
+Nathrushree Nethralaya,Trust / Charitable,Eye / Ophthalmology,,0.0,0.0,"818/819 16Th 'A' Main, 2Nd Cross Gokul Extension, Mathikere",Karnataka,Bengaluru Urban,13.0412034,77.5579956
+Sri Rajeshwari Hospital,Private,Multispecialty / General,,0.0,0.0,"110, Mariyappanapalya, Jnanabharathi",Karnataka,Bengaluru Urban,12.9453066,77.4971113
+Aasha Hospital,Private,Multispecialty / General,,0.0,0.0,"No 11/2, Magadi Main Road ,Agrahara Dasarahalli",Karnataka,Bengaluru Urban,12.98061,77.538619
+Deepak Nursing Home,Private,Multispecialty / General,,0.0,0.0,"Old Widia School Stop,Hesarsghatta Main Road,Bhuvaneshwari Nagar,T. Dasarahalli",Karnataka,Bengaluru Urban,13.0542174,77.5096278
+Dr Ramachandra Hospital,Private,Multispecialty / General,,0.0,0.0,"No.30 Hesaraghatta Road , T Dasarahalli",Karnataka,Bengaluru Urban,13.0965073,77.5420588
+Krishna Hospital,Private,Multispecialty / General,,0.0,0.0,"#24, 2Nd Cross, Excel Kalyana Mantapa Road,Jalahalli Cross,T. Dasarahalli",Karnataka,Bengaluru Urban,13.039944,77.518339
+Shree Matha Speciality Clinic For Piles and Proctolo,Trust / Charitable,Multispecialty / General,,0.0,0.0,"No. 9, 1St Floor , Near Ayyappa Temple, S.M. Road, Jalahalli West",Karnataka,Bengaluru Urban,13.0460754,77.5209231
+Sri Raghavendra Hospital,Private,Multispecialty / General,,0.0,0.0,"13/4, T Dasarahalli Tumkur Road",Karnataka,Bengaluru Urban,13.0430279,77.5125327
+Sri Venkateshwara Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"No. 15, Drls Plaza, 1St Floor, Nh-4, Above Andhra Bank, T. Dasarahalli",Karnataka,Bengaluru Urban,13.0506057,77.5118463
+Vijaya Nursing Home,Private,Multispecialty / General,,0.0,0.0,"13/02, Mahimappa Complex, Nh-4, T.Dasarahalli",Karnataka,Bengaluru Urban,13.0506057,77.5118463
+Amruth Biological and Clinical Services Pvt Ltd.,Private,Multispecialty / General,,0.0,0.0,"No.19,2Nd Main Road,1St Phase, Peenya Industrial Area",Karnataka,Bengaluru Urban,12.9594745,77.560953
+Panchamukhi Hospital,Private,Multispecialty / General,,0.0,0.0,1St Main 2Nd Stage Peenya,Karnataka,Bengaluru Urban,13.0314031,77.5291865
+Ravi Kirlosker Memorial Hospital,Private,Multispecialty / General,,0.0,0.0,"19, 2Nd Main Road, 1St Phase Peenya Industrial Area",Karnataka,Bengaluru Urban,13.0087538,77.5263961
+Sai Baba Hospital,Private,Multispecialty / General,,0.0,0.0,"No.12, Laggere Main Road, Laggere, Bengaluru",Karnataka,Bengaluru Urban,13.0152952,77.5203623
+Sri Venkateshwara Hospital,Private,Multispecialty / General,,0.0,0.0,"I Main Road, ,Peenya Ii Stage",Karnataka,Bengaluru Urban,13.0576513,77.5967615
+Chinmayi Hospital,Private,Multispecialty / General,,0.0,0.0,"34, Brindavan Layout Subramanyapura Main Road",Karnataka,Bengaluru Urban,12.9120093,77.5583998
+Mallige Medical Centre,Private,Multispecialty / General,,0.0,0.0,"No.31, Crescent Road, High Grounds",Karnataka,Bengaluru Urban,12.9890609,77.5820957
+Nagarathna Hospital,Private,Multispecialty / General,,0.0,0.0,"Srinivasa Complex,No.4,1St Floor,Off Uttarahalli Subramanyapura Main Road",Karnataka,Bengaluru Urban,12.9057641,77.5428665
+Saranalaya Hospital,Private,Multispecialty / General,,0.0,0.0,"Near Bagalur Cross Signal,International Airport Main Road,Yelahanka",Karnataka,Bengaluru Urban,13.1004849,77.5940134
+Akshaya Nursing Home,Private,Multispecialty / General,,0.0,0.0,"# 33/34,2Nd Stage,Balaji Avenue, Attur Main Road, Yelahanka New Town",Karnataka,Bengaluru Urban,13.1026716,77.5668889
+Chaitanya Medical Centre Maternity and Surgical Care,Private,Women & Child,,0.0,0.0,"Khb Satellite Town, A Sector, Yelahanka",Karnataka,Bengaluru Urban,13.0931058,77.5861201
+Girish Eye and Children Clinic,Private,Eye / Ophthalmology,,0.0,0.0,"793, 8Th `A` Cross, `A` Sector, Yelahanka New Town",Karnataka,Bengaluru Urban,13.1002784,77.580947
+Govt Hospital,Public,Multispecialty / General,,0.0,0.0,"Yelahanka,  Urban, , B.N",Karnataka,Bengaluru Urban,13.1004849,77.5940134
+Kamal Maternity and Surgical Nursing Home,Private,Women & Child,,0.0,0.0,"# 29, 1St Main, Sharad Nagar, Behind Yelahanka New Town",Karnataka,Bengaluru Urban,13.0948638,77.5772344
+Kk Hospital,Private,Multispecialty / General,,0.0,0.0,"No: 9, A1, A2 Opp: Mec School, A-Sector Yelahanka",Karnataka,Bengaluru Urban,13.1004849,77.5940134
+Neha Prakash Hospital,Private,Multispecialty / General,,0.0,0.0,"8, 6Th Main Road 5Th Phase, Yelahanka New Town",Karnataka,Bengaluru Urban,13.1077823,77.5716915
+New City Hospital,Private,Multispecialty / General,,0.0,0.0,"No.2558, Hig,16Th Bcross, Yelahanka New Town",Karnataka,Bengaluru Urban,13.0992667,77.5817948
+Prasad Hospital,Private,Multispecialty / General,,0.0,0.0,"2069/2074, 16Th B Cross, (Near Mother Dairy Cross), Yelahanka New Town",Karnataka,Bengaluru Urban,13.1042445,77.5713193
+Railways Hospital,Public,Multispecialty / General,,0.0,0.0,Yelahanka,Karnataka,Bengaluru Urban,13.1008405,77.5945732
+Rajankunte Hospital,Private,Multispecialty / General,,0.0,0.0,Tirumala Doddaballapur Road Opp Rajakunte Police Station,Karnataka,Bengaluru Urban,13.6781837,79.352188
+Rangalakshmi Netralaya,Private,Multispecialty / General,,0.0,0.0,"No 2054,13 Th Main 3 Rd Phase , Mother Diary Cross, Yelahanka New Town",Karnataka,Bengaluru Urban,13.1042445,77.5713193
+"S B Medical Centre,",Private,Multispecialty / General,,0.0,0.0,"No.2558 4Th Main 16Th Cross Road , Newtown Yelahanka",Karnataka,Bengaluru Urban,13.0997431,77.57463
+Sankalpa E.N.T Care Centre,Private,Multispecialty / General,,0.0,0.0,"No.762, 7Th `A`Main, `A`Asector, Yelahanka New Town",Karnataka,Bengaluru Urban,13.0964406,77.5792259
+Saraswathi Poly Clinic,Private,Multispecialty / General,,0.0,0.0,"Hospital Road, Yelahanka",Karnataka,Bengaluru Urban,13.1001803,77.5958446
+Shushrusha Nursing Home,Private,Multispecialty / General,,0.0,0.0,Bb Road Yelahanka,Karnataka,Bengaluru Urban,13.047854,77.636016
+Sri Maruthi Hospital,Private,Multispecialty / General,,0.0,0.0,"50, Kondappa Garden, Kogilu Road, Maruthi Nagar Yelahanka",Karnataka,Bengaluru Urban,13.1040221,77.6073011
+Pushpa Nursing Home,Private,Multispecialty / General,,0.0,0.0,"284, Main Road, Whitefield",Karnataka,Bengaluru Urban,35.2493485,-95.2377067
+Anyuta Hospital,Private,Multispecialty / General,,0.0,0.0,"#73, Kanakapura Road, Ioc Petrol Bunk Complex, Banashankari",Karnataka,Bengaluru Urban,12.9254533,77.546757
+Banashankari Referal Hospital,Private,Multispecialty / General,,0.0,0.0,"17Th, Main,27Th Cross, Banashankari 2Nd Stage,  South",Karnataka,Bengaluru Urban,12.907814,77.6413392
+Bangalore Nethralaya,Private,Eye / Ophthalmology,,0.0,0.0,"# 945, 21St Main, Banashankari, 2Nd Stage, Near B.D.A Complex",Karnataka,Bengaluru Urban,12.9251789,77.564693
+Bkf Chande Nephro Urology Centre Nurtrust,Trust / Charitable,Renal / Uro,,0.0,0.0,"Ca 6, 15Th Main 11Th Cross, Padmanabha Nagar",Karnataka,Bengaluru Urban,12.917938,77.555796
+D.G. Hospital,Private,Multispecialty / General,,0.0,0.0,"274 / 275, M K Puttalingaiah Road, Padmanabhanagar, Padmanabhanagar",Karnataka,Bengaluru Urban,12.917936,77.5578222
+Dr. Vidyananda's Surgery and Dia Centre,Private,Multispecialty / General,,0.0,0.0,"2269, 22Nd Cross K R Road, K.R.Road",Karnataka,Bengaluru Urban,12.9241963,77.5731766
+Excel Care Hospital,Private,Multispecialty / General,,0.0,0.0,"#3/2, 27Th Cross, Banashankari 2Nd Stage,Near Brigade Software Park",Karnataka,Bengaluru Urban,12.9309404,77.5837177
+Hillside Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 113, 4Th Cross, R. K. Layout, Padmanabhanagar",Karnataka,Bengaluru Urban,12.9199035,77.5604755
+Maharaja Agrasen Hospital,Private,Multispecialty / General,,0.0,0.0,"15Th Main, 17Th Cross Padmanabhanagar",Karnataka,Bengaluru Urban,12.9161312,77.5548261
+Netra Enterprises Prabhu Eye Clinic and Research Center,Private,Eye / Ophthalmology,,0.0,0.0,"504, 40Th Cross Road, Jayanagar 8Th Block 8Th Block",Karnataka,Bengaluru Urban,12.919731,77.575085
+Prema Nursing Home,Private,Multispecialty / General,,0.0,0.0,"7/32, 47Th Cross, Ist Main Road , , 8Th Block , Jayanagar",Karnataka,Bengaluru Urban,12.9161929,77.5774844
+Saraswathi Hospital,Private,Multispecialty / General,,0.0,0.0,"# 39, 17Thc Cross, 8Thb Main, Banashankari Ii Stage",Karnataka,Bengaluru Urban,12.9248711,77.5662406
+Sevakshetra Hospital,Trust / Charitable,Multispecialty / General,,0.0,0.0,"B 70, 27Th Cross Banashankari 2Nd Stage Banashankari",Karnataka,Bengaluru Urban,12.9217594,77.5706784
+Sri Vivekananda Sevashrama,Trust / Charitable,Multispecialty / General,,0.0,0.0,"No. 39, 8Th B Main Raod, Bsk 2Nd Stage",Karnataka,Bengaluru Urban,12.9291952,77.5684901
+Sridevi Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No. 726, 23Rd Cross,B.S.K. Ii Stage",Karnataka,Bengaluru Urban,12.9235397,77.5730617
+Yogananda Medical and Research Centre,Private,Multispecialty / General,,0.0,0.0,"No. 277, M.K. Puttalingaiah Road, Padmanabha Nagar",Karnataka,Bengaluru Urban,12.920373,77.559733
+Ayurvaid Hospital,Private,Multispecialty / General,,0.0,0.0,"No 230, Amarjyothi Layout Domlur",Karnataka,Bengaluru Urban,12.9552245,77.6428066
+Vital Medi Health Care Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"270, 3Rd Cross, Domlur 2Nd Stage",Karnataka,Bengaluru Urban,12.9263368,77.5840064
+Bharghavi Reddy Women and Children Hospital,Private,Women & Child,,0.0,0.0,"#79, New Thippasandra Main Road, Hal Iii Stage, Via: Indiranagar 80Ft Road",Karnataka,Bengaluru Urban,12.9726365,77.6485734
+Brinda Hospital,Private,Multispecialty / General,,0.0,0.0,"No.4, 5Th Block,2Nd Stage Nagarabhavi",Karnataka,Bengaluru Urban,12.978512,77.5108822
+Deepashri Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 86, 2Nd Main,16Th D Cross,Malagala,Inner Ring Road,Underpass, Nagarabhavi 2Nd Stag",Karnataka,Bengaluru Urban,12.9745975,77.5129877
+Dhanush Hospital,Private,Multispecialty / General,,0.0,0.0,"#63, 2Nd Main, Byraveshwara Nagar,2Nd Main , Nagarbhavi Main Road",Karnataka,Bengaluru Urban,12.980664,77.5306031
+Panacea Hospital Nagarbhavi ( A Unit Of Pan Nagarbhavi Hospital Pvt.Ltd.) - Bangalore,Private,Multispecialty / General,,0.0,0.0,"#611, 612, Nagarbhavi Main Road, 2Nd Stage, Vinayaka Layout Near Nagarbhavi Circle",Karnataka,Bengaluru Urban,12.9650486,77.5168536
+Scan Point Diagnostics,Private,Multispecialty / General,,0.0,0.0,"40, 1St Floor, Bda Complex",Karnataka,Bengaluru Urban,23.223396,77.4334193
+Shridevi Hospital,Private,Multispecialty / General,,0.0,0.0,"No-14, Maruthi Nagar, Nagarabhavi Main Road",Karnataka,Bengaluru Urban,12.9590918,77.5192061
+Sri Maruthi Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 14, Maruthi Nagar Nagarabhavi Main Road",Karnataka,Bengaluru Urban,12.9590918,77.5192061
+Sumati Hospital,Private,Multispecialty / General,,0.0,0.0,"38,4Th Main. N.S. Palya, Btm 2Nd Stage. Bannerghatta Road",Karnataka,Bengaluru Urban,12.9226602,77.6036491
+Unity Lifline Hospital Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"No 193, So Feet Road, 2Nd Block 2Nd Stage",Karnataka,Bengaluru Urban,12.8388552,77.6587124
+Sri Maruthi Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No. 37/8, Bagalagunte Bus Stop, Hesaraghatta Main Road",Karnataka,Bengaluru Urban,13.051161,77.5073215
+Kakde Nursing Home,Private,Multispecialty / General,,0.0,0.0,"# 1034 , Church Road, New Thippasandra, Hal Iii Stage",Karnataka,Bengaluru Urban,12.9738235,77.6522191
+Aditi Maternity and Genral Nursing Home,Private,Women & Child,,0.0,0.0,"No 78,Arekere Mico Layout,Bannerghatta Road Bangaloe",Karnataka,Bengaluru Urban,12.8904239,77.5972383
+Anand Clinic,Private,Multispecialty / General,,0.0,0.0,"Bilekahalli, Bannerghatta Road",Karnataka,Bengaluru Urban,12.8982878,77.6002863
+Divakar's Global Hospital,Private,Multispecialty / General,,0.0,0.0,"8-B, Bannerghatta Road",Karnataka,Bengaluru Urban,12.8886431,77.5972884
+Gangothri Hospital,Private,Multispecialty / General,,0.0,0.0,"No.27, Kuvempunagar, B.T.M.Layout, 100 Ft. Ring Road",Karnataka,Bengaluru Urban,12.9163093,77.6137701
+North Star Maternity and Nursing Home,Private,Women & Child,,0.0,0.0,"No. 4, Sarakki Industrial Estate, 3Rd Phase, J.P.Nagar, Bannerghatta Road",Karnataka,Bengaluru Urban,12.9146677,77.5998379
+Sagar Hospital,Private,Multispecialty / General,,0.0,0.0,"Shavige Malleshwara Hills, Kumaraswamy Layout, Banashankari,  Banashankari",Karnataka,Bengaluru Urban,12.9254533,77.546757
+Sakhi Hospital (A Unit Of Prasad Healthcare Services),Private,Multispecialty / General,,0.0,0.0,"123, 7 Th Cross Dollas Colony,Billekhalli,Off Bannerghatta Road,Btm Stage Ii",Karnataka,Bengaluru Urban,12.9054958,77.6035809
+Sri Sai Ram Hospital - Bangalore,Private,Multispecialty / General,,0.0,0.0,"# 33, Bannerghatta Road (Service Road), B.T.M.Layout B.T.M. Layout 2Nd Stage",Karnataka,Bengaluru Urban,12.91509,77.6238253
+Vinayaka Nethralaya,Private,Eye / Ophthalmology,,0.0,0.0,"# 68, 1St Floor, 100 Ft. Ring Road, 2Nd Stage, B.T.M. Layout",Karnataka,Bengaluru Urban,12.9864565,77.5395269
+Sri Sai Nursing Home and Diagnostic Laboratory,Private,Multispecialty / General,,0.0,0.0,K.Naraynapura Main Road,Karnataka,Bengaluru Urban,13.0660282,77.6419478
+Bharath Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No.1402, Sarakkigote, Kanakapura Main Road",Karnataka,Bengaluru Urban,12.9128912,77.5787769
+Divakars Global Hospitals,Private,Multispecialty / General,,0.0,0.0,"No 220 9Th Cross,2Nd Phase J P Nagar J P Nagar",Karnataka,Bengaluru Urban,12.9099647,77.5925166
+Green City Hospital,Private,Multispecialty / General,,0.0,0.0,"#726, 17Th Cross, 6Th Phase, J.P. Nagar",Karnataka,Bengaluru Urban,12.9055516,77.578558
+Oxford Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 1364, 1St Stage, Sarakki Gate, Kanakapura Road, Jp Nagar",Karnataka,Bengaluru Urban,12.9073191,77.5730864
+Rag HospitalandMaternity Centre,Private,Women & Child,,0.0,0.0,"1635/A,17Th Main J.P Nager",Karnataka,Bengaluru Urban,12.9126861,77.5913539
+Rajalakshmi Multispeciality Hospital,Private,Multispecialty / General,,0.0,0.0,"76-1-1, V R Layout Jp Nagar",Karnataka,Bengaluru Urban,12.8978624,77.5845084
+Rajshekhar Hospital,Private,Multispecialty / General,,0.0,0.0,"No 21, 9Th Cross B-78 Jp Nagar",Karnataka,Bengaluru Urban,12.9109937,77.5787234
+Ravindranath Ge Medical Associates Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"No.220, 9Th Cross, J.P.Nagar 2Nd Phase",Karnataka,Bengaluru Urban,12.9099647,77.5925166
+Shekar Nethralaya,Private,Eye / Ophthalmology,,0.0,0.0,"633, 100 Ft Ring Road Phase Iii Jp Nagar",Karnataka,Bengaluru Urban,12.906406,77.5958928
+Swathi Galaxy Hospital,Private,Multispecialty / General,,0.0,0.0,"1764, 14Th Main,1St Stage,Kumaraswamy Layout,Bengaluru",Karnataka,Bengaluru Urban,12.9057693,77.562969
+T.R.Hospital,Private,Multispecialty / General,,0.0,0.0,"Kothanur Dinne Main Road,Sapthagiri Layout,OppositeFabricana Factory,J.P.Ngar,8Th Phase",Karnataka,Bengaluru Urban,12.8769547,77.5827175
+Ananya Hospital Pvt.Ltd.,Private,Multispecialty / General,,0.0,0.0,"389/44,19Th Main, Rajajinagar I Block",Karnataka,Bengaluru Urban,12.999754,77.550445
+Anugraha Hospital,Private,Multispecialty / General,,0.0,0.0,"No 18/2, 1St Cross, M.C. Layout, Vijayanagar",Karnataka,Bengaluru Urban,12.9671984,77.523846
+Aruna Netralaya,Private,Multispecialty / General,,0.0,0.0,"#313, 3Rd Stage,4Th Blk,Siddiah Puranik Rd,Basaveshwaranagar",Karnataka,Bengaluru Urban,12.9916919,77.5384217
+Chord Road Hospital Pvt. Ltd.,Private,Multispecialty / General,,0.0,0.0,"No.100, Lic Colony ,West Of Chord Rd, Basaveshwaranagar",Karnataka,Bengaluru Urban,13.0304978,77.5522692
+Dr Raos Maternity Hospital,Private,Women & Child,,0.0,0.0,"No 370.371,I Stage West Of Cord Road",Karnataka,Bengaluru Urban,12.9941257,77.5508542
+Jeevani Health And Medicare Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"No 11/2, Magadi Main Road Agrahara, Dasarahalli Dasarahalli",Karnataka,Bengaluru Urban,12.98061,77.538619
+Matru Nursing Home And Trauma Care Centre,Private,Ortho / Trauma,,0.0,0.0,"425/A, 6Th Main Road 3Rd Stage, 3Rd Block Basaveshwara Nagar",Karnataka,Bengaluru Urban,12.9918208,77.5331332
+Panacea Hospital Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"No 334, 8Th Main, 3Rd Stage Siddaiahpuranik Road Bashaveswanagar",Karnataka,Bengaluru Urban,12.9911107,77.5419514
+Sneha Ent Hospital,Private,Multispecialty / General,,0.0,0.0,"175,1St Stage Beml Lay Out,Basaweswara Nager",Karnataka,Bengaluru Urban,12.9907346,77.5319638
+Trupti Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No. 463, 1St Block, 3Rd Stage, Dr.Siddaiah Puranika Road, Basaveshwaranagear",Karnataka,Bengaluru Urban,12.9946105,77.5396558
+Vathsalya Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,565 Iii Stage 4Th Block,Karnataka,Bengaluru Urban,12.9304325,77.5497613
+Vijaya Hospital,Private,Multispecialty / General,,0.0,0.0,"4,Kirloskar Colony, Basaveshwaranagar",Karnataka,Bengaluru Urban,12.9958829,77.5335329
+Vivus West Multi Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 11/2, Magadi Main Road, Agrahara Dasarahalli",Karnataka,Bengaluru Urban,12.98061,77.538619
+Banashankari Hospital,Private,Multispecialty / General,,0.0,0.0,"Weavers Colony Main Road, Bannerghatta Road",Karnataka,Bengaluru Urban,12.8453374,77.5881445
+Vijayashree Hospitals,Private,Multispecialty / General,,0.0,0.0,"#3, Gottigere, Bannerghatta Main Road,Near Gottigere Bus Stand",Karnataka,Bengaluru Urban,12.856699,77.5888559
+Ashwini Hospital,Private,Multispecialty / General,,0.0,0.0,"Opposite To Bdk Kalyana Mantapa,Santhe Circle, Old Town,Yelahanka",Karnataka,Bengaluru Urban,13.1004849,77.5940134
+R K Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 31, Kammanahalli Main Road Nr.Venkateswara Ent",Karnataka,Bengaluru Urban,13.0127953,77.6374848
+Sathya Hospital,Private,Multispecialty / General,,0.0,0.0,"No.45 Kamanahalli Main Road C.Ramiah Layout , St. Thomas Town Post",Karnataka,Bengaluru Urban,13.0173829,77.6335474
+Abhaya Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"# 77, 110 Feet Ring Road, Bsk Iii Stage",Karnataka,Bengaluru Urban,12.9272547,77.5469082
+Abhilash Hospital And Sara Rehabilitation Centre,Private,Multispecialty / General,,0.0,0.0,"#271, 5Th Block, 100 Feet Road, 3Rd Phase, Banashankari",Karnataka,Bengaluru Urban,12.9367161,77.6263761
+Aditya Netralaya - Bangalore,Private,Multispecialty / General,,0.0,0.0,"# 244,7Th Cross Vi Block.Iii Phase Iii Block, Banashankari",Karnataka,Bengaluru Urban,12.9254533,77.546757
+Ashwini Hospital,Private,Multispecialty / General,,0.0,0.0,No. 129 Kathriguppa Bsk Iii Stage,Karnataka,Bengaluru Urban,12.9289462,77.5519962
+Gururaja Nursing Home,Private,Multispecialty / General,,0.0,0.0,"#566, 1St Main Road , Nagendra Block ,B S K 3Rd Stage",Karnataka,Bengaluru Urban,12.9400567,77.5529916
+K.S. Hospital,Private,Multispecialty / General,,0.0,0.0,"No-5,100, Feet Ring Road, Hosakerehalli ,B.S.K 3Th Stage",Karnataka,Bengaluru Urban,12.9063,77.5739063
+Prabha Eye Clinic and Research Center,Private,Eye / Ophthalmology,,0.0,0.0,"C.A Site No 1, 2 Cross, 2 Main, 7Th Block, Banashankari",Karnataka,Bengaluru Urban,12.9234955,77.5548886
+Ring Road Hospital,Private,Multispecialty / General,,0.0,0.0,"#129, 1 Main Road, Kattriguppe, Banashankari Iii Stage",Karnataka,Bengaluru Urban,12.9244526,77.5510029
+Sg Hospital,Private,Multispecialty / General,,0.0,0.0,"30, 2Nd Cross Anjaneya Nagar, 3Rd Stage Banashankari",Karnataka,Bengaluru Urban,12.8908145,77.6142499
+Shalini Nursing Home,Private,Multispecialty / General,,0.0,0.0,"63, 6Th Main, Bda Layout, Avalahalli, Bsk Iii Stage",Karnataka,Bengaluru Urban,12.9553664,77.5390317
+The Pulse Multi Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"5/81, 50 Feet Road, 20Th Main Road, Muneshwara Block, Girinagar",Karnataka,Bengaluru Urban,12.9419237,77.5469674
+Udhbhava Hospital,Private,Multispecialty / General,,0.0,0.0,"No:114, 100 Feet Ring Road, 3Rd Stage Banashankari",Karnataka,Bengaluru Urban,12.9236831,77.5539892
+Vittala International Institute Of Ophthalmology,Private,Eye / Ophthalmology,,0.0,0.0,"#1,2Nd Cross, 2Nd Main,7Th Block, Banashankari 3Rd Stage, Hosakerehalli",Karnataka,Bengaluru Urban,12.9347488,77.5728361
+Dr Satturs Hospital,Private,Multispecialty / General,,0.0,0.0,"Iii West Of Chord Road , Opposite 1St Block Rajajinagar , Mahalakshmipuram",Karnataka,Bengaluru Urban,12.941633,77.5923327
+Fortis Hospitals Limited,Private,Multispecialty / General,,0.0,0.0,"111, West Of Chord Road, Mahalakshmipuram, Rajajinagar I Block",Karnataka,Bengaluru Urban,13.0118126,77.5518994
+Namratha Nursing And Maternity Home,Private,Women & Child,,0.0,0.0,"158, 6Th Main Road 4Th Stage, Ii Phase West Of Chord Road",Karnataka,Bengaluru Urban,12.9407598,77.5515289
+Padmabhushan Dr Mc Modi Charitable Eye Hospital,Trust / Charitable,Eye / Ophthalmology,,0.0,0.0,Dr Mc Modi Road Near West Of Chord Road Mahalakshmi Puram Layout,Karnataka,Bengaluru Urban,12.9978747,77.546252
+Pragathi Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No. 674/A, 10Th Cross, 5Th Main, W O C Road 2Nd Stage, Mahalakshmi Puram",Karnataka,Bengaluru Urban,13.0070025,77.5556028
+Sangolli Nursing Home,Private,Multispecialty / General,,0.0,0.0,"#270/2, 4Th Main, Mahalakshmi Layout",Karnataka,Bengaluru Urban,13.008245,77.546926
+Sneha Nursing Home,Private,Multispecialty / General,,0.0,0.0,"76/1, 11Th Cross Mahalakshmipuram West Of Chord Road",Karnataka,Bengaluru Urban,12.9999003,77.5448589
+Sri Venkateshwara Hospital,Private,Multispecialty / General,,0.0,0.0,"86 Hosur Main Road , Madivala",Karnataka,Bengaluru Urban,12.9325662,77.6125214
+Cauvery Medical Center Limited,Private,Multispecialty / General,,0.0,0.0,"No 43/2, Nh - 7, Bellary Road, Sahakara Nagar,  Kodigehalli Gate",Karnataka,Bengaluru Urban,13.0576551,77.5932891
+Goldfinch Hospital,Private,Multispecialty / General,,0.0,0.0,"No-150/24, Kodigehalli Main Road, Maruthinagar",Karnataka,Bengaluru Urban,13.0575359,77.5897606
+North Side Hospital And Diagnostic Centre,Private,Multispecialty / General,,0.0,0.0,"8 G Block,60Feet Road ,Shahakar Nagar",Karnataka,Bengaluru Urban,13.0628571,77.5922138
+Sankara Nethralaya,Private,Eye / Ophthalmology,,0.0,0.0,"43 Bellary Road, Bengluru, Bengluru",Karnataka,Bengaluru Urban,13.0282801,77.5861075
+Shakthikrupa Nursing Home,Private,Multispecialty / General,,0.0,0.0,"# 20, 1St Floor, 17 Th A Cross, Kaggadasapura Main Road C. V. Raman Nagar",Karnataka,Bengaluru Urban,12.9832113,77.6751206
+Sree Lakshmi Hospital,Private,Multispecialty / General,,0.0,0.0,21St Cross Kaggadasapura Main Road C V Raman Nagar,Karnataka,Bengaluru Urban,12.982531,77.6799123
+Nethra Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"8, Poojary Layout, 80Ft. Road, Rmv Iind Stage,Sanjaynagar",Karnataka,Bengaluru Urban,13.0262299,77.5768601
+Raj Mahal Vilas Hospital,Private,Multispecialty / General,,0.0,0.0,"No.138, Aec Layout, Sanjay Nagar",Karnataka,Bengaluru Urban,12.994369,77.5298954
+S. J. Hospital,Private,Multispecialty / General,,0.0,0.0,"No.2, Ngef Layout, Sanjaynagar Main Road",Karnataka,Bengaluru Urban,13.0352063,77.5752036
+Acura Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"No,435,18Th Main 6Th Block (Near Indoor Stadium) Koramangala",Karnataka,Bengaluru Urban,12.9369154,77.6407258
+Apollo Koramangla Cradle Limited,Private,Multispecialty / General,,0.0,0.0,"No.58, 5Th Cross,18Th Main,Dhanalakshmi Bank Bldg,' 6Th Bolck, Koramangala",Karnataka,Bengaluru Urban,12.9279232,77.6271078
+J P Dental Clinic,Private,Dental,,0.0,0.0,"#639,2-C Main, 8Th Block,Koramangala",Karnataka,Bengaluru Urban,12.9427798,77.6162023
+The Apollo Clinic,Private,Multispecialty / General,,0.0,0.0,"No.51, Jyothi Nivas Colleges, 5Th Block, Kormangala",Karnataka,Bengaluru Urban,12.9336702,77.615816
+Vaatsalaya Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 1, 2Nd Cross, 5Th A Block, Koramangala",Karnataka,Bengaluru Urban,12.9361155,77.61584
+Dr Varmas Jyothi Prasad Nursing Home Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"Nandini Layout, Saraswati Puram",Karnataka,Bengaluru Urban,13.0103904,77.538296
+J.P.Nursing Home,Private,Multispecialty / General,,0.0,0.0,"#4,Sfhs,Next To Nandini Layout",Karnataka,Bengaluru Urban,13.0159906,77.5338233
+Nandini Layout Meternity Home,Private,Multispecialty / General,,0.0,0.0,"Jai Bhuvaneshwarnagar, Nandini Layout,  South",Karnataka,Bengaluru Urban,13.0145722,77.5307965
+Shankara Nethralaya Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"41-42/5 7Th Cross, Saraswathipuram, Nandini Layout, Main Road",Karnataka,Bengaluru Urban,13.008932,77.540603
+Ketham`S Hospital Pvt. Ltd,Private,Multispecialty / General,,0.0,0.0,"# 50/2, Vidyaranyapura, Nanjappa Main Road",Karnataka,Bengaluru Urban,13.0241842,77.6497088
+Kruthika Hospital,Private,Multispecialty / General,,0.0,0.0,"Nanjappa Road, Vidyaranna Pura Main Road",Karnataka,Bengaluru Urban,13.0688367,77.5580402
+Naggapa Hadli Hospital,Private,Multispecialty / General,,0.0,0.0,"M S Palya Circle, Vidyaranyapura Road",Karnataka,Bengaluru Urban,13.0735607,77.5569874
+Rajalakshmi Hospital,Private,Multispecialty / General,,0.0,0.0,"#21/1, Lakshmipura Main Road,Vidyaranyapura,Opposite Lakshmipura Lake",Karnataka,Bengaluru Urban,13.0965073,77.5420588
+Soukya Hospital,Private,Multispecialty / General,,0.0,0.0,"17, Nti Layout, Vidyaranyapura",Karnataka,Bengaluru Urban,13.0777239,77.5569265
+Rc Hospital,Private,Multispecialty / General,,0.0,0.0,"No. 484/A, Ideal Homes Township,18Th Main Rd.Rajarajeshwarinagar",Karnataka,Bengaluru Urban,12.9294443,77.5173072
+Sudhanva Health Care,Private,Multispecialty / General,,0.0,0.0,"No-1406, 8Th Main, 7Th Cross 5Th Stage, 1St Phase,Beml Layout, Rajarajeswaringar",Karnataka,Bengaluru Urban,12.9094624,77.5335675
+Vasan Eye Care Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"#483, 16Th Cross 18Th Main , Rajarajeshwari Nagar",Karnataka,Bengaluru Urban,12.9015198,77.5596242
+Asian Speciality Hospital(A Unit Of Orch Hospital and Healthcare Services Ltd),Private,Multispecialty / General,,0.0,0.0,"11/A 9Th Main, 13Th Cross 6Th Sector Hsr Layout Outer Ring Road",Karnataka,Bengaluru Urban,12.9108829,77.604587
+Bmax Hospital India Pvt Ltd,Private,Multispecialty / General,,0.0,0.0,"No. 120/4, Haralur Road, Off Sarjapur Road, H S R Layout Post",Karnataka,Bengaluru Urban,12.9114126,77.6643146
+Orch Hospital and Healthcare Services,Private,Multispecialty / General,,0.0,0.0,"11A.9Th Main, 13Th Cross, Sector-6 Hsrlayout, Outer Ring Road",Karnataka,Bengaluru Urban,12.9153707,77.5621065
+Sri Kalabyraveshwara Swamy Ayurvedic Medical Colle,Private,Multispecialty / General,,0.0,0.0,"No. 10 Pipeline Road, R.P.C. Layout, Vijayanagar",Karnataka,Bengaluru Urban,12.967283,77.5447472
+Aditi Hospital,Private,Multispecialty / General,,0.0,0.0,"Gandhi Sqare, , Newpet,Anekal",Karnataka,Bengaluru Urban,12.7105259,77.6911295
+Bhavana Nursing Home,Private,Multispecialty / General,,0.0,0.0,"Mysore Bank Road, Anekal Town",Karnataka,Bengaluru Urban,12.708095,77.6976763
+Y K Hospital,Private,Multispecialty / General,,0.0,0.0,"C A Plot 65 Ring Road, Jigani Industrial Area",Karnataka,Bengaluru Urban,36.778261,-119.4179324
+N.R. Hospital,Private,Multispecialty / General,,0.0,0.0,"Hosur-  Highway, Near Check Post, Atttibele",Karnataka,Bengaluru Urban,12.7409127,77.8252923
+Taluk Hospital Magadi,Public,Multispecialty / General,,0.0,0.0,"Magadi,Ramanagara ric",Karnataka,Bengaluru Urban,12.9576756,77.2261452
+Krishnadevaraya Hospital And Research Centre,Private,Multispecialty / General,,0.0,0.0,"Sir Mvit Campus, Hunasamarana Halli, Yelahanka",Karnataka,Bengaluru Urban,13.151907,77.612743
+St.John's Medical College Hospital,Private,Cardiac,,,,"Sarjapur Road, John Nagar, Koramangala",Karnataka,Bengaluru Urban,12.9309785,77.6199608
+CGHS Dispensary No.7,Public,Multispecialty / General,,0.0,0.0,"CGHS Dispensary No.7, Koramangala, CPWD\nQuarters, Koramangala",Karnataka,Bengaluru Urban,12.9279232,77.6271078
+CGHS Dispensary No.8,Public,Multispecialty / General,,0.0,0.0,"CGHS Dispensary No.8, Domlur, CPWD Quarters, Domlur",Karnataka,Bengaluru Urban,12.9609857,77.6387316
+Aayugs Multispeciality Hospital,Private,Multispecialty / General,,0.0,0.0,"#477, 1st Main, B Block",Karnataka,Bengaluru Urban,30.5781488,-91.1700371
+"Abhaya Eye Hospital, Super Speciality Eye Care Centre",Private,Eye / Ophthalmology,,0.0,0.0,"# 77, 100 Ft.Ring Road, B.S.K.3rd Stage, 5th Block",Karnataka,Bengaluru Urban,12.9247325,77.6186378
+Abhishek Netradhama,Private,Eye / Ophthalmology,,0.0,0.0,"HIG 2024, 3rd B Cross, B Sector, Opposite national public school, Near SBI Bank Yelahanka new town",Karnataka,Bengaluru Urban,13.1042445,77.5713193
+Acura Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"435, Acura Hospital, 18th Main, 6th Block, Koramangala",Karnataka,Bengaluru Urban,12.9279232,77.6271078
+Apollo Bengaluru Cradle Limited,Private,Multispecialty / General,,0.0,0.0,"No.25, 46th Cross, 5th Block, Jayanagar",Karnataka,Bengaluru Urban,12.9167863,77.5851803
+Apollo Speciality Hospital,Private,Cardiac,250.0,0.0,0.0,"21/2, 14th Cross, 3rd Block, Jayanagar",Karnataka,Bengaluru Urban,12.9587626,77.5235076
+Athreya Hospital,Private,Cardiac,,0.0,0.0,"6/2 B, Opposite Suryanagara, Phase 1, Chandpura, Anekal Main Road",Karnataka,Bengaluru Urban,12.7943073,77.7064163
+"Bengaluru Hospital, Susruta Medical Aid And\nResearch Home Limited",Private,Multispecialty / General,,0.0,0.0,"202, R.V.Road",Karnataka,Bengaluru Urban,12.9715987,77.5945627
+Bengaluru Kidney Stone Hospital,Private,Renal / Uro,,0.0,0.0,Hudson Circle,Karnataka,Bengaluru Urban,12.9715987,77.5945627
+Bengaluru West Lions Hospital,Private,Multispecialty / General,,0.0,0.0,J.C.Road,Karnataka,Bengaluru Urban,12.9715987,77.5945627
+Bhagawan Mahaveer Jain Heart Centre,Private,Cardiac,,0.0,0.0,"No.17, Millers Road, Vasantha Nagar",Karnataka,Bengaluru Urban,12.9911307,77.5937662
+Bharath Nursing Home,Private,Multispecialty / General,,0.0,0.0,"No 1402, Sarakki Gate, J P Nagar, 1st Phase, K.P.Main Road",Karnataka,Bengaluru Urban,12.911103,77.57314
+Bharathy Hospital,Private,Ortho / Trauma,,0.0,0.0,"4, Nagarbhavi Main Road, Prasanthnagar",Karnataka,Bengaluru Urban,12.9761414,77.5326436
+Chinmaya Mission Hospital,Private,Cardiac,,0.0,0.0,"1st stage, Indiranagar",Karnataka,Bengaluru Urban,12.9782591,77.6448425
+Chinmaya Narayana Super Specialty Centre,Private,Cardiac,,0.0,0.0,"C.M.H.Road, Indiranagar, 2nd Stage",Karnataka,Bengaluru Urban,12.9783012,77.6379484
+Chord Road Hospital Pvt Ltd,Private,Cardiac,,0.0,0.0,"#100/101, Lic Colony West Of Chord, Basaveshwaranagar",Karnataka,Bengaluru Urban,12.9956355,77.5504955
+"Cloud Nine, Jayanagar",Private,Women & Child,,0.0,0.0,"#1533, 9th Main,\n3rd Block, Jayanagar",Karnataka,Bengaluru Urban,12.933863,77.584263
+D.G.Hospital,Private,Multispecialty / General,,0.0,0.0,Padmanabhanagar,Karnataka,Bengaluru Urban,12.9714646,77.5815375
+Devi Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"#434, 18th Main, 80 Feet Road, 6th Block, Opposite Koramangala Bus Depot, Koramangala",Karnataka,Bengaluru Urban,12.9279232,77.6271078
+Divya Drishti Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"#966/ 22, Service Road, RPC Layout, Vijayanagar, Opposite Syndicate Bank",Karnataka,Bengaluru Urban,12.958047,77.5341765
+Dr.Zamindar Microsurgical Eye Centre,Private,Eye / Ophthalmology,,0.0,0.0,"No.1013, 1st Block, 3 Rd Cross, Hrbr Layout, Kalyan Nagar",Karnataka,Bengaluru Urban,13.0256425,77.6366197
+Dr. T.V.Ramesh Piles Hospital,Private,Multispecialty / General,,0.0,0.0,"1st Main Road, 7th Cross, Ganganagar",Karnataka,Bengaluru Urban,13.025502,77.5576219
+"Fortis Hospital, Nagarbhavi",Private,Cardiac,,0.0,0.0,"No 23, 80 Feet Road, Gurukrupa Layout",Karnataka,Bengaluru Urban,12.920683,77.556885
+Garden City Hospital,Private,Multispecialty / General,,0.0,0.0,"132/18, 22nd Cross, Jayanagar, 3 rd Block",Karnataka,Bengaluru Urban,12.933219,77.5815604
+Gayathri Hospital,Private,Multispecialty / General,,0.0,0.0,"# 91, Magadi Chord Road",Karnataka,Bengaluru Urban,12.974333,77.542641
+HCG Bengaluru Institute Of Oncology,Private,Oncology,,0.0,0.0,"44-45/2, 2nd Cross Raja Ram Mohan",Karnataka,Bengaluru Urban,12.953321,77.531756
+"HCG, Koramangala",Private,Oncology,,0.0,0.0,"# 88, 17th, A Main, 2nd Cross, 5th Block, Koramangala",Karnataka,Bengaluru Urban,12.9350101,77.6312173
+Hi Tech Kidney Stone Hospital,Private,Renal / Uro,,0.0,0.0,"#240, 32nd Cross, 7 Th Block",Karnataka,Bengaluru Urban,12.927046,77.579154
+Hitech Kidney Stone Hospital,Private,Renal / Uro,,0.0,0.0,"No.6/7, Crescent Road Cross, Kumar Park East",Karnataka,Bengaluru Urban,12.9917169,77.5664805
+I-Aim Healthcare Centre,Private,Multispecialty / General,,0.0,0.0,"74/2, Jarakabande Kaval (Behind CRPF Campus), Post Attur, Via Yelahanka",Karnataka,Bengaluru Urban,13.1004849,77.5940134
+Jayashree Multispeciality Hospital,Private,Cardiac,23.0,0.0,0.0,"#25, 26, 27, 1st Cross Block",Karnataka,Bengaluru Urban,12.9993935,77.540421
+Jeevani Health And Medicare Private Limited,Private,Multispecialty / General,,0.0,0.0,"No.11/2, Magadi Main Road, Agrahara Dasarahalli",Karnataka,Bengaluru Urban,12.98061,77.538619
+Karthik Nethralaya,Private,Eye / Ophthalmology,,0.0,0.0,"89, 7th cross, N R Colony, Near Bull temple",Karnataka,Bengaluru Urban,12.9656578,77.5652661
+Kids Clinic India Pvt.Ltd.- Cloudnine,Private,Multispecialty / General,,0.0,0.0,"No.47, 11th Main, 17th Cross, Malleshwaram",Karnataka,Bengaluru Urban,13.0082512,77.5632061
+Kusuma Hospital,Private,Cardiac,,0.0,0.0,"237 / 37, 10 Th Main, Nagendra Block",Karnataka,Bengaluru Urban,12.9204899,77.5515107
+Lalitha Healthcare Pvt.Ltd.(A Fortis Network Hospital),Private,Cardiac,,0.0,0.0,"No - 65, 1st Main, Seshadripuram",Karnataka,Bengaluru Urban,12.9785849,80.2320987
+M.S. Ramaiah Memorial Hospitals(Only For Corporate),Private,Multispecialty / General,,0.0,0.0,"M S R I T Nagar, New Bel Road",Karnataka,Bengaluru Urban,13.0344064,77.5682976
+M.G. Speciality Health Care (A Unit Of Mgmi Hospitals(India) Pvt Ltd),Private,Multispecialty / General,,0.0,0.0,"#5/2, 13th Cross, Hosur Road, Wilson Garden",Karnataka,Bengaluru Urban,12.945783,77.59732
+M.S. Ramaiah Harsha Hospital,Private,Multispecialty / General,,0.0,0.0,"193/4m Sondekoppa Circle, N.H.-4, Nelamangala",Karnataka,Bengaluru Urban,13.0410322,77.3914939
+M.S.R.Narayana Hrudayalaya,Private,Multispecialty / General,,0.0,0.0,M.S.Ramaiah Memorial Hospital,Karnataka,Bengaluru Urban,17.3337789,77.9034879
+Mahaveer Eye Hospital Private Limited,Private,Eye / Ophthalmology,,0.0,0.0,"No.02, Sirur Park Road, Seshadripuram",Karnataka,Bengaluru Urban,12.9931308,77.5728546
+Mallige Medical Centre,Private,Multispecialty / General,,0.0,0.0,"31/32, Crescent Road",Karnataka,Bengaluru Urban,12.9851615,77.5803852
+Medikeris Superspecaility Ent Centre,Private,Multispecialty / General,,0.0,0.0,"No-9/91, Govindappa Road, Basavana Gudi",Karnataka,Bengaluru Urban,12.946587,77.5722657
+Narayana Multispeciality Hospital(A Unit Of Narayana Hrudayalaya Pvt Ltd),Private,Multispecialty / General,,0.0,0.0,"Ca Site No 1, Basant Health Centre Building, 18th Main, Opposite Hsr Club",Karnataka,Bengaluru Urban,36.778261,-119.4179324
+Narayana Nethralaya\n,Private,Eye / Ophthalmology,,0.0,0.0,"No.121/C, Chord Road, Rajajinagar 1st `R`Block",Karnataka,Bengaluru Urban,13.011531,77.552046
+Nature Cure Hospital,Private,Multispecialty / General,,0.0,0.0,"No.1537/1, 9th Main Road, 3rd Block, Jayanagar",Karnataka,Bengaluru Urban,12.933267,77.584489
+Neha Prakash Hospital,Private,Multispecialty / General,,0.0,0.0,"# 8, V Phase, 6th Cross, New Town",Karnataka,Bengaluru Urban,28.4689118,77.1411003
+Nethradhama Super Speciality Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"# 256/14, Kanakapura Main Road,\n7th Block, Jayanagar",Karnataka,Bengaluru Urban,12.925255,77.577359
+Nethradhama Superspeciality Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"# 66, Indiranagar Double Road, Hal 2nd Stage",Karnataka,Bengaluru Urban,12.97344,77.635628
+"Nova Medical Center, Sadashiv Nagar",Private,Multispecialty / General,,0.0,0.0,"No 222/14, 5 Th Main Bellary Road, Sadashivnagar",Karnataka,Bengaluru Urban,13.0067174,77.5814238
+Nu Hospitals,Private,Multispecialty / General,,0.0,0.0,"C.A.6, 11th Cross, 15th Main, Padmanabhanagar",Karnataka,Bengaluru Urban,12.9091748,77.597458
+Padmabhushan Dr.M.C.Modi Charitable Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"Dr.M.C.Modi Road, Mahalakshmipuram",Karnataka,Bengaluru Urban,13.0122294,77.6050075
+"Panacea Hospital, Nagarabhavi",Private,Multispecialty / General,,0.0,0.0,"# 611 /612, Nagarabhavi Main Road",Karnataka,Bengaluru Urban,12.9617571,77.5216056
+Panacea Hospitals Private Limited,Private,Multispecialty / General,,0.0,0.0,"334, 3rd Stage, 4th Block, Basaveshwaranagar",Karnataka,Bengaluru Urban,12.9935833,77.5342741
+Parimala Speciality Hospital,Private,Multispecialty / General,,0.0,0.0,"12/13, Bilekahalli, Bannerghatta Road",Karnataka,Bengaluru Urban,12.8594543,77.5917489
+People Tree Hospitals,Private,Multispecialty / General,,0.0,0.0,"# 2, Tumkur Road, Goreguntepalya",Karnataka,Bengaluru Urban,13.1582339,77.32569
+Prabha Eye Clinic and Research Centre,Private,Eye / Ophthalmology,,0.0,0.0,"504, 40th Cross Road, Jayanagar",Karnataka,Bengaluru Urban,12.919731,77.575085
+Prashanth Hospital,Private,Multispecialty / General,,0.0,0.0,"90-D, Bommanahalli Circle, Hosur road",Karnataka,Bengaluru Urban,12.9216826,77.6200305
+Pristine Hospital,Private,Multispecialty / General,,0.0,0.0,"No.877, Modi Hospital Road, West of Chord Road, II Stage Extension",Karnataka,Bengaluru Urban,12.9978747,77.546252
+Punya Hospital,Private,Multispecialty / General,,0.0,0.0,"# 52 /10 80 Ft Road, Khb Colony Basaveshwaranagar",Karnataka,Bengaluru Urban,12.9862578,77.5374814
+Raksha Multispeciality Hospital,Private,Multispecialty / General,,0.0,0.0,"# 141/142, 1st Main, Krishnandanagar, Khb Colony",Karnataka,Bengaluru Urban,12.9861693,77.5348568
+Ravi Kirloskar Memorial Hospital,Private,Multispecialty / General,,0.0,0.0,"No.19, 2nd Main Road, 1st Phase, Peenya Industrial Area",Karnataka,Bengaluru Urban,12.9594745,77.560953
+Retina Institute Of Karnatakaa,Private,Multispecialty / General,,0.0,0.0,"# 122, 5th Main Road, Chamarajpet",Karnataka,Bengaluru Urban,12.9567051,77.5626974
+Sagar Hospitals,Private,Multispecialty / General,,0.0,0.0,"DSI, Shavige Malleshwara Hills, Kumaraswamy Layout, Banashankari",Karnataka,Bengaluru Urban,12.9254533,77.546757
+Samprathi Eye Hospital And Squint Centre,Private,Eye / Ophthalmology,,0.0,0.0,"# 111 Railway Parallel Road, 7 Th Cross, Kumara Park (W)",Karnataka,Bengaluru Urban,13.0073714,77.5601893
+Sankalp Netralaya and Polyclinic,Private,Multispecialty / General,,0.0,0.0,"#85/1, 19th Main Hsr Layout, Sector 1",Karnataka,Bengaluru Urban,12.9187631,77.6449186
+Sankara Eye Hospital,Private,Eye / Ophthalmology,,0.0,0.0,"Varthur Main Road, Kundalahalli Gate, Marahahalli-White Field Road",Karnataka,Bengaluru Urban,12.9583404,77.7155779
+Sapthagiri Hospital,Private,Multispecialty / General,,0.0,0.0,"# 15, Hesaraghatta Main Road",Karnataka,Bengaluru Urban,13.0730767,77.5030755
+Sarojini Hospital,Private,Multispecialty / General,,0.0,0.0,"39/2, Yash Avenue, 8th Mile Circle, Nh 4, T.Dasarahalli",Karnataka,Bengaluru Urban,13.0506057,77.5118463
+Sevakshetra Hospital,Private,Multispecialty / General,,0.0,0.0,"27th Cross, Sevakshetra Hospital Road, B.S.K.II Stage",Karnataka,Bengaluru Urban,12.9714646,77.5815375
+Shanbhag Nursing Home,Private,Multispecialty / General,,0.0,0.0,"#6, Thimmaiah Layout, 1st Main 3rd D Cross, 3rd Stage, 2nd Block",Karnataka,Bengaluru Urban,12.9236955,77.5513525
+Shree Kalabyraveswara Swamy Ayurveda Medical College And Hospital,Private,Multispecialty / General,,0.0,0.0,"No.10, Pipeline Road, RPC Layout, Vijayanagar, 2nd Stage",Karnataka,Bengaluru Urban,12.967283,77.5447472
+Shri Krishna Sevashrama Hospital,Private,Multispecialty / General,,0.0,0.0,"#523, 10th Main,\n45th Cross, 5th Block, Jayanagar",Karnataka,Bengaluru Urban,12.9172801,77.5850057
+Sri Sai North Side Hospital,Private,Multispecialty / General,,0.0,0.0,"8, G Block, 60 Feet Road",Karnataka,Bengaluru Urban,12.9723418,77.5147716
+Sri Sai Ram Hospital,Private,Multispecialty / General,,0.0,0.0,No.6 J.C.Industrial Area,Karnataka,Bengaluru Urban,29.2660313,47.8625634
+Sri Venkateshwara Hospitals,Private,Multispecialty / General,,0.0,0.0,"#86 Hosur Main Road, Madivala",Karnataka,Bengaluru Urban,12.9325662,77.6125214
+St. Johns Hospital,Private,Multispecialty / General,,0.0,0.0,"St.Johs Medical College Hospital, Johnnagar",Karnataka,Bengaluru Urban,12.9288874,77.6131577
+St. Martha'S Heart Center (Managed By Narayana Health),Private,Cardiac,,0.0,0.0,"Office No-05, Nrupathunga Road",Karnataka,Bengaluru Urban,12.9713221,77.5869159
+St. JohnS Medical College Hospital\n,Private,Multispecialty / General,,0.0,0.0,"John nagar, Koramangala",Karnataka,Bengaluru Urban,12.9309785,77.6199608
+St. Marthas Hospital,Private,Multispecialty / General,,0.0,0.0,Nrupathunga Road,Karnataka,Bengaluru Urban,12.969805,77.587251
+St. PhilominaS Hospital,Private,Multispecialty / General,,0.0,0.0,"No.1, Neelasandra Road",Karnataka,Bengaluru Urban,12.9624895,77.611882
+St. Theresa'S Hospital,Private,Multispecialty / General,,0.0,0.0,Rajajinagar,Karnataka,Bengaluru Urban,13.0061399,77.5537558
+Suguna Hospital,Private,Multispecialty / General,,0.0,0.0,"1A/87, Dr.Rajkumar Road, 4th N Block, Rajajinagar",Karnataka,Bengaluru Urban,12.988145,77.560033
+Sun Orthopaedic Hospital,Private,Ortho / Trauma,,0.0,0.0,"24, Brindaban Nagar, 80 Feet Main Road, Mathikere",Karnataka,Bengaluru Urban,13.0267169,77.6312652
+The Bengaluru Hospital,Private,Multispecialty / General,,0.0,0.0,"202, Rashtriya Vidyalaya road,\nBasavanagudi",Karnataka,Bengaluru Urban,12.937683,77.580401
+The Eye Foundation,Private,Eye / Ophthalmology,,0.0,0.0,"79/5, Outer Ring Road, Bellandur",Karnataka,Bengaluru Urban,12.9233078,77.672381
+Trinity Hospital And  Heart Foundation,Private,Cardiac,,0.0,0.0,"Near R.V.Teachers College Circle, Basavanagudi",Karnataka,Bengaluru Urban,12.9436431,77.5799234
+"Vasan Eye Care Hospital, Banaswadi",Private,Eye / Ophthalmology,,0.0,0.0,"#205-4c, 4th Cross, 3 Road Block",Karnataka,Bengaluru Urban,12.9174767,77.5460289
+"Vasan Eye Care Hospital, Hsr Layout",Private,Eye / Ophthalmology,,0.0,0.0,"1127/A, 7th Sector, Near Bda Complex",Karnataka,Bengaluru Urban,12.9618305,77.6378198
+"Vasan Eye Care Hospital, Jayanagar",Private,Eye / Ophthalmology,,0.0,0.0,"No.28 and  29, 7 Th Main Diagonal Road, Jayanagar",Karnataka,Bengaluru Urban,12.9290883,77.5819886
+"Vasan Eye Care Hospital, Koramangala",Private,Eye / Ophthalmology,,0.0,0.0,"No.897/C, 80 Feet Road, 6th Block, Koramangala",Karnataka,Bengaluru Urban,12.9387563,77.6260423
+"Vasan Eye Care Hospital, Marathalli",Private,Eye / Ophthalmology,,0.0,0.0,"No.25/5 D, Outer Ring Road, Marathalli",Karnataka,Bengaluru Urban,12.9167541,77.6111065
+"Vasan Eye Care Hospital, Nagarabhavi",Private,Eye / Ophthalmology,,0.0,0.0,"No-5, 20 Th Cross, Malagala Under Pass Ring Road",Karnataka,Bengaluru Urban,12.9746047,77.514911
+"Vasan Eye Care Hospital, R.T.Nagar",Private,Eye / Ophthalmology,,0.0,0.0,"No.533, 108 Bus Stop, Ganganagar",Karnataka,Bengaluru Urban,13.0150223,77.6511543
+"Vasan Eye Care Hospital, Rajarajeswari Nagar",Private,Eye / Ophthalmology,,0.0,0.0,"#483, 16 Th Cross, 8 Th Main",Karnataka,Bengaluru Urban,12.9451479,77.5977548
+Vijaya Ent Care Centre,Private,Multispecialty / General,,0.0,0.0,"Super Speciality Otology Centre, No.1, 9th Cross Malleshwaram",Karnataka,Bengaluru Urban,13.0000884,77.5670569
+Vijayashree Hospitals,Private,Multispecialty / General,9686825522.0,0.0,0.0,"#3, Gottigere, Bannerghatta Main Road",Karnataka,Bengaluru Urban,12.8561618,77.5889291
+Vinayaka Hospital,Private,Multispecialty / General,,0.0,0.0,"110, 1st Main, Sbm Colony, Bsk 1st Stage Hanumantha Nagar",Karnataka,Bengaluru Urban,13.0296311,77.5911303
+Vishwabharathi Hospital Private Limited,Private,Multispecialty / General,,0.0,0.0,"No.10/4, 3rd Main Road, Hanumanthanagar",Karnataka,Bengaluru Urban,12.9247108,77.5438845
+Vydehi Institute Of Medical Sciencs And  Research Center,Private,Multispecialty / General,,0.0,0.0,"#82, Epip Area, White Field",Karnataka,Bengaluru Urban,12.9722607,77.7175003
+Yashomati Hospitals Pvt.Ltd.,Private,Multispecialty / General,,0.0,0.0,"# 2371 / 3, Hal Airport Varthur Road",Karnataka,Bengaluru Urban,12.9556983,77.7112837
+Yellamma Dasappa Hospital,Private,Multispecialty / General,,0.0,0.0,"25, Andree Road, Shanti Nagar",Karnataka,Bengaluru Urban,12.9607569,77.594633
+Zion Hospital And Research Centre Pvt.Ltd.,Private,Multispecialty / General,,0.0,0.0,"No.1, 1 Cross Rananurthy Road",Karnataka,Bengaluru Urban,13.014682,77.6702166
+Ananya Hospital,Private,Cardiac,,,,"No.389/44, 19th Main, 1st Block, Rajajinagar",Karnataka,Bengaluru Urban,12.999754,77.550445
+Columbia Asia Referral Hospital,Private,Cardiac,,,,"26/4, Brigade Gateway, Malleswaram West",Karnataka,Bengaluru Urban,13.0123801,77.5570553
+"Kidwai Cancer Institute, Bangalore",Private,Oncology,,,,Dr.M.H Marigowda Road,Karnataka,Bengaluru Urban,12.9372107,77.6018794
+BGS Global Hospitals,Private,Cardiac,,,,"67, Uttarahalli Road, Kengeri",Karnataka,Bengaluru Urban,12.9026124,77.519571
+Vagus Super Speciality Hospital,Private,Cardiac,,,,"6/7/8, 4th Main, 18th Cross, Chitrashilpi Venkatappa Road, Malleshwaram",Karnataka,Bengaluru Urban,13.008767,77.5657871
+Mallya Hospital,Private,Cardiac,,,,No.2 Vittal Mallya Road,Karnataka,Bengaluru Urban,12.9679749,77.595018
+"Nova Specialty Surgery Center, Koramangala",Private,Oncology,,,,"Opus, 143, 1st Cross, 5th Block, Koramangala",Karnataka,Bengaluru Urban,12.9337039,77.6214323
+Sri Jayadeva Institute of Cardiovascular Sciences and Research,Private,Cardiac,,,,"9th Block, Bannerghatta Road, Jayanagar",Karnataka,Bengaluru Urban,12.9168029,77.6001668
+Bangalore Baptist Hospital,Private,Cardiac,,,,"Hebbal, Bellary Road",Karnataka,Bengaluru Urban,12.9715987,77.5945627
+Bangalore Institute of Oncology,Private,Cardiac,,,,"No 8, P.Kalinga Rao Road, Sampangiram Nagar",Karnataka,Bengaluru Urban,12.9647552,77.5908972
+Bowring and Lady Curzon Hospital,Public,Cardiac,,,,"Lady Curzon Road, Shivaji Nagar",Karnataka,Bengaluru Urban,12.9832684,77.60342
+Vikram Hospital,Private,Cardiac,,,,"No.71/1, Millers Road",Karnataka,Bengaluru Urban,-37.870742,144.83787
+Shekar Nethralaya,Private,Eye / Ophthalmology,,,,"3rd Phase, 633, 100 Feet Ring Road, J.P.Nagar",Karnataka,Bengaluru Urban,12.906406,77.5958928
+Nethradhama Superspeciality Eye Hospital,Private,Eye / Ophthalmology,,,,"256/14, Kanakapura Main Road, 7th Block, Jayanagar",Karnataka,Bengaluru Urban,12.925255,77.577359
+Hosmat Hospital,Private,Cardiac,,,,"45, Magrath Road, Off Richmond Road",Karnataka,Bengaluru Urban,12.9687069,77.6145906
+Marvel hospitals and Fertility centre,Private,Cardiac,,,,"No-8 1st Main, 1st Block Koramangala",Karnataka,Bengaluru Urban,12.9266059,77.6377755
+"Atreya Ayurvedic Medical College, Hospital and Research Centre",Private,Multispecialty / General,,0.0,0.0,"Kakkalli Road, Kodigehalli Post, Doddaballapur Taluk, Bengaluru Rural",Karnataka,Bengaluru Rural,13.2846993,77.6077865
+V Care Hospital,Private,Multispecialty / General,,0.0,0.0,"No.29, 1st Main Road, 1st A Block",Karnataka,Bengaluru Urban,29.9947737,31.3050458

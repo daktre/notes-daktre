@@ -1,0 +1,19 @@
+---
+created: 2025-10-26T12:30
+updated: 2021-02-25T10:22
+---
+<span style="font-size:15pt;">Thank you for hte opportunity to review this submission, a commentary that seeks to advance the application of systems thinking (ST) in health by critically evaluating key developments in the last decade with respect to resources available for applying ST, their acceptance and impact. Authors identify 3 key points with respect to this and identify possible ways of addressing these. The commentary is timely and relevant to researchers and other health system actors who are following the methodological advancements for integrating complexity and systems thinking in health.</span> 
+
+<span style="font-size:15pt;">The claim that the “transformative potential of ST concepts into practice especially in LMICs has not been fully recognised” needs further clarity. If this is being asserted merely on the basis of the lack of publications in this domain (authors cite Carey et. al. 2015) then this may not only be due to lack of recognition of ST in LMICs. Barriers to advancing particular methods in LMICs are beyond acceptance of these methods by the research community and availability of examples and resources. So, this assumption/claim needs further nuancing in my assessment. Indeed this overarching wider systemic/policy environment features in many LMICs may impede advancement of ST</span> <span style="font-size:15pt;"><u>even if</u></span> <span style="font-size:15pt;">the key issues identified by the authors are addressed.</span> 
+
+<span style="font-size:15pt;">The first of two assertions postulated by the authors in line 40 is very important. There is indeed extensive evidence in published literature (especially in national level government/glboal health reports) of the conflation between health system strengthening approaches as ST. As a suggestion to the authors (perhaps outside scope of a commentary), sharing of one or two boxed items that illustrate this conflation where a report/publication may have been better served clarifying its terminology as being rooted in “health systems” frameworks (vs ST/CAS theory) may be useful. This point made by the authors may be an important HPSR practice element that ought to be widely discussed/debated.</span>  
+<span style="font-size:15pt;">The section “ST in and for policymaking and practice while succinct is weaker than the previous one on “what do we mean by systems approaches”. I struggled to understand the overall point/inference of this section (vis-a-vis the previous one which had a very clear point). Although the section makes valid points, my suggestion to the authors to sharpen this section. See for eg. the assertion “exposure to ST concepts alone is not insufficient” (is this correct?). Further, this section relates to observations I made earlier about wider factors in the policy environment that may affect ST beyond the scope of points addressed in this paper. For eg. how many LMIC governments may have structures that are ABLE to benefit from the “significant changes” that the OECD recommendations suggest in terms of adaptive leadership and such….</span>
+
+<span style="font-size:15pt;">Another thing to consider is that ST even if applied by researchers or other health system actors may not be reflected in peer-reviewed publications. This too is a limitation of the commentary over-relying on published peer-reviewed literature. (cf. third recommendation of the authors for eg. speaks to this)</span>
+
+<span style="font-size:15pt;">Finally, I wonder if the authors may consider how funders and global health actors’ own roles in advancing ST instead of situating entire responsibility for this upon researchers/natioanl/sub-national health system actors. Current focus of grants has limited push for applicants to embrace ST albeit this is changing</span>
+---
+Last updated: 2025-12-30 16:02
+
+---
+Last updated: 2025-12-30 16:03
