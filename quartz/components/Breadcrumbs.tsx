@@ -10,21 +10,9 @@ type CrumbData = {
 }
 
 interface BreadcrumbOptions {
-  /**
-   * Symbol between crumbs
-   */
   spacerSymbol: string
-  /**
-   * Name of first crumb
-   */
   rootName: string
-  /**
-   * Whether to look up frontmatter title for folders (could cause performance problems with big vaults)
-   */
   resolveFrontmatterTitle: boolean
-  /**
-   * Whether to display the current page in the breadcrumbs.
-   */
   showCurrentPage: boolean
 }
 
@@ -37,7 +25,7 @@ const defaultOptions: BreadcrumbOptions = {
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
   return {
-    displayName: displayName.replaceAll("-", " "),
+    displayName: displayName.replaceAll("-", " ").replace(/^\d+\.\s*/, ""),
     path: resolveRelative(baseSlug, currentSlug),
   }
 }
@@ -64,7 +52,6 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
         crumb.displayName = options.rootName
       }
 
-      // For last node (current page), set empty path
       if (idx === pathNodes.length - 1) {
         crumb.path = ""
       }
