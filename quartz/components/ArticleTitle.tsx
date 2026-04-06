@@ -2,7 +2,8 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 
 const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
-  const title = fileData.frontmatter?.title
+  const raw = fileData.frontmatter?.title
+  const title = raw?.replace(/^\d+\.\s*-?\s*/, "")
   if (title) {
     return <h1 class={classNames(displayClass, "article-title")}>{title}</h1>
   } else {
