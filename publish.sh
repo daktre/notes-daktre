@@ -1,7 +1,16 @@
 #!/bin/bash
 
 echo "🌿 Syncing notes from Obsidian vault..."
-cp -r "/Users/prashanthns/Library/Mobile Documents/iCloud~md~obsidian/Documents/notes-remote/." ~/Sites/notes-daktre/content/
+rsync -av --delete \
+  --exclude='.git/' \
+  --exclude='.obsidian/' \
+  --exclude='Templates/' \
+  --exclude='scripts/' \
+  --exclude='_generated/' \
+  --exclude='Local/' \
+  --exclude='Local folder/' \
+  "/Users/prashanthns/Library/Mobile Documents/iCloud~md~obsidian/Documents/notes-remote/" \
+  ~/Sites/notes-daktre/content/
 
 echo "📦 Staging changes..."
 cd ~/Sites/notes-daktre
