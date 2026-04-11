@@ -1,7 +1,0 @@
-# Publications — 2018
-
-- [[publications/2018-perception-of-health-care-staffs-knowledge-attitudes-and-practices-and-of-potential-barriers-toward-contai-0b49c527.md|Perception of health-care staff's knowledge, attitudes, and practices and of potential barriers toward containing antibiotic resistance in public health-care facilities of …]] — *Annals of Tropical Medicine and Public Health*
-- [[publications/2018-perception-of-health-care-staffs-knowledge-attitudes-and-practices-and-of-potential-barriers-toward-contai-b5756543.md|Perception of health-care staff's knowledge, attitudes, and practices and of potential barriers toward containing antibiotic resistance in public health-care facilities of …]] — **
-- [[publications/2018-perceptions-of-the-quality-of-generic-medicines-implications-for-trust-in-public-services-within-the-local-ac6bd8f3.md|Perceptions of the quality of generic medicines: implications for trust in public services within the local health system in Tumkur, India]] — *BMJ global health 2 (Suppl 3)*
-- [[publications/2018-preparedness-for-delivering-non-communicable-disease-services-in-primary-care-access-to-medicines-for-diab-5d732e7a.md|Preparedness for delivering non-communicable disease services in primary care: access to medicines for diabetes and hypertension in a district in south India]] — *BMJ global health 2 (Suppl 3)*
-- [[publications/2018-towards-a-healthy-india-pop00120.md|Towards a healthy India]] — **

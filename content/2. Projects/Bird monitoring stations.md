@@ -10,7 +10,7 @@ One of the several ways to set up one's own bioacoustic device would be the Bird
 
 While my  Birdnet-Pi is still being assembled, I couldnt resist the possibilty of setting up my own monitoring station using the Birdweather's own Portable Universal Codec ([Birdweather PUC](https://www.birdweather.com/shop-birdweather-puc)). Much much more expensive than the Birdnet-Pi but i couldnt help but....so here goes my live-feed of birds from my station location in southern Mysore!
 
-I have named my Birdweather PUC-based listening station as *Stapes* after the last of the ear bones. 
+I have named my Birdweather PUC-based listening station as *Stapes* after the last of the ear bones. After an initial stint/test in Mysore, *Stapes* is now listening to birds at BR Hills!
 
 <figure>
   <iframe 
@@ -23,7 +23,7 @@ I have named my Birdweather PUC-based listening station as *Stapes* after the la
   </figcaption>
 </figure>
 
-Meanwhile here is the explorer to see such bioacoustic activity anywhere in the world including all types of listening stations. Mine appears to be the 4th such station from India (as on 8 Feb 2025). Hopefully if my Birdnet-Pi goes up soon, that too will be among few operational yet - I see one in Bangalore rather interestingly named *Cantus bengalensis* perhaps after the cantus firmus melody(?).
+Here is the explorer to see such bioacoustic activity anywhere in the world including all types of listening stations. Mine appears to be the 4th such station from India (as on 8 Feb 2025). Hopefully if my Birdnet-Pi goes up soon, that too will be among few operational yet - I see one in Bangalore rather interestingly named *Cantus bengalensis* perhaps after the cantus firmus melody(?).
 
 <figure>
 <iframe 
@@ -36,4 +36,4 @@ Meanwhile here is the explorer to see such bioacoustic activity anywhere in the 
 	</figure>
 
 
-Last updated: 2026-02-08 16:38
+Last updated: 2026-04-11 11:12

@@ -1,14 +1,19 @@
 #!/bin/bash
 
 echo "🌿 Syncing notes from Obsidian vault..."
-rsync -av --delete \
+rsync -av --delete --delete-excluded \
   --exclude='.git/' \
   --exclude='.obsidian/' \
+  --exclude='.venv/' \
   --exclude='Templates/' \
   --exclude='scripts/' \
   --exclude='_generated/' \
-  --exclude='Local/' \
+  --exclude='Local' \
   --exclude='Local folder/' \
+  --exclude='.DS_Store' \
+  --exclude='*.heic' \
+  --exclude='*.docx' \
+  --exclude='*.base' \
   "/Users/prashanthns/Library/Mobile Documents/iCloud~md~obsidian/Documents/notes-remote/" \
   ~/Sites/notes-daktre/content/
 

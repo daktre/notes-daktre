@@ -1,5 +1,0 @@
-# Publications — 2019
-
-- [[publications/2019-affirmative-action-minorities-and-public-services-in-india-charting-a-future-research-and-practice-agenda-pop00040.md|Affirmative action, minorities, and public services in India: Charting a future research and practice agenda]] — *Indian journal of medical ethics*
-- [[publications/2019-implementation-research-with-the-soliga-indigenous-community-in-southern-india-for-local-action-on-improvi-edb68a5b.md|Implementation research with the Soliga indigenous community in southern India for local action on improving maternal health services]] — *Giridhar and Nuggehalli Srinivas, Prashanth, Implementation Research With …*
-- [[publications/2019-towards-health-equity-and-transformative-action-on-tribal-health-theta-study-to-describe-explain-and-act-o-71dcd07a.md|Towards Health Equity and Transformative Action on tribal health (THETA) study to describe, explain and act on tribal health inequities in India: a health systems research …]] — *Wellcome Open Research*
