@@ -3,6 +3,6 @@ The idea that walls can encourage *slow-looking* and hence create spaces for con
 1. [[walls-initiative-bilingual]] at IPH Bengaluru
 2. [[PNS Poems (for printdisplay)]]
 3. Various other list of display printing pipeline of personal bodypolitic that is not yet consolidated --> TBD
-4. 4. [[Smriti-Sanchaya-ಸ್ಮೃತಿ-ಸಂಚಯ]] — IPH institutional archive and Kaanu staging area
+4. [[Smriti-Sanchaya-ಸ್ಮೃತಿ-ಸಂಚಯ]] — IPH institutional archive and Kaanu staging area
 
 Last updated: 2026-03-19 15:12

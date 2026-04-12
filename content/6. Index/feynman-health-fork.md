@@ -70,6 +70,10 @@ Lot of the important knowledge is in datasets (NFHS unit data, HMIS, GBD), legal
 
 Ideally a local document pathway, a way to source PDFs and structured data from a curated institutional repo/archive directly into the session. Something like Feynman's session search but seeded with a maintained library of Indian health policy materials. That's probably a later-stage feature, but it's the thing that would differentiate a useful HPSR tool from one that is just better at finding PubMed papers.
 
+## Interim outputs
+1. See this test on [[Effectiveness of India's ASHA Programme]] & its [[Provenance Record for ASHA Programme Effectiveness India|provenance record]] - this has used Pubmed & HPSR!
+2. 
+
 ## Follow-up
 
 - [ ] Explore whether anyone else in the HPSR or PH informatics community is already working on something similar - worth checking before investing heavily
