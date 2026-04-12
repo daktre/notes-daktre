@@ -1,15 +1,14 @@
 ---
-
-title: Smriti-Sanchaya ಸ್ಮೃತಿ-ಸಂಚಯ tags:
-
-- sanchaya
-- iph
-- archive
-- kaanu
-- staging date: 2026-04-12
-
+title: Smriti-Sanchaya ಸ್ಮೃತಿ-ಸಂಚ
+tags:
+ - sanchaya
+ - iph
+ - archive
+ - kaanu
+staging_date: "2026-04-12"
 ---
 
+# Smriti-Sanchaya ಸ್ಮೃತಿ-ಸಂಚಯ
 
 _IPH Bengaluru Institutional Archive and Living Memory_
 
@@ -24,6 +23,9 @@ Smriti-Sanchaya (ಸ್ಮೃತಿ-ಸಂಚಯ) is IPH Bengaluru's institution
 The project connects to the Kaanu collective's work through the Doddasampige Adivasi studies bibliography and the emerging Portraits of 12 Adivasi Communities project. Both Kaanu collections are proposed to be hosted within Sanchaya's infrastructure as independent, named sites — separate from IPH's institutional memory but sharing the same server.
 
 The initiative is led by **Prashanth NS**, **Abhinav Tyagi**, and **Upendra Bhojani**.
+
+---
+
 ## The web launch text
 
 Abhinav has written the bilingual invitation text that will appear on the portal's public landing page. It is reproduced here in full for review.
@@ -69,6 +71,8 @@ An interactive demo of the full portal has been built, showing all four sections
 
 > [!note] Demo available on request The interactive demo is available via Prashanth. The concept note document includes screenshots of all four screens.
 
+---
+
 ## Documents for review
 
 ### Smriti-Sanchaya Concept Note (v0.2, April 2026)
@@ -79,7 +83,7 @@ Full project concept: purpose and framing, name and bilingual context, portal de
 
 - Does the framing feel right for the audience we intend to reach?
 - Does the scope of six categories capture everything? Anything missing or redundant?
-- Does the role assignment in the roadmap look reasonable - particularly the Phase 2 pilot (Abhinav + Upendra inviting senior colleagues)?
+- Does the role assignment in the roadmap look reasonable — particularly the Phase 2 pilot (Abhinav + Upendra inviting senior colleagues)?
 - Should ITW materials be a future Sanchaya collection?
 
 ### Kaanu & Sanchaya Integration Plan (April 2026)
@@ -91,6 +95,7 @@ Architecture document covering: the atelier/archive distinction (Kaanu as workin
 - Does the atelier/archive distinction make sense as a working principle?
 - Is the Portraits workflow (draft in Obsidian → publish to Sanchaya when ready) workable for the collective?
 - Domain: keep kaanu.daktre.com canonical and redirect from kaanu.iphbengaluru.res.in? Or move fully to the IPH subdomain?
+
 ### Metadata Schema and Configuration Reference (April 2026)
 
 Technical document: field-by-field specification of the submission form, Dublin Core metadata mappings, Omeka S setup sequence. Primarily for the technical configuration phase but useful for understanding what contributors are asked to provide.
@@ -110,6 +115,9 @@ A single Omeka S installation can host multiple independent sites. The roadmap e
 |**Policy Archive**|Consultation responses, policy briefs, public submissions|Future|
 
 _Kaanu's Quartz site (kaanu.daktre.com) stays on its own platform. It links to Sanchaya items by URL but does not live inside Omeka. The relationship is one of voluntary deposit, not subsumption._
+
+---
+
 ## Phased roadmap
 
 |Phase|Focus|Who|Approx. timeline|
@@ -121,13 +129,17 @@ _Kaanu's Quartz site (kaanu.daktre.com) stays on its own platform. It links to S
 |4 — Doddasampige|WIKINDX export → Omeka S import, bibliographic site|PNS|Months 3–4|
 |5 — Timeline and display|15–20 Timeline Star items, TimelineJS, anniversary exhibit|PNS|Month 5+|
 
+---
+
 ## Open questions
 
-1. **Pilot group**: who beyond the three of us should be in the first round? Devadasan certainly. Who else?
-2. **ITW**: should ITW materials be a future Sanchaya collection?
-3. **Kaanu domain**: redirect from iphbengaluru.res.in, or full move?
-4. **Oral history accessibility**: how do we support contributors who are less comfortable with digital tools?
-5. **Seed items**: what ten to fifteen items should we add before the pilot opens? PNS and UB to identify together.
+1. **Pilot group** — who beyond the three of us should be in the first round? Devadasan certainly. Who else?
+2. **ITW** — should ITW materials be a future Sanchaya collection?
+3. **Kaanu domain** — redirect from iphbengaluru.res.in, or full move?
+4. **Oral history accessibility** — how do we support contributors who are less comfortable with digital tools?
+5. **Seed items** — what ten to fifteen items should we add before the pilot opens? PNS and UB to identify together.
+
+---
 
 ## How to engage
 
@@ -136,5 +148,3 @@ Write to Prashanth NS or Abhinav Tyagi. Documents available on request. Once the
 ---
 
 _Related: [[Wall-Stories-ಗೋಡೆಕಥೆಗಳು]] · [[Kaanu ಕಾನು]] · Part of the daktre.com and iphbengaluru.res.in web_
-
-Last updated: 2026-04-12 14:43
