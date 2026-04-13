@@ -14,74 +14,83 @@ related:
 ---
 [Feynman](https://github.com/getcompanion-ai/feynman) is an open-source AI research agent. It's a CLI tool that (claims to) does literature reviews, deep research briefs, simulated peer review, and paper drafting.  The problem for me is that its entire academic source layer runs through [AlphaXiv](https://www.alphaxiv.org), which is basically a smart interface on top of [arXiv](arxiv.org). So it covers comp sci, physics, maths, quant bio and such. It does not perhaps even know whether PubMed exists.
 
-For people working in public health, [[Health policy and systems research|HPSR]], epidemiology, health systems, or anything qual/soc-sci types, this is not use-able. The tool also has a bunch of workflows (GPU experiment replication, paper-vs-codebase audits) that are completely irrelevant to public health work. So the question is: what would it take to fork this and make it actually useful for public health folks?
+For people working in public health, [[Health policy and systems research|HPSR]], epidemiology, health systems, or anything qual/soc-sci types, this is not use-able. The tool also has a bunch of workflows (GPU experiment replication, paper-vs-codebase audits) that are completely irrelevant to public health work. So the question is: what would it take to fork this and make it useful for public health folks?
 
-Feynman's agent behaviour runs on "skills" which are basically Markdown instruction files sitting in `~/.feynman/agent/skills/`. When the researcher agent decides how to search, what to prioritise, how to evaluate sources, all of that logic lives in text files you can rewrite. 
+Feynman's agent behaviour runs on "skills" which are basically Markdown instruction files sitting in `~/.feynman/agent/skills/`. When the researcher agent decides how to search, what to prioritise, how to evaluate sources, all of that stuff lives in files we can rewrite. 
 
-The harder part is the source of the stuff. AlphaXiv gives Feynman full-text paper access, citation chains, and Q&A on specific papers, all of that has to be rebuilt pointing at the right databases. But the APIs we need (PubMed E-utilities, WHO IRIS) are free and well-documented. 
+The harder part is the source layer itself, which requires building new CLI tool integrations pointing at the right databases. AlphaXiv gives Feynman full-text paper access, citation chains, and Q&A on specific papers, all of that has to be rebuilt pointing at the right databases. But the APIs we need (PubMed E-utilities, WHO IRIS) are free and well-documented. A non-developer like me can edit skills as needed. Might need bit of help from developer to build the source connectors. 
 
-A non-developer like me can edit skills as needed. Might need bit of help from developer to build the source connectors. 
+###  Editing the skills 
 
-## The plan
+Two skills writtn in April 2026 and now installed and tested. Both are Markdown instruction files that live in `~/.feynman/agent/skills/` and change how the Researcher agent thinks and searches.
 
-###  Edit the skills 
+**`pubmed-research`** redirects the agent's source priority away from AlphaXiv/arXiv entirely. It gets the agent to query PubMed first using MeSH terms rather than free-text keyword guessing, how to construct NCBI E-utilities API calls, how to reach Cochrane and medRxiv, and critically how to evaluate study quality by design rather than by citation count. It also flags the geographic relevance problem: don't over-weight high-income country evidence for LMIC questions.
 
-This is where most of the field/discipline-specific intelligence should live. 
+**`hpsr-epistemology`** is probably the more original contribution. It teaches the agent an entirely different epistemological framework: that qualitative evidence is good not fallback; that grey literature (WHO reports, MoHFW documents, NHSRC publications, parliamentary standing committee reports) is primary evidence as well; that implementation questions need CASP/GRADE/ROBINS-I appraisal logic rather than RCT-hierarchy logic, and that context-sensitivity is a feature of HPSR, not to be treated as a weakness. 
 
-A **`pubmed-research.md`** skill that tells the Researcher to query PubMed first, use MeSH terms rather than free-text guessing, and understand that systematic reviews and primary epidemiological studies are different kinds of evidence that get weighted differently.
+Both skills are visible in the output. The first test run on "ASHA programme effectiveness India" produced 19 sources, all from PubMed/PMC, Lancet, BMJ, and NHSRC government reports - zero arXiv papers. The output distinguished between pilot/special intervention evidence (overwhelmingly positive, 77%) and routine programme evidence (mixed, 55% -- negative, 23%), which is exactly the implementation-sensitive framing the `hpsr-epistemology` skill was written to produce. 
 
-An **`hpsr-epistemology.md`** skill that teaches the agent that qualitative studies, mixed-methods designs, and implementation science papers are first-class evidence. Right now the tool basically treats anything that isn't a quantitative paper as a fallback web result. That has to change for HPSR work.
 
-A **`grey-literature.md`** skill telling the Researcher to treat WHO reports, MoHFW documents, NHSRC publications, state NHP materials, parliamentary standing committee reports, and IIPS data as primary sources.
+Both core skills written and installed. 
 
-A **`reviewer-appraisal.md`** skill that replaces the default peer review criteria with CASP checklists for qualitative work, Cochrane risk-of-bias logic for trials, and GRADE framing for evidence synthesis. The `/review` workflow could then actually be useful for PH peer reviewers.
+**Still to write:**
 
-A **`policy-writer.md`** skill teaching the Writer agent what a policy brief looks like, how a rapid evidence review is structured, and how HPSR synthesis papers differ from standard journal articles.
+A **`grey-literature`** skill instructing the Researcher to systematically reach WHO IRIS, NHSRC, IIPS, NITI Aayog health chapters, SRS data, and state NHM materials. 
 
-###  source connectors 
+A **`reviewer-appraisal`** skill replacing the default peer review criteria with CASP checklists for qualitative work, Cochrane risk-of-bias logic for trials, and GRADE framing for evidence synthesis. Makes the `/review` workflow useful for public health peer reviewers.
 
-The key connector is a `pubmed` CLI tool wrapping NCBI's E-utilities (esearch + efetch). This would be the direct equivalent of the `alpha` CLI that Feynman uses for AlphaXiv. It needs to: search by keyword, MeSH term, and date range; retrieve full metadata; and pull abstracts and PMIDs. This needs some work.
+A **`policy-writer`** skill teaching the Writer agent what a policy brief looks like, how a rapid evidence review is structured, and how HPSR synthesis papers differ from standard journal articles.
 
-After that, a [[WHO IRIS]] connector using their OAI-PMH endpoint. The Cochrane REST API for abstracts and Plain Language Summaries is also worth adding. Full text requires institutional access but the summary layer is free and useful for scoping.
+### source connectors (needs a developer)
 
-For India-specific content, there's no single API. The realistic approach is a curated URL list that the web search agent is explicitly instructed to prioritise: NFHS, HMIS, NHSRC reports, NITI Aayog health chapters, SRS data. Plus a local PDF ingestion path for frequently-used institutional documents that aren't publicly indexed.
+The key connector is a `pubmed` CLI tool wrapping NCBI's E-utilities (esearch + efetch) -- the direct equivalent of the `alpha` CLI Feynman uses for AlphaXiv. Needs to: search by keyword, MeSH term, and date range; retrieve full metadata; pull abstracts and PMIDs. NCBI API is free, no authentication needed for basic use. 
 
-### New workflows 
+After that: WHO IRIS connector via their OAI-PMH endpoint; Cochrane REST API for abstracts and Plain Language Summaries (full text needs institutional access but the summary layer is free and useful for scoping); India-specific curated URL corpus for NFHS, HMIS, NHSRC, and MoHFW materials.
 
-The workflows to retire: `/audit` (paper vs codebase audit), `/replicate` (GPU experiment replication).
+### new workflows 
 
-The workflows to add:
+Workflows to retire: `/audit` (paper vs codebase is noyt needed ), `/replicate` (GPU experiment replication also irrelevant).
 
-`/sysrev` for systematic review support -- PICO formulation, PRISMA-compatible search string generation for PubMed and Cochrane, deduplication, PRISMA flow outline. This won't replace Covidence or Rayyan for the screening phase, but it compresses the early scoping work substantially.
+Workflows to add:
 
-`/policybrief` to synthesise evidence into a structured brief -- problem statement, evidence summary, policy options, implementation considerations. Useful for rapid-turnaround work and grant background sections.
+`/sysrev` -- PICO formulation, PRISMA-compatible search string generation for PubMed and Cochrane, deduplication scaffolding, PRISMA flow outline. Won't replace [[Covidence]] or Rayyan for the screening phase, but compresses early scoping substantially.
 
-`/appraise` applying CASP, GRADE, or ROBINS-I to a supplied document. The Reviewer agent already does something structurally similar; it just needs the skills layer to specify the right frameworks.
+`/policybrief` -- synthesise evidence into a structured brief with problem statement, evidence summary, policy options, implementation considerations.
 
-`/burden` to aggregate epidemiological data from GBD, NFHS, DLHS, and state health bulletins into a usable summary. Useful for grant writing.
+`/burden` -- aggregate epidemiological data from GBD, NFHS, DLHS, and state health bulletins into a usable summary for grant background sections.
 
-`/greylit` explicitly instructing the Researcher to prioritise institutional and government sources over academic journals for a query.
+`/greylit` -- explicitly instructs the Researcher to prioritise institutional and government sources over academic journals for a query.
 
-`/watch` already exists in the base tool and transfers directly -- monitoring new WHO guideline updates, Lancet publications on a topic, or MoHFW policy notifications.
+`/watch` already exists in base Feynman and transfers directly -- useful for monitoring WHO guideline updates, new Lancet publications on a topic, MoHFW policy notifications.
+
 
 ## What would make this more than just "Feynman but for PubMed"
 
-Lot of the important knowledge is in datasets (NFHS unit data, HMIS, GBD), legal instruments (Essential Medicines List, Clinical Establishment Act, budget documents), and grey process documents that aren't publicly indexed anywhere.
+A lot of the most important HPSR knowledge is not in text documents at all. It is in datasets (NFHS unit data, HMIS, GBD), legal instruments (Essential Medicines List, Clinical Establishment Act, budget documents), and grey process documents that are not publicly indexed anywhere. A well-designed fork needs a local document repository, a way to feed PDFs and structured data from a curated institutional archive/repo directly into the session. Something like Feynman's session search but seeded with a library of Indian health policy materials. Later-stage feature, but the one that would actually differentiate this from just a better PubMed search tool.
 
-Ideally a local document pathway, a way to source PDFs and structured data from a curated institutional repo/archive directly into the session. Something like Feynman's session search but seeded with a maintained library of Indian health policy materials. That's probably a later-stage feature, but it's the thing that would differentiate a useful HPSR tool from one that is just better at finding PubMed papers.
+---
 
 ## Interim outputs
-1. See this test on [[Effectiveness of India's ASHA Programme]] & its [[Provenance Record for ASHA Programme Effectiveness India|provenance record]] - this has used Pubmed & HPSR!
-2. 
+
+- [[Effectiveness of India's ASHA Programme]] -- first test run, literature review, 19 sources, all health literature, implementation-sensitive framing visible
+- [[Provenance Record for ASHA Programme Effectiveness India]] -- source tracking, verification status, documents skill behaviour
+
+---
 
 ## Follow-up
 
-- [ ] Explore whether anyone else in the HPSR or PH informatics community is already working on something similar - worth checking before investing heavily
-- [ ] Draft the `pubmed-research.md` skills file as a proof of concept 
-- [ ] Check NCBI E-utilities API documentation for rate limits and authentication requirements
-- [ ] Talk to someone with Node.js/Python capacity who might want to build the PubMed connector
-- [ ] Look at what [[Elicit]] and [[Consensus]] already do for systematic review support, to avoid reinventing what they do well
-- [ ] Identify 3-4 specific research tasks from current work at [[IPH Bengaluru]] that could test whether this fork is actually delivering -- don't evaluate in the abstract
+- [x]  Draft `pubmed-research.md` skill
+- [x]  Draft `hpsr-epistemology.md` skill
+- [x]  Install and test both skills
+- [x]  First test run -- ASHA programme effectiveness
+- [ ]  Write `grey-literature.md` skill
+- [ ]  Second test run -- NMCR scoping review (using [Implementation Strategies for Maternal Near-Miss Case Reviews in LICs and LMICs protocol](https://wellcomeopenresearch.org/articles/9-247) as reference)
+- [ ]  Write `reviewer-appraisal.md` and `policy-writer.md` skills
+- [ ]  Explore whether anyone in the HPSR or PH informatics community is working on something similar: worth checking before investing heavily
+- [ ]  Look at what [[Elicit]] and [[Consensus]] already do for systematic review support, to avoid reinventing what they do well
+- [ ]  Talk to someone with Node.js/Python capacity about the PubMed connector
+- [ ]  Decide whether this should be a public GitHub fork from the start or a private experiment first
+
 - [ ] Decide whether this should be a public GitHub fork from the start or a private experiment first
 
-Last updated: 2026-04-01 21:32
+Last updated: 2026-04-13 22:55
