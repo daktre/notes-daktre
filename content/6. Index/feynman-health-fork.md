@@ -74,6 +74,7 @@ A lot of the most important HPSR knowledge is not in text documents at all. It i
 
 - [[Effectiveness of India's ASHA Programme]] -- first test run, literature review, 19 sources, all health literature, implementation-sensitive framing visible
 - [[Provenance Record for ASHA Programme Effectiveness India]] -- source tracking, verification status, documents skill behaviour
+- [[Hospital-based interventions for self-harm in LMIC LIC 2005]]
 
 ---
 
