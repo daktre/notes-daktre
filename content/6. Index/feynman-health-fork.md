@@ -14,15 +14,21 @@ related:
 ---
 # feynman-health: forking an AI research agent for public health and HPSR
 
-**feynman-health-skills is now live.** Skills for [PubMed](https://claude.ai/chat/pubmed-research.skill) and [HPSR epistemology](https://claude.ai/chat/hpsr-epistemology.skill) are ready to install. See [the GitHub repo](https://github.com/daktre/feynman-health-skills) for installation and usage.
+**feynman-health-skills is now live.** Skills for [PubMed](https://github.com/daktre/feynman-health-skills#pubmed-research) and [HPSR epistemology](https://github.com/daktre/feynman-health-skills#hpsr-epistemology) are ready to install. See [the GitHub repo](https://github.com/daktre/feynman-health-skills) for installation and usage.
 
 This started as a fork experiment. It's become a working tool. HPSR researchers: try it and report back.
+
+## Prerequisites
+
+You need [Feynman](https://github.com/getcompanion-ai/feynman) installed first. See [Feynman's installation guide](https://github.com/getcompanion-ai/feynman?tab=readme-ov-file#installation).
+
+Once Feynman is installed, proceed below.
 
 ---
 
 ## The problem
 
-[Feynman](https://github.com/getcompanion-ai/feynman) is am AI research agent: searches, reads, synthesises, drafts. But its  source layer runs through [AlphaXiv](https://www.alphaxiv.org/) (arXiv, basically). So it knows comp sci, physics, quantitative biology. It does not know whether PubMed exists.
+[Feynman](https://github.com/getcompanion-ai/feynman) is a  good AI research agent — searches, reads, synthesises, drafts. But its entire source layer runs through [AlphaXiv](https://www.alphaxiv.org/) (arXiv, basically). So it knows comp sci, physics, quantitative biology. It does not know whether PubMed exists.
 
 For people doing health policy and systems research, epidemiology, qualitative work, this is unusable. The skills here fix that.
 
@@ -38,7 +44,7 @@ Test run: [ASHA programme effectiveness](https://notes.daktre.com/6.-Index/Effec
 
 **`hpsr-epistemology.skill`** — Encodes that qualitative studies, mixed-methods designs, implementation science papers are first-class evidence. Grey literature (WHO, government docs, NHSRC) is primary, not supplementary. Context-sensitivity is a feature.
 
-### What's NOT  ready (yet)
+### What's NOT here yet
 
 - **Subscription databases** (Embase, Web of Science, CINAHL, Ovid MEDLINE) — out of scope. Free APIs only.
 - **PubMed CLI connector** — this is the next big ask. Feynman ships with `alpha` for AlphaXiv; we need the equivalent for PubMed. Needs a developer.
@@ -88,7 +94,7 @@ Full details: [GitHub README](https://github.com/daktre/feynman-health-skills).
 
 ## For HPSR researchers
 
-Won't replace protocol-driven systematic reviews (you need Embase, Web of Science, proper screening: use Covidence or Rayyan). But useful for:
+Won't replace protocol-driven systematic reviews (you need Embase, Web of Science, proper screening — use Covidence or Rayyan). But useful for:
 
 - Rapid evidence reviews
 - Scoping review preliminary searches
@@ -110,9 +116,8 @@ Email: hello@daktre.com
 
 ---
 
-## Affiliation
 
-Built at [IPH Bengaluru](https://iph.org.in/) as part of broader work on AI tooling for health systems research.
+Built at [IPH Bengaluru](https://iphbengaluru.res.in/) as part of broader work on AI tooling for health systems research.
 
 ## See also
 
@@ -162,5 +167,3 @@ The key connector is a `pubmed` CLI tool wrapping NCBI's E-utilities (esearch + 
 After that: WHO IRIS connector (OAI-PMH), Cochrane REST API for abstracts and Plain Language Summaries, curated India-specific URL corpus (NFHS, HMIS, NHSRC, MoHFW).
 
 For India-specific content, the realistic approach is a curated URL list that the web search agent is explicitly instructed to prioritise: NFHS, HMIS, NHSRC reports, NITI Aayog health chapters, SRS data. Plus a local PDF ingestion path for frequently-used institutional documents.
-
-Last updated: 2026-04-18 12:34
