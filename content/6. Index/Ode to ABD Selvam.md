@@ -4,9 +4,9 @@ date: 2018-01-01
 tags:
   - reflection
   - existential
-  - sorrow
   - nature-in-focus
   - van-gogh
+  - poetry
 description: Total satire inspired by a chance discovery of poetry on Research Gate!
 created: 2025-10-26T12:30
 updated: 2025-06-28T12:49

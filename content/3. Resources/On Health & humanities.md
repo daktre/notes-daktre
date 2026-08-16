@@ -52,6 +52,7 @@ The film traces a peasant family loses their land and migrates to Calcutta, trac
 
 > For students unfamiliar with this period of cinema, [the Medium essay](https://medium.com/@AlviaSyed/representation-of-working-class-in-bollywood-songs-of-1950s-60s-d7a42ea390d6) *"Representation of the Working Class in Bollywood Songs of the 1950s–60s"* by Alvia Syed (dated Aug 2020) is a readable introduction to how and why this generation of artists particularly Guru Dutt, Sahir, Kaifi Azmi, Shailendra, made social critique central to mainstream film music. Available free online.
 
+
 ## pedagogy and teaching
 
 **Teaching Health Humanities: Challenges and Insights** Sathyaraj Venkatesan has shared some rflections on teaching health humanities [here on *Indian Writing in English Online* ](https://indianwritinginenglish.uohyd.ac.in) by Uni of Hyderabad. The essay shares his full module structure (physical illness, mental illness, disability, pandemics, media), reading list, and the specific challenge of building an Indian syllabus that doesn't just defer to Western canonical texts. 
