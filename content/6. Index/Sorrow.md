@@ -17,7 +17,7 @@ A deep marsh
 An unknown wilderness
 Somewhere in the spaces
 Where the mind does not see
-Nor the sound heard
+Nor the sound hears
 But the heart feels
 From where it comes
 
