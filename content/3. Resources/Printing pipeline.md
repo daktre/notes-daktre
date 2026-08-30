@@ -24,5 +24,8 @@ A wishlist of items to print and interpret at [Kaanu கான் ಕಾನು]
 4. [Socio-economic conditioning of early childhood disadvantage](https://notes.daktre.com/Socio-economic+conditioning+of+early+childhood+disadvantage)
     
 5. On debt [https://twitter.com/prashanthns/status/1734807889070662085?s=61&t=Mjj_bGDI0O-5foqlZvVcMA](https://twitter.com/prashanthns/status/1734807889070662085?s=61&t=Mjj_bGDI0O-5foqlZvVcMA)
+6. How to live in teh age of AI by Gautami Reddy; appered full page in The Hindu 
+   ![[How to live in the age of AI.jpeg]]
+7. 
 ---
 Last updated: 2025-12-30 16:03
