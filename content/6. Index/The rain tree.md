@@ -4,7 +4,7 @@ After this run: https://strava.app.link/vOtQwq3W05b
 
 # The rain tree 
 
-It reaches as if 
+It reaches as if
 defying the physics 
 of being a tree 
 
