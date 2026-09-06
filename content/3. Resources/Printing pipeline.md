@@ -26,6 +26,10 @@ A wishlist of items to print and interpret at [Kaanu கான் ಕಾನು]
 5. On debt [https://twitter.com/prashanthns/status/1734807889070662085?s=61&t=Mjj_bGDI0O-5foqlZvVcMA](https://twitter.com/prashanthns/status/1734807889070662085?s=61&t=Mjj_bGDI0O-5foqlZvVcMA)
 6. How to live in teh age of AI by Gautami Reddy; appered full page in The Hindu 
    ![[How to live in the age of AI.jpeg]]
-7. 
+7. From Gabor Mate's *The Myth of the Normal* on p.373![[Screenshot 2026-09-06 at 10.38.20 PM.png]]
+8. Douglas Adams on tech as quoted in the Guardian![[Screenshot 2026-09-06 at 10.42.58 PM.png]]
+9. Nietsczhe on books from Reddit/Scienceisdope ![[Screenshot 2026-09-06 at 10.43.45 PM.png]]
+10. 
+
 ---
 Last updated: 2025-12-30 16:03
