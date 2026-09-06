@@ -2,5 +2,9 @@ One of the important things I have learned about song, dance, and art forms is t
 
 1. [*Tu Jhoom*](https://www.youtube.com/watch?v=7D4vNcK6D38) - There is this amazing Coke Studio version of htis song that communicates beautifully the futility of high ambition and the anxiety or desire of "results". Speaks wonderuflly to the productivity boom all around! 
 2. [**Bagavat**](https://www.youtube.com/watch?v=gX2be2qQvoo) - Song sung & popularised by Dr. Haider Saif based on poem by Molana Amir Usmani (not able to find biographical information on him save for the article on the [Usmani family of Deoband](https://en.wikipedia.org/wiki/Usmani_family_of_Deoband) - i wonder if Amir Usmani is not the one from this family given the Lenin-Hitler refs in the last stanza of the song - or perhaps these are added by Saif?)
-3. 
+3. [Woh subah kabhi to aayegi](https://www.youtube.com/live/H6rjDomaA9o?si=V86FYbhmTmhtTvPx) A beautiful song of hope. Originally by Mukesh. Lyrics by Sahir Ludhianvi and perhps the music cokmposed by Khaiyyam and sung by Mukesh and Asha Bhonsle. Apparently the movie does not have the full song whic is on the LP (uploaded at link by the Atul Shah) 
+4. Jinhe naaz hai hind par woh kahan hai - hard-hitting
+5. 
+
+
 Last updated: 2026-06-20 13:32
