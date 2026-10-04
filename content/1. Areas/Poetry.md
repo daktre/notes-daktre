@@ -16,4 +16,11 @@ A possiblly later favorite was Henry Wadsworth Longfellow's *The Psalm of life* 
 - [[The rain tree]]
 
 
+
+## From my X archive
+
+- [[Rufous babblers evening racket]] (2022-08)
+- [[How often do you wonder]] (2021-02)
+- [[An Adivasi home]] (2020-12)
+
 Last updated: 2026-02-08 21:34

@@ -54,5 +54,10 @@ During the 2nd wave, Bangalore urban and many rural districts including Chamaraj
 ---
 Last updated: 2025-12-30 16:02
 
+
+## From my X archive
+
+- [[The COVID-19 third wave expert committee who was in the room]] (2021-06)
+
 ---
 Last updated: 2025-12-30 16:03

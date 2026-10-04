@@ -37,5 +37,10 @@ Key discussions from the PHC4UHC meeting at IIC (7-9 April 2025)
 - PHC as a moral imperative - inspirational, ideological but is there a "science" underlying, is there an evidence-base - characterising this and outlining what it is is needed - because should it be a "movement" or can it be studied. If latter is not possible, what implications for PHC research and such
 - PHC and PHC "understandings" - the different conceputalisations, a potential typology of how PHC is understood (family medicine, WHO/global, governments/states, activists/movements, development lit/soc sciences)
 - 
+
+## From my X archive
+
+- [[Walking to the Anganwadi]] (2020-10)
+
 ---
 Last updated: 2026-02-09 12:23

@@ -3,4 +3,9 @@ So there are multiple approaches to bring together the silo based and disciplina
 For KFD, there is  bunch of work that we put together into a CABI case-study on the [[ecosystem approach|ecosystem approach for KFD]], this and several other papers on KFD that largely explore the OneHealth approach in practice via the [[Stray notes from IndiaZooRisk+ meeting|IndiaZooRisk+ project]]. Some of this work also features in the [[Panel on One Health and Zoonoses in Vulnerable Communities at TN Khoshoo Memorial Award 2021]]
 
 
-Last updated: 2026-02-08 22:29
+
+## From my X archive
+
+- [[Evidence base for Kyasanur Forest Disease control thread on our PLOS NTDs paper]] (2021-04)
+
+Last updated: 2026-10-04 22:35

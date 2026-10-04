@@ -32,4 +32,9 @@ Select stuff referred
 7. HHRM / UCLA World Policy Analysis Center. 'Constitutional Approaches to the Right to Health.' FACT SHEET: January 2020. https://www.worldpolicycenter.org/constitutional-approaches-to-the-right-to-health
 8. Karnataka Vision Committee Report, Chapter 19-22:Government of Karnataka. ([link](https://hfwcom.karnataka.gov.in/storage/pdf-files/Latest%20News/KarnatakahealthVisionreport-summary.pdf))
 
+
+## From my X archive
+
+- [[Patients rights in Karnataka through a governmentality lens]] (2022-05)
+
 Last updated: 2026-02-28 22:24

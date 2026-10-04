@@ -13,4 +13,11 @@ Working on building a [[Karnataka Adivasi health]] resource which gives an overv
 - The BR Hills's history of tiger reserve declaration is already done and dusted and despite valiant efforts by the Sangha and the Adivasi citizens, that battle was lost - as I outlined in this short interview-based article I wrote based on [C Madegowda's involvement in the struggles](https://openthemagazine.com/features/india/son-of-the-tiger-forest).
 - Now the [[MM Hills Tiger Reserve ]]struggles are ongoing.
 - Then on [[Adivasi communities & climate change]]
+
+## From my X archive
+
+- [[Listening to Corona Maari in a Solega village]] (2021-07)
+- [[C Madappa, Soliga leader, passes on]] (2022-12)
+- [[A Solega-English dictionary is released]] (2020-07)
+
 Last updated: 2026-03-08 19:13

@@ -10,5 +10,10 @@ updated: 2025-09-28T21:42
 	3. Adivasi & Indigeneity 
 	4. Urbanism & urbanisation
 
+
+## From my X archive
+
+- [[Unfair accumulation of malnutrition in India thread on our paper]] (2021-07)
+
 ---
 Last updated: 2025-12-30 16:03

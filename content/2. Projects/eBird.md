@@ -32,5 +32,10 @@ In 2024, I committed to doing a full-year birding streak. This basically means t
 [^1]: All analysis being done in RStudio with code-support sought from ChatGPT (GPT-4o) from time to time, especially where my pipes in Tidyverse falter.
 [^2]: Done using Jupyter Notebooks on Google Colab; see the notebook [here](https://colab.research.google.com/drive/1Q9eODGagXKV5WW0-ssIEVIAX73E0nxMd?usp=drive_link)
 
+
+## From my X archive
+
+- [[A Bronzed Drongo on the morning commute]] (2022-12)
+
 ---
 Last updated: 2025-12-30 16:03
