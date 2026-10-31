@@ -8,7 +8,7 @@ This is a life-project with an after-life leap of faith.  It aims to be a public
 
 It's a kind of an effort to move beyond blogs and websites towards an inter-connected personal knowledge-base but with public archival value. 
 
-- Firstly there is my [[Bookshelf]]
+- Firstly there is my [[Bookshelf]] & an archive of all [[Public talks|public talks & resources]]
 - There's my ongoing [[Projects]] broadly in my currently active interest areas on [[Adivasi health]], [[Primary health care]], [[wildlife conservation]], [[birds and natural-history]], [[Wikipedia and knowledge meta]], [[Learning R, stats & Epi for public health|statistics & visualisation in public health]] & [[social inequalities in health]]
 - which mature into [[Areas]] of work with long-term interests typically on [[Health policy and systems research]], [[Realist evaluation]], [[Onehealth]], [[arts and health]], [[knowledge management]]
 - in course of a kind of a knowleddge-base of [[Resources]] on [[Indian public health]], [[science and society]], [[health literacy]], [[social science approaches to public health]], [[amateur radio]], [[Wikipedia and knowledge meta]] and such others start getting built up, and, of course
