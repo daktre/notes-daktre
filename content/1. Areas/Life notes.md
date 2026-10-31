@@ -17,8 +17,6 @@ updated: 2026-10-04T10:00
 Small celebrations, running, family moments and other personal milestones that do not belong to a project. Moved here from X and added to over time.
 
 
-
-
 ## From my X archive
 
 - [[Walking to the Anganwadi]] (2020-10)
