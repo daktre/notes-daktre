@@ -9,7 +9,7 @@ aliases:
   - IPH timeline review
 ---
 
-*Draft for review by IPH colleagues with institutional memory. 
+*Draft for review by IPH colleagues with institutional memory. Also see this evolving initiative [[Wall Stories ಗೋಡೆಕಥೆಗಳು]]]
 ## How this was put together
 
 Based on rapid scan and thematic analysis of my email archives from 2007 to date. 
